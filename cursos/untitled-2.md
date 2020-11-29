@@ -1,2 +1,19 @@
 # DES. WEB FULL STACK
 
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168
+
+#### [volver](../)
+
+{% tabs %}
+{% tab title="OP. SIST. TANGO GESTIÓN" %}
+* Costo $30.000
+* Desc. Alumno $8.000
+* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
+
+| Mes | PLAN DE CUOTAS |
+| :--- | :--- |
+| DIC. | $ 25.168 en 14 pagos de $1.798 |
+| ENE. | $ 23.584 en 13 pagos de $1.815 |
+{% endtab %}
+{% endtabs %}
+
