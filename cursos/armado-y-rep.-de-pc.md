@@ -5,7 +5,7 @@
 #### [volver](../)
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="ARM. Y REP. DE PC" %}
 * Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
