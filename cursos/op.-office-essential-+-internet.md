@@ -39,5 +39,5 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 #### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
 
