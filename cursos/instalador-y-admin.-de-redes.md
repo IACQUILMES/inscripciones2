@@ -19,7 +19,21 @@
 
 #### [volver](../)
 
-Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
+Convertite en un experto, dominando los conceptos, las tipologías, desempeñándote como instalador y administrador de todo tipo de redes. Éste curso, será imprescindible para quienes deseen, en un futuro, trabajar en el área técnica de grandes empresas, consultoras de sistemas y cómo una actividad independiente. Serás un elemento útil e imprescindible en el área de sistemas de cualquier empresa, tendrás habilidades técnicas en el ámbito de la informática y te permitirá resolver los habituales problemas que se desarrollan en el entorno de las organizaciones y sus redes.
 
 #### Descarga el temario completo haciendo clic abajo
+
+{% file src="../.gitbook/assets/inst.-y-admin.-redes.pdf" caption="TEMARIO" %}
+
+#### Días y horarios
+
+| Días | horarios | Vacantes |
+| :--- | :--- | :--- |
+| Lunes | 10:00 a 12:00 hrs. | 12 |
+| Miércoles | 18:30 a 20:30 hrs. | 12 |
+| Sábados | 10:00 a 12:00 hrs | 12 |
+
+#### [volver](../)
+
+### [Escribinos al WhatsApp](http://wa.me/5491164622877)
 
