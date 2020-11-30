@@ -1,3 +1,7 @@
+---
+description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+---
+
 # ARMADO Y REP. DE PC
 
 #### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168
@@ -19,7 +23,7 @@
 
 #### [volver](../)
 
-Este programa está diseñado para que incorpores las habilidades que te convertirán en un Técnico en Armado y Reparación de PC. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
+Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
 #### Descarga el temario completo haciendo clic abajo
 

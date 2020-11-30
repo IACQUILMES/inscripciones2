@@ -1,3 +1,7 @@
+---
+description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+---
+
 # INSTALADOR Y ADMIN. DE REDES
 
 #### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168
