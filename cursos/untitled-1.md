@@ -9,7 +9,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finalización Enero 2022
 #### [volver](../)
 
 {% tabs %}
-{% tab title="IP. TANGO GESTION" %}
+{% tab title="OP. TANGO GESTION" %}
 * Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
