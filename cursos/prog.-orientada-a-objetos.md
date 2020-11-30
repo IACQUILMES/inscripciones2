@@ -23,25 +23,22 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 #### [volver](../)
 
-Este programa está diseñado para que incorpores las habilidades que te convertirán en un Técnico en Armado y Reparación de PC. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
+**Diagramación lógica \(algoritmos\)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con  ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.   
+**Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.   
+**Desarrollo de Aplicaciones Windows \(Visual Studio.NET\):** El objetivo central es desarrollar programas y aplicaciones en una de las plataformas de desarrollo más utilizada en la actualidad, pero a su vez preparar al alumno para enfrentar futuros cambios de plataformas.   
+**Programación Orientada a Objetos \(POO\):** es un paradigma de programación que usa objetos y sus interacciones, para diseñar aplicaciones y programas informáticos. El objetivo de esta unidad es introducir al alumno a este paradigma ejercitando con ejemplos prácticos cada uno de estos temas.
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
+{% file src="../.gitbook/assets/programacion-objetos-.pdf" caption="TEMARIO" %}
 
 #### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | 10 |
-| Miércoles | 10:00 a 12:00 hrs. | 12 |
-| Jueves | 17 a 19 hrs | 10 |
-| Jueves | 19 a 21 hrs | 10 |
-| Sábados | 12:00 a 14:00 hrs | 10 |
-| Sábados | 14:00 a 16:00 hrs | 10 |
-| Sábados | 16:00 a 18:00 hrs | 10 |
+| Miércoles | 18:30 a 20:30 hrs. | 12 |
 
 #### [volver](../)
 
-### [Escribinos al WhatsA](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877)
 
