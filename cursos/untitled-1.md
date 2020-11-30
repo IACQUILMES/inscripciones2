@@ -36,5 +36,7 @@ Aprende a usar el Sistema Tango, el más actualizado software de gestión contab
 | Lunes | 18:30 a 20:30 hrs. | 12 |
 | Jueves | 18:30 a 20:30 hrs. | 12 |
 
-consultanos por whatsapp
+drffdddddddddddd
+
+\[contactanos\] \([http://wa.me/5491164622877](http://wa.me/5491164622877)\)
 
