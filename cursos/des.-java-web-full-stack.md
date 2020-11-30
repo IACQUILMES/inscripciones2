@@ -33,9 +33,9 @@ Aprenderás a analizar, diseñar y programar aplicaciones o programas a nivel in
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/java-full-stack.pdf" %}
+{% file src="../.gitbook/assets/java-full-stack.pdf" caption="TEMARIO" %}
 
 #### [volver](../)
 
-### [Escribinos al WhatsAp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Java%20Full)
 
