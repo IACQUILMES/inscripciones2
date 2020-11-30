@@ -4,9 +4,9 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # ARMADO Y REP. DE PC
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
+### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero.
 
-#### [volver](../)
+### [volver](../)
 
 {% tabs %}
 {% tab title="ARM. Y REP. DE PC" %}
@@ -21,9 +21,9 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-#### [volver](../)
+### [volver](../)
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -37,11 +37,11 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
-#### Descarga el temario completo haciendo clic abajo
+### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
 
