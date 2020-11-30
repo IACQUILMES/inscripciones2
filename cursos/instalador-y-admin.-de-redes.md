@@ -17,3 +17,9 @@
 {% endtab %}
 {% endtabs %}
 
+#### [volver](../)
+
+Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
+
+#### Descarga el temario completo haciendo clic abajo
+
