@@ -19,7 +19,7 @@
 
 #### [volver](../)
 
-Ya que un sitio web utiliza varias tecnologías simultáneamente dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros. 
+Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
 **Programación:** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con  ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
 **Front-End:** Son todas las tecnologías de diseño y desarrollo web que corren en el navegador y que se encargan de la interactividad con los usuarios. Un programador Frontend debe especializarse en HTML, CSS y JavaScript para poder usar algunos frameworks o librerías \(React, Angular, Bootstrap son algunos de ellos\).   
