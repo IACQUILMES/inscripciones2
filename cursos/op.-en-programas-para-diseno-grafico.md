@@ -5,12 +5,12 @@
 #### [volver](../)
 
 {% tabs %}
-{% tab title="DISEÑO GRAFICO" %}
+{% tab title="DISEÑO GRÁFICO" %}
 * Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
-| Mes | PLAN DE CUOTAS |
+| MES | PLAN DE CUOTAS |
 | :--- | :--- |
 | DIC. | $ 25.168 en 14 pagos de $1.798 |
 | ENE. | $ 23.584 en 13 pagos de $1.815 |
