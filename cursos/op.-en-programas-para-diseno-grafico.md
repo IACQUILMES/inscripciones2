@@ -40,5 +40,5 @@ temario reducido
 
 #### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 
