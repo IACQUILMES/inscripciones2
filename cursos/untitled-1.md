@@ -1,5 +1,5 @@
 ---
-description: 30 clases de 2 horas. Inicia Abril 2021 - Finalización Enero 2022
+description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 ---
 
 # OP. SIST. TANGO GESTION
