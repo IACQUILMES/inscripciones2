@@ -39,5 +39,5 @@ Convertite en un experto, dominando los conceptos, las tipologías, desempeñán
 
 #### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
 
