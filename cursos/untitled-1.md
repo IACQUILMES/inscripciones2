@@ -38,5 +38,5 @@ Aprende a usar el Sistema Tango, el más actualizado software de gestión contab
 
 #### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
 
