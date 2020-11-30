@@ -19,6 +19,12 @@
 
 #### [volver](../)
 
+#### Días y horarios
+
+| Días | horarios | Vacantes |
+| :--- | :--- | :--- |
+| Jueves | 18:30 a 20:30 hrs | 12 |
+
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
 **Programación:** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con  ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
@@ -28,12 +34,6 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 #### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/desarrollo-web-full-stack.pdf" caption="TEMARIO" %}
-
-#### Días y horarios
-
-| Días | horarios | Vacantes |
-| :--- | :--- | :--- |
-| Jueves | 18:30 a 20:30 hrs | 12 |
 
 #### [volver](../)
 

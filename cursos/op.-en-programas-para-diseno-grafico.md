@@ -23,12 +23,6 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 #### [volver](../)
 
-temario reducido
-
-#### Descarga el temario completo haciendo clic abajo
-
-{% file src="../.gitbook/assets/inst.-y-admin.-redes.pdf" caption="no esta el temario" %}
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
@@ -37,6 +31,12 @@ temario reducido
 | Martes | 19:00 a 21:00 hrs. | 12 |
 | Sábados | 13:00 a 15:00 hrs. | 12 |
 | Sábados | 15:00 a 17:00 hrs | 12 |
+
+temario reducido
+
+#### Descarga el temario completo haciendo clic abajo
+
+{% file src="../.gitbook/assets/inst.-y-admin.-redes.pdf" caption="no esta el temario" %}
 
 #### [volver](../)
 

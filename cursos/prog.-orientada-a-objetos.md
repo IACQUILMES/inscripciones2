@@ -23,6 +23,12 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 #### [volver](../)
 
+#### Días y horarios
+
+| Días | horarios | Vacantes |
+| :--- | :--- | :--- |
+| Miércoles | 18:30 a 20:30 hrs. | 12 |
+
 **Diagramación lógica \(algoritmos\)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con  ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.   
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.   
 **Desarrollo de Aplicaciones Windows \(Visual Studio.NET\):** El objetivo central es desarrollar programas y aplicaciones en una de las plataformas de desarrollo más utilizada en la actualidad, pero a su vez preparar al alumno para enfrentar futuros cambios de plataformas.   
@@ -31,12 +37,6 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 #### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/programacion-objetos-.pdf" caption="TEMARIO" %}
-
-#### Días y horarios
-
-| Días | horarios | Vacantes |
-| :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs. | 12 |
 
 #### [volver](../)
 
