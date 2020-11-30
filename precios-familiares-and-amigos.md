@@ -13,7 +13,8 @@
   <tbody>
     <tr>
       <td style="text-align:left">Des. Web Full Stack</td>
-      <td style="text-align:left">$ 23.000</td>
+      <td style="text-align:left">Costo $30.000
+        <br />F &amp; A $ 23.000</td>
       <td style="text-align:left">
         <p><b>DIC 14</b> pagos de $1.643</p>
         <p><b>ENE 13</b> pagos de $1.770</p>
@@ -21,7 +22,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Prog. Orientada a Objetos</td>
-      <td style="text-align:left">$ 23.000</td>
+      <td style="text-align:left">Costo $30.000
+        <br />F &amp; A $ 23.000</td>
       <td style="text-align:left">
         <p><b>DIC 14</b> pagos de $1.643</p>
         <p><b>ENE 13</b> pagos de $1.770</p>
