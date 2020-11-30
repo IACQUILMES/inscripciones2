@@ -37,5 +37,5 @@ Ya que un sitio web utiliza varias tecnologías simultáneamente dentro de este 
 
 #### [volver](../)
 
-### [Escribinos al WhatsA](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877)
 
