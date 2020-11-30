@@ -40,5 +40,5 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 #### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Prog.%20Objetos)
 
