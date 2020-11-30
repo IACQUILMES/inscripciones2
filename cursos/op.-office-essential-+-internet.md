@@ -1,3 +1,7 @@
+---
+description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
+---
+
 # OP. OFFICE ESSENTIAL + INTERNET
 
 #### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
@@ -31,7 +35,7 @@
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
 
-Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
+Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 
 #### Descarga el temario completo haciendo clic abajo
 
