@@ -4,7 +4,7 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 # COMMUNITY MANAGER & MARKETING DIGITAL
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.122 si te anotas en Diciembre, y de $1.061 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
 
 #### [volver](../)
 
@@ -16,12 +16,12 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 14.122 en 9 pagos de $1.570 |
-| ENE. | $ 13.061 en 8 pagos de $1.633 |
+| DIC. | $ 14.094 en 9 pagos de $1.656 |
+| ENE. | $ 13.452 en 8 pagos de $1.682 |
 {% endtab %}
 {% endtabs %}
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
