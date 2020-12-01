@@ -16,8 +16,8 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.168 en 11 pagos de $1.652 |
-| ENE. | $ 16.584 en 10 pagos de $1.659 |
+| DIC. | $ 18.404 en 11 pagos de $1.674 |
+| ENE. | $ 16.702 en 10 pagos de $1.671 |
 {% endtab %}
 {% endtabs %}
 
