@@ -21,8 +21,6 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-#### [volver](../)
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
@@ -31,6 +29,8 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Martes | 19:00 a 21:00 hrs. | 12 |
 | Sábados | 13:00 a 15:00 hrs. | 12 |
 | Sábados | 15:00 a 17:00 hrs | 12 |
+
+#### [volver](../)
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe ux para app y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son Photoshop, Illustrator, Indesign, XD y Corel Draw.
 
