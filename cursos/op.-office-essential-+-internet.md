@@ -17,12 +17,9 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
 | DIC. | $ 18.168 en 11 pagos de $1.652 |
-| ENE. | $ 16.584 en 13 pagos de $1.659 |
-| FEB | $ 15.000 en 10 pagos de  $1.500 |
+| ENE. | $ 16.584 en 10 pagos de $1.659 |
 {% endtab %}
 {% endtabs %}
-
-#### [volver](../)
 
 #### Días y horarios
 
@@ -35,6 +32,8 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 | Sábados | 12:00 a 14:00 hrs | 10 |
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
+
+#### [volver](../)
 
 Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 

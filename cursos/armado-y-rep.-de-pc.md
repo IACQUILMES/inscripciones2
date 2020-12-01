@@ -21,8 +21,6 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-#### [volver](../)
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
@@ -34,6 +32,8 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Sábados | 12:00 a 14:00 hrs | 10 |
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
+
+#### [volver](../)
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
