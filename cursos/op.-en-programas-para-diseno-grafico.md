@@ -36,7 +36,7 @@ temario reducido
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/diseno-grafico.pdf" %}
+{% file src="../.gitbook/assets/diseno-grafico.pdf" caption="TEMARIO" %}
 
 #### [volver](../)
 
