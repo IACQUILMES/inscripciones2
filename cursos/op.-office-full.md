@@ -21,8 +21,6 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-#### [volver](../)
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
@@ -34,6 +32,8 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Sábados | 12:00 a 14:00 hrs | 12 |
 | Sábados | 14:00 a 16:00 hrs | 12 |
 | Sábados | 16:00 a 18:00 hrs | 12 |
+
+#### [volver](../)
 
 Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 
