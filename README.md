@@ -26,5 +26,3 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 
 #### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
-## PRECIOS CURSOS 2021 PARA FAMILIARES Y AMIGOS
-
