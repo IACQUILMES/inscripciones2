@@ -6,7 +6,7 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 #### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
@@ -16,7 +16,7 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 14.122 en 9 pagos de $1.009 |
+| DIC. | $ 14.094 en 9 pagos de $1.566 |
 | ENE. | $ 13.061 en 8 pagos de $1.005 |
 {% endtab %}
 {% endtabs %}
