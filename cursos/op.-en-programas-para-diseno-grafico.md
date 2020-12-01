@@ -21,8 +21,6 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-#### [volver](../)
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
@@ -31,6 +29,8 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Martes | 19:00 a 21:00 hrs. | 12 |
 | Sábados | 13:00 a 15:00 hrs. | 12 |
 | Sábados | 15:00 a 17:00 hrs | 12 |
+
+#### [volver](../)
 
 temario reducido
 
