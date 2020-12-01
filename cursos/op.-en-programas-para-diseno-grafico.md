@@ -4,13 +4,13 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="DISEÑO GRÁFICO" %}
-* Costo $30.000 AAAA
+* Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
@@ -21,9 +21,9 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% endtab %}
 {% endtabs %}
 
-### [volver](../)
+#### [volver](../)
 
-### Días y horarios
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -34,11 +34,11 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 temario reducido
 
-### Descarga el temario completo haciendo clic abajo
+#### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/inst.-y-admin.-redes.pdf" caption="no esta el temario" %}
+{% file src="../.gitbook/assets/diseno-grafico.pdf" %}
 
-### [volver](../)
+#### [volver](../)
 
-## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 
