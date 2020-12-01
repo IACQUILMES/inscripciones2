@@ -1,8 +1,8 @@
 # DES. WEB FULL STACK
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.122 si te anotas en Diciembre, y de $1.061 si te anotas en Enero.
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="DES. WEB FULL STACK" %}
@@ -12,12 +12,12 @@
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 25.168 en 14 pagos de $1.798 |
-| ENE. | $ 23.584 en 13 pagos de $1.815 |
+| DIC. | $ 24.122 en 14 pagos de $1.723 |
+| ENE. | $ 23.061 en 13 pagos de $1.774 |
 {% endtab %}
 {% endtabs %}
 
-### [volver](../)
+#### [volver](../)
 
 ### Días y horarios
 
@@ -31,11 +31,11 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 **Front-End:** Son todas las tecnologías de diseño y desarrollo web que corren en el navegador y que se encargan de la interactividad con los usuarios. Un programador Frontend debe especializarse en HTML, CSS y JavaScript para poder usar algunos frameworks o librerías \(React, Angular, Bootstrap son algunos de ellos\).  
 **Back-End:** Son todas las tecnologías de desarrollo web que se llevan a cabo en el Servidor, lejos de la interfaz del usuario. Algunas de las tareas del desarrollador Backend son Manejo de Bases de datos, Sesiones, Transacciones, entre otras. Algunos de los lenguajes que se usan son PHP, Ruby, C\# y Java.
 
-### Descarga el temario completo haciendo clic abajo
+#### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/desarrollo-web-full-stack.pdf" caption="TEMARIO" %}
 
-### [volver](../)
+#### [volver](../)
 
-## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)
 

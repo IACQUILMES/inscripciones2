@@ -4,9 +4,9 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 # COMMUNITY MANAGER & MARKETING DIGITAL
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.122 si te anotas en Diciembre, y de $1.061 si te anotas en Enero.
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
@@ -16,12 +16,12 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 15.168 en 9 pagos de $1.686 |
-| ENE. | $ 13.584 en 8 pagos de $1.698 |
+| DIC. | $ 14.122 en 9 pagos de $1.009 |
+| ENE. | $ 13.061 en 8 pagos de $1.005 |
 {% endtab %}
 {% endtabs %}
 
-### [volver](../)
+#### [volver](../)
 
 ### Días y horarios
 
@@ -32,11 +32,11 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 
 Vas a aprender conceptos de marketing digital y cómo aplicarlos en la creación de campañas publicitarias. Harás planeación estratégica donde delinearas objetivos: audiencia, producto, cliente y qué plataformas ayudarán a que tengas éxito. Vas a segmentar y plantear campañas para Facebook e Instagram, aprenderás sobre reputación online y generación de tráfico, además de herramientas de trabajo. Aprenderás sobre herramientas de creación de gráfica e infografía.
 
-### Descarga el temario completo haciendo clic abajo
+#### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/community-and-marketin-digital.pdf" caption="TEMARIO" %}
 
-### [volver](../)
+#### [volver](../)
 
-## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
 

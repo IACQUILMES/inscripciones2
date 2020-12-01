@@ -1,7 +1,6 @@
 # Table of contents
 
 * [CURSA 2021](README.md)
-* [PRECIOS FAMILIARES & AMIGOS](precios-familiares-and-amigos.md)
 
 ## CURSOS
 

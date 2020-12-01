@@ -4,7 +4,7 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 
 # CURSA 2021
 
-#### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
+### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
 
 #### [Operador Tango Gestión](cursos/untitled-1.md)
 
@@ -27,8 +27,4 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 #### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
 ## PRECIOS CURSOS 2021 PARA FAMILIARES Y AMIGOS
-
-
-
-
 

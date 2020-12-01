@@ -4,27 +4,26 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.122 si te anotas en Diciembre, y de $1.061 si te anotas en Enero.
 
 #### [volver](../)
 
 {% tabs %}
-{% tab title="ARM. Y REP. DE PC" %}
+{% tab title="OFFICE ESSENTIAL" %}
 * Costo $20.000
 * Desc. Alumno $5.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.168 en 11 pagos de $1.652 |
-| ENE. | $ 16.584 en 13 pagos de $1.659 |
-| FEB | $ 15.000 en 10 pagos de  $1.500 |
+| DIC. | $ 17.122 en 11 pagos de $1.223 |
+| ENE. | $ 16.061 en 13 pagos de $1.236 |
 {% endtab %}
 {% endtabs %}
 
 #### [volver](../)
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -40,7 +39,7 @@ Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
+{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc \(1\).pdf" caption="TEMARIO" %}
 
 #### [volver](../)
 
