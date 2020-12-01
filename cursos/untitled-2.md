@@ -1,6 +1,6 @@
 # DES. WEB FULL STACK
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
@@ -12,10 +12,12 @@
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 24.904 en 14 pagos de $1.779 |
-| ENE. | $ 23.452 en 13 pagos de $1.804 |
+| DIC. | $ 25.168 en 14 pagos de $1.798 |
+| ENE. | $ 23.584 en 13 pagos de $1.815 |
 {% endtab %}
 {% endtabs %}
+
+#### [volver](../)
 
 #### Días y horarios
 
@@ -23,13 +25,11 @@
 | :--- | :--- | :--- |
 | Jueves | 18:30 a 20:30 hrs | 12 |
 
-#### [volver](../)
-
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
-**Programación:** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
-**Front-End:** Son todas las tecnologías de diseño y desarrollo web que corren en el navegador y que se encargan de la interactividad con los usuarios. Un programador Frontend debe especializarse en HTML, CSS y JavaScript para poder usar algunos frameworks o librerías \(React, Angular, Bootstrap son algunos de ellos\).  
-**Back-End:** Son todas las tecnologías de desarrollo web que se llevan a cabo en el Servidor, lejos de la interfaz del usuario. Algunas de las tareas del desarrollador Backend son Manejo de Bases de datos, Sesiones, Transacciones, entre otras. Algunos de los lenguajes que se usan son PHP, Ruby, C\# y Java.
+**Programación:** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con  ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
+**Front-End:** Son todas las tecnologías de diseño y desarrollo web que corren en el navegador y que se encargan de la interactividad con los usuarios. Un programador Frontend debe especializarse en HTML, CSS y JavaScript para poder usar algunos frameworks o librerías \(React, Angular, Bootstrap son algunos de ellos\).   
+**Back-End:** Son todas las tecnologías de desarrollo web que se llevan a cabo en el Servidor, lejos de la interfaz del usuario. Algunas de las tareas del desarrollador Backend son Manejo de Bases de datos, Sesiones, Transacciones, entre otras. Algunos de los lenguajes que se usan son  PHP, Ruby, C\# y Java.
 
 #### Descarga el temario completo haciendo clic abajo
 

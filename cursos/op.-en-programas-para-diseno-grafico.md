@@ -4,7 +4,7 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
@@ -16,10 +16,12 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 24.904 en 14 pagos de $1.779 |
-| ENE. | $ 23.452 en 13 pagos de $1.804 |
+| DIC. | $ 25.168 en 14 pagos de $1.798 |
+| ENE. | $ 23.584 en 13 pagos de $1.815 |
 {% endtab %}
 {% endtabs %}
+
+#### [volver](../)
 
 #### Días y horarios
 
@@ -30,9 +32,7 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Sábados | 13:00 a 15:00 hrs. | 12 |
 | Sábados | 15:00 a 17:00 hrs | 12 |
 
-#### [volver](../)
-
-El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe ux para app y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son Photoshop, Illustrator, Indesign, XD y Corel Draw.
+temario reducido
 
 #### Descarga el temario completo haciendo clic abajo
 

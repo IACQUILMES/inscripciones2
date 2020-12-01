@@ -4,22 +4,25 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
 {% tabs %}
-{% tab title="OFFICE ESSENTIAL" %}
+{% tab title="ARM. Y REP. DE PC" %}
 * Costo $20.000
 * Desc. Alumno $5.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 17.904 en 11 pagos de $1.628 |
-| ENE. | $ 16.452 en 10 pagos de $1.646 |
+| DIC. | $ 18.168 en 11 pagos de $1.652 |
+| ENE. | $ 16.584 en 13 pagos de $1.659 |
+| FEB | $ 15.000 en 10 pagos de  $1.500 |
 {% endtab %}
 {% endtabs %}
+
+#### [volver](../)
 
 #### Días y horarios
 
@@ -33,13 +36,11 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
 
-#### [volver](../)
-
 Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc \(1\).pdf" caption="TEMARIO" %}
+{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
 
 #### [volver](../)
 

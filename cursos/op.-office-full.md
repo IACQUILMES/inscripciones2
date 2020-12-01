@@ -4,7 +4,7 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. OFFICE FULL
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
@@ -16,10 +16,12 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 21.904 en 14 pagos de $1.565 |
-| ENE. | $ 20.452 en 13 pagos de $1.574 |
+| DIC. | $ 22.168 en 14 pagos de $1.584 |
+| ENE. | $ 20.584 en 13 pagos de $1.584 |
 {% endtab %}
 {% endtabs %}
+
+#### [volver](../)
 
 #### Días y horarios
 
@@ -32,8 +34,6 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Sábados | 12:00 a 14:00 hrs | 12 |
 | Sábados | 14:00 a 16:00 hrs | 12 |
 | Sábados | 16:00 a 18:00 hrs | 12 |
-
-#### [volver](../)
 
 Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 

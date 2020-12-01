@@ -6,7 +6,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 ## LAMENTABLEMENTE ESTE CURSO SE ENCUENTRA SUSPENDIDO
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.904 si te anotas en Diciembre, y de $1.452 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
@@ -18,18 +18,18 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 27.904 en 14 pagos de $1.994 |
-| ENE. | $ 26.452 en 13 pagos de $2.035 |
+| DIC. | $ 28.168 en 14 pagos de $2.012 |
+| ENE. | $ 26.584 en 13 pagos de $2.045 |
 {% endtab %}
 {% endtabs %}
+
+#### [volver](../)
 
 #### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Jueves | 18:30 a 20:30 hrs | 8 |
-
-#### [volver](../)
 
 Aprenderás a analizar, diseñar y programar aplicaciones o programas a nivel inicial utilizando los conceptos esenciales de programación estructurada, programación orientada a objetos. También las principales interfaces de programación de aplicaciones API que se utilizan para diseñar aplicaciones orientadas a objetos con JAVA y a desarrollar aplicaciones con acceso a archivos y conexión a Bases de Datos. Al finalizarlo, podrá crear aplicaciones con la última tecnología de JDK bajo el entorno Netbeans.
 
