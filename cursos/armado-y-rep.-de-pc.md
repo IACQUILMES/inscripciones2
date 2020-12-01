@@ -9,7 +9,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 #### [volver](../)
 
 {% tabs %}
-{% tab title="PROG. ORIENTADA A OBJETOS" %}
+{% tab title="ARMADO Y REP. DE PC" %}
 * Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
