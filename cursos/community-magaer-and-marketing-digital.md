@@ -17,7 +17,7 @@ description: 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
 | DIC. | $ 14.122 en 9 pagos de $1.570 |
-| ENE. | $ 13.061 en 8 pagos de $1.005 |
+| ENE. | $ 13.061 en 8 pagos de $1.633 |
 {% endtab %}
 {% endtabs %}
 
