@@ -4,12 +4,12 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.404 si te anotas en Diciembre, y de $1.702 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.120 si te anotas en Diciembre, y de $1.560 si te anotas en Enero.
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
-{% tab title="ARM. Y REP. DE PC" %}
+{% tab title="OP. OFFICE ESSENTIAL" %}
 * Costo $20.000
 * Desc. Alumno $5.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
