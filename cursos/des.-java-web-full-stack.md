@@ -18,8 +18,8 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 28.300 en 14 pagos de $2.021 |
-| ENE. | $ 26.650 en 13 pagos de $2.050 |
+| DIC. | $ 28.336 en 14 pagos de $2.024 |
+| ENE. | $ 26.668 en 13 pagos de $2.052 |
 {% endtab %}
 {% endtabs %}
 
