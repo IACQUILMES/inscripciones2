@@ -39,8 +39,6 @@ Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc \(1\).pdf" caption="TEMARIO" %}
-
 #### [volver](../)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
