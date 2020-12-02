@@ -4,7 +4,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. SIST. TANGO GESTION
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.120 si te anotas en Diciembre, y de $1.560 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.300 si te anotas en Diciembre, y de $1.650 si te anotas en Enero.
 
 #### [volver](../)
 
@@ -16,8 +16,8 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 25.120 en 14 pagos de $1.795 |
-| ENE. | $ 23.560 en 13 pagos de $1.813 |
+| DIC. | $ 25.300 en 14 pagos de $1.808 |
+| ENE. | $ 23.650 en 13 pagos de $1.820 |
 {% endtab %}
 {% endtabs %}
 
