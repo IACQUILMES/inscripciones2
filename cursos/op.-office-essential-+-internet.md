@@ -4,20 +4,20 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.404 si te anotas en Diciembre, y de $1.702 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.168 si te anotas en Diciembre, y de $1.584 si te anotas en Enero. 
 
 #### [volver](../)
 
 {% tabs %}
-{% tab title="OFFICE ESSENTIAL & INT." %}
+{% tab title="OFFICE ESSENTIAL" %}
 * Costo $20.000
 * Desc. Alumno $5.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.404 en 11 pagos de $1.674 |
-| ENE. | $ 16.702 en 10 pagos de $1.671 |
+| DIC. | $ 18.168 en 11 pagos de $1.652 |
+| ENE. | $ 16.584 en 10 pagos de $1.659 |
 {% endtab %}
 {% endtabs %}
 
@@ -39,7 +39,7 @@ Vas a aprender: Windows, Word, Excel, Internet. El curso esta diseñado para que
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc \(1\).pdf" caption="TEMARIO" %}
+{% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
 
 #### [volver](../)
 
