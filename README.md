@@ -20,9 +20,9 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 
 #### [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
 
+#### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
+
 #### [Operador Office Full](cursos/op.-office-full.md)
 
 #### [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
-
-#### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
