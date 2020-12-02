@@ -4,20 +4,20 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # ARMADO Y REP. DE PC
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.300 si te anotas en Diciembre, y de $1.650 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.336 si te anotas en Diciembre, y de $1.668 si te anotas en Enero.
 
 #### [volver](../)
 
 {% tabs %}
-{% tab title="ARMADO Y REP DE PC" %}
+{% tab title="ARMADO Y REP. DE PC" %}
 * Costo $30.000
 * Desc. Alumno $8.000
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 25.300 en 14 pagos de $1.808 |
-| ENE. | $ 23.650 en 13 pagos de $1.820 |
+| DIC. | $ 25.336 en 14 pagos de $1.810 |
+| ENE. | $ 23.668 en 13 pagos de $1.821 |
 {% endtab %}
 {% endtabs %}
 
