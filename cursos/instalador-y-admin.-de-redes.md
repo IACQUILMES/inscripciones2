@@ -19,7 +19,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | :--- | :--- |
 | ENE. | $ 26.500 en 14 pagos de $1.893 |
 | FEB. | $ 25.000 en 13 pagos de $1.924 |
-| MAR. | $23.500 en 12 pagos de $1.959 |
+| MAR. | $ 23.500 en 12 pagos de $1.959 |
 {% endtab %}
 {% endtabs %}
 
