@@ -4,39 +4,41 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. SIST. TANGO GESTION
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.336 si te anotas en Diciembre, y de $1.668 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $4.500 si te anotas en Enero, de $3.000 si te anotas en Febrero y de $1.500 si te anotas en Marzo.
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="TANGO GESTION" %}
 * Costo $30.000
 * Desc. Alumno $8.000
+* El curso te queda a $22.000 + cuotas restantes
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 25.336 en 14 pagos de $1.810 |
-| ENE. | $ 23.668 en 13 pagos de $1.821 |
+| ENE. | $ 26.500 en 14 pagos de $1.893 |
+| FEB. | $ 25.000 en 13 pagos de $1.924 |
+| MAR. | $23.500 en 12 pagos de $1.959 |
 {% endtab %}
 {% endtabs %}
 
-### Días y horarios
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | 12 |
 | Jueves | 18:30 a 20:30 hrs. | 12 |
 
-### [volver](../)
+#### [volver](../)
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
-### Descarga el temario completo haciendo clic abajo
+#### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/tango.pdf" caption="TEMARIO" %}
 
-### [volver](../)
+#### [volver](../)
 
-## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
 
