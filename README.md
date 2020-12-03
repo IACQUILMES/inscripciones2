@@ -4,25 +4,25 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 
 # CURSA 2021
 
-#### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
+## HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
 
-#### [Operador Tango Gestión](op.-sist.-tango-gestion.md)
+#### [Operador Tango Gestión](cursos/untitled-1.md)
 
-#### [Programación Orientado a Objetos](prog.-orientada-a-objetos.md)
+#### [Programación Orientado a Objetos](cursos/prog.-orientada-a-objetos.md)
 
-#### [Desarrollador Web Full Stack](des.-web-full-stack.md)
+#### [Desarrollador Web Full Stack](cursos/untitled-2.md)
 
-#### [Desarrollador JAVA Web Full Stack](des.-java-web-full-stack.md)
+#### [Desarrollador JAVA Web Full Stack](cursos/des.-java-web-full-stack.md)
 
-#### [Armado y Reparación de PC](armado-y-rep.-de-pc.md)
+#### [Armado y Reparación de PC](cursos/armado-y-rep.-de-pc.md)
 
-#### [Instalador y Administrador de Redes](instalador-y-admin.-de-redes.md)
+#### [Instalador y Administrador de Redes](cursos/instalador-y-admin.-de-redes.md)
 
-#### [Op. en programas para Diseño Gráfico](untitled.md)
+#### [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
 
-#### [Community Manager & Marketing Digital](community-manager-and-marketing-digital.md)
+#### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
-#### [Operador Office Full](op.-office-full.md)
+#### [Operador Office Full](cursos/op.-office-full.md)
 
-#### [Operador Office Essential + Internet](op.-office-essential-and-internet.md)
+#### [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
 

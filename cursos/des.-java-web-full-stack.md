@@ -6,7 +6,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 ## LAMENTABLEMENTE ESTE CURSO SE ENCUENTRA SUSPENDIDO
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.336 si te anotas en Diciembre, y de $1.668 si te anotas en Enero.
+#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.692 si te anotas en Diciembre, y de $1.346 si te anotas en Enero.
 
 #### [volver](../)
 
@@ -18,7 +18,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 28.336 en 14 pagos de $2.024 |
+| DIC. | $ 27.692 en 14 pagos de $1.978 |
 | ENE. | $ 26.668 en 13 pagos de $2.052 |
 {% endtab %}
 {% endtabs %}
