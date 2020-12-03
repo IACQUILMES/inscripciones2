@@ -16,13 +16,13 @@ description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tene
 
 #### [Armado y Reparación de PC](cursos/armado-y-rep.-de-pc.md)
 
-#### [Instalador y Administrador de Redes](cursos/instalador-y-admin.-de-redes.md)
+## [Instalador y Administrador de Redes](cursos/instalador-y-admin.-de-redes.md)
 
-#### [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
+## [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
 
-#### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
+## [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
-#### [Operador Office Full](cursos/op.-office-full.md)
+## [Operador Office Full](cursos/op.-office-full.md)
 
-#### [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
+## [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
 
