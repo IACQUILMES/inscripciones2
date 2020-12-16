@@ -1,23 +1,26 @@
 ---
-description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
+description: >-
+  24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021 - Grupos
+  reducidos
 ---
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.336 si te anotas en Diciembre, y de $1.668 si te anotas en Enero.
+#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.364 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
 #### [volver](../)
 
 {% tabs %}
 {% tab title="OFFICE ESSENTIAL" %}
 * Costo $20.000
-* Desc. Alumno $5.000
+* Desc. promo Dic y Ene. $5.000
+* **Precio hasta 31 de Enero $15.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 18.336 en 11 pagos de $1.668 |
-| ENE. | $ 16.668 en 10 pagos de $1.667 |
+| DIC. | $ 15.000 en 11 pagos de $1.364 |
+| ENE. | $ 15.000 en 10 pagos de $1.500 |
 {% endtab %}
 {% endtabs %}
 
@@ -27,11 +30,8 @@ description: 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | 10 |
 | Miércoles | 10:00 a 12:00 hrs. | 12 |
-| Jueves | 17 a 19 hrs | 10 |
-| Jueves | 19 a 21 hrs | 10 |
+| Sábados | 10:00 a 12:00 hrs | 10 |
 | Sábados | 12:00 a 14:00 hrs | 10 |
-| Sábados | 14:00 a 16:00 hrs | 10 |
-| Sábados | 16:00 a 18:00 hrs | 10 |
 
 #### [volver](../)
 
