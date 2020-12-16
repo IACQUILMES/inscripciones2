@@ -2,9 +2,9 @@
 description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tenemos una promo. No te quedes afuera. Vacantes limitadas \U0001F605"
 ---
 
-# CURSA 2021
+# INSCRIPCIÓN 2021
 
-## HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
+## HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS POR DIC. Y ENE. PARA VOS 😉
 
 #### [Operador Tango Gestión](cursos/untitled-1.md)
 

@@ -4,26 +4,44 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # ARMADO Y REP. DE PC
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $4.500 si te anotas en Enero, de $3.000 si te anotas en Febrero y de $1.500 si te anotas en Marzo.
+#### El abono es mensual en efectivo, crédito débito o transferencia. Por ejemplo, si te anotas en Diciembre, comenzas tu plan de abono con pagos de $1.572 mensuales
 
 #### [volver](../)
+
+{% tabs %}
+{% tab title="DISEÑO GRÁFICO" %}
+* Costo $30.000
+* Desc. promo Dic y Ene. $8.000
+* Precio hasta 31 de Enero $22.000
+* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
+
+| MES | PLAN DE CUOTAS |
+| :--- | :--- |
+| DIC. | $ 22.000 en 14 pagos de $1.572 |
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
+{% endtab %}
+{% endtabs %}
+
+#### Días y horarios
+
+### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $3.336 si te anotas en Diciembre, y de $1.668 si te anotas en Enero.
+
+### [volver](../)
 
 {% tabs %}
 {% tab title="ARMADO Y REP. DE PC" %}
 * Costo $30.000
 * Desc. Alumno $8.000
-* El curso te queda a $22.000 + cuotas restantes
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 26.500 en 14 pagos de $1.893 |
-| FEB. | $ 25.000 en 13 pagos de $1.924 |
-| MAR. | $ 23.500 en 12 pagos de $1.959 |
+| DIC. | $ 25.336 en 14 pagos de $1.810 |
+| ENE. | $ 23.668 en 13 pagos de $1.821 |
 {% endtab %}
 {% endtabs %}
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -35,15 +53,15 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
 
-#### [volver](../)
+### [volver](../)
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
-#### Descarga el temario completo haciendo clic abajo
+### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
 

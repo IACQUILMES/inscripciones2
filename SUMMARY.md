@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CURSA 2021](README.md)
+* [INSCRIPCIÓN 2021](README.md)
 
 ## CURSOS
 

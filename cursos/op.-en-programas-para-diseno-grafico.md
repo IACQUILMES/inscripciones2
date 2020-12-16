@@ -4,22 +4,21 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $4.500 si te anotas en Enero, de $3.000 si te anotas en Febrero y de $1.500 si te anotas en Marzo.
+#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
 #### [volver](../)
 
 {% tabs %}
 {% tab title="DISEÑO GRÁFICO" %}
-* Costo $30.000
-* Desc. Alumno $8.000
-* El curso te queda a $22.000 + cuotas restantes
+* Costo  $30.000
+* Desc. promo Dic y Ene. $8.000
+* **Precio hasta 31 de Enero $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 26.500 en 14 pagos de $1.893 |
-| FEB. | $ 25.000 en 13 pagos de $1.924 |
-| MAR. | $ 23.500 en 12 pagos de $1.959 |
+| DIC. | $ 22.000 en 14 pagos de $1.572 |
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
 {% endtab %}
 {% endtabs %}
 
