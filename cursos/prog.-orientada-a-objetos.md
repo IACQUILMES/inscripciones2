@@ -1,5 +1,7 @@
 ---
-description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+description: >-
+  30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022 - Grupos
+  reducidos
 ---
 
 # PROG. ORIENTADA A OBJETOS
@@ -26,7 +28,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs. | 12 |
+| Miércoles | 18:30 a 20:30 hrs. | 6 |
 
 #### [volver](../)
 

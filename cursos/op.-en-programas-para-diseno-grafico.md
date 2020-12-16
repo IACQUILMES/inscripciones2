@@ -1,5 +1,7 @@
 ---
-description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+description: >-
+  36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022 - Grupos
+  reducidos
 ---
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
@@ -27,9 +29,9 @@ description: 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Martes | 17:00 a 19:00 hrs. | 12 |
-| Martes | 19:00 a 21:00 hrs. | 12 |
-| Sábados | 13:00 a 15:00 hrs. | 12 |
-| Sábados | 15:00 a 17:00 hrs | 12 |
+| Martes | 19:00 a 21:00 hrs. | 6 |
+| Sábados | 13:00 a 15:00 hrs. | 7 |
+| Sábados | 15:00 a 17:00 hrs | 5 |
 
 #### [volver](../)
 
