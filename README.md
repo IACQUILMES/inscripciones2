@@ -16,15 +16,15 @@ Clases en vivo por Zoom en salas privadas de grupos reducidos. Incluye apuntes, 
 
 #### [Desarrollador JAVA Web Full Stack](cursos/des.-java-web-full-stack.md)
 
-#### [Armado y Reparación de PC](cursos/armado-y-rep.-de-pc.md)
+#### [Armado y Reparación de PC]()
 
-#### [Instalador y Administrador de Redes](cursos/instalador-y-admin.-de-redes.md)
+#### [Instalador y Administrador de Redes]()
 
 #### [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
 
 #### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
 
-#### [Operador Office Full](cursos/op.-office-full.md)
+#### [Operador Office Full]()
 
-#### [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
+#### [Operador Office Essential + Internet]()
 

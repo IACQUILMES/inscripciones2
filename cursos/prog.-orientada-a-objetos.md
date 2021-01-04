@@ -6,7 +6,7 @@ description: >-
 
 # PROG. ORIENTADA A OBJETOS
 
-#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en Febrero solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
+#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en FEBRERO solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
 
 #### [volver](../)
 
@@ -14,7 +14,7 @@ description: >-
 {% tab title="PROG. OBJETOS" %}
 * Costo $30.000
 * Desc. promo  $8.000
-* **Precio hasta 15 de FEB $22.000**
+* **Precio hasta el 15 de FEB $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
