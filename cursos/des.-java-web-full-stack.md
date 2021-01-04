@@ -13,7 +13,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% tabs %}
 {% tab title="JAVA WEB FULL STACK" %}
 * Costo $40.000
-* Desc. promo Dic y Ene. $15.000
+* Desc. promo $15.000
 * **Precio hasta el 15 de FEB. $25.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 

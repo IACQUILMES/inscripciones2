@@ -13,7 +13,7 @@ description: >-
 {% tabs %}
 {% tab title="DES. WEB FULL STACK" %}
 * Costo $30.000
-* Desc. promo. $8.000
+* Desc. promo $8.000
 * **Precio hasta el 15 de FEB. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
