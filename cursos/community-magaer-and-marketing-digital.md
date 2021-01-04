@@ -13,7 +13,7 @@ description: >-
 {% tabs %}
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
 * Costo $16.000
-* Desc. promo Dic y Ene. $4.000
+* Desc. promo $4.000
 * **Precio hasta el 15 de FEB $12.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
