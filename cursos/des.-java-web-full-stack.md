@@ -6,7 +6,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 ## LAMENTABLEMENTE ESTE CURSO SE ENCUENTRA SUSPENDIDO
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.786 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en FEBRERO solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
 
 #### [volver](../)
 
@@ -14,13 +14,13 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 {% tab title="JAVA WEB FULL STACK" %}
 * Costo $40.000
 * Desc. promo Dic y Ene. $15.000
-* **Precio hasta 31 de Enero $25.000**
+* **Precio hasta el 15 de FEB. $25.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 25.000 en 14 pagos de $1.786 |
-| ENE. | $ 25.000 en 13 pagos de $1.924 |
+| ENE. | $ 26.298 en 13 pagos de $2.023 |
+| FEB. | $ 25.000 en 12 pagos de $2.085 |
 {% endtab %}
 {% endtabs %}
 
