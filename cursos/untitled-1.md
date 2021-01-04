@@ -6,9 +6,9 @@ description: >-
 
 # OP. SIST. TANGO GESTION
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
-#### [volver](../)
+### [volver](../)
 
 {% tabs %}
 {% tab title="TANGO GESTION" %}
@@ -24,22 +24,22 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | 12 |
 | Jueves | 18:30 a 20:30 hrs. | 12 |
 
-#### [volver](../)
+### [volver](../)
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
-#### Descarga el temario completo haciendo clic abajo
+### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/tango.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
+## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
 

@@ -6,9 +6,9 @@ description: >-
 
 # INSTALADOR Y ADMIN. DE REDES
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
-#### [volver](../)
+### [volver](../)
 
 {% tabs %}
 {% tab title="INST. Y ADMIN. DE REDES" %}
@@ -24,7 +24,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -32,15 +32,15 @@ description: >-
 | Miércoles | 18:30 a 20:30 hrs. | 12 |
 | Sábados | 10:00 a 12:00 hrs | 12 |
 
-#### [volver](../)
+### [volver](../)
 
 Convertite en un experto, dominando los conceptos, las tipologías, desempeñándote como instalador y administrador de todo tipo de redes. Éste curso, será imprescindible para quienes deseen, en un futuro, trabajar en el área técnica de grandes empresas, consultoras de sistemas y cómo una actividad independiente. Serás un elemento útil e imprescindible en el área de sistemas de cualquier empresa, tendrás habilidades técnicas en el ámbito de la informática y te permitirá resolver los habituales problemas que se desarrollan en el entorno de las organizaciones y sus redes.
 
-#### Descarga el temario completo haciendo clic abajo
+### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/inst.-y-admin.-redes.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
+## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
 

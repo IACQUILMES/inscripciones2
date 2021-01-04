@@ -6,9 +6,9 @@ description: >-
 
 # ARMADO Y REP. DE PC
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
-#### [volver](../)
+### [volver](../)
 
 {% tabs %}
 {% tab title="ARMADO Y REP. DE PC" %}
@@ -24,7 +24,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-#### Días y horarios
+### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -36,15 +36,15 @@ description: >-
 | Sábados | 14:00 a 16:00 hrs | 10 |
 | Sábados | 16:00 a 18:00 hrs | 10 |
 
-#### [volver](../)
+### [volver](../)
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
-#### Descarga el temario completo haciendo clic abajo
+### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+### [volver](../)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+## [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
 
