@@ -6,21 +6,21 @@ description: >-
 
 # PROG. ORIENTADA A OBJETOS
 
-### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en Febrero solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
 
-### [volver](../)
+#### [volver](../)
 
 {% tabs %}
 {% tab title="PROG. OBJETOS" %}
 * Costo $30.000
-* Desc. promo Dic y Ene. $8.000
-* **Precio hasta 31 de Enero $22.000**
+* Desc. promo  $8.000
+* **Precio hasta 15 de FEB $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 22.000 en 14 pagos de $1.572 |
-| ENE. | $ 22.000 en 13 pagos de $1.693 |
+| ENE. | $ 23.298 en 13 pagos de $1.793 |
+| FEB. | $ 22.000 en 12 pagos de $1.834 |
 {% endtab %}
 {% endtabs %}
 
