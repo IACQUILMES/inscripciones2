@@ -28,7 +28,7 @@ description: >-
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs. | 6 |
+| Miércoles | 18:30 a 20:30 hrs. | 4 |
 
 ### [volver](../)
 
