@@ -28,7 +28,7 @@ description: >-
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Martes | 17:00 a 19:00 hrs. | 12 |
+| Martes | 17:00 a 19:00 hrs. | 10 |
 | Martes | 19:00 a 21:00 hrs. | 6 |
 | Sábados | 13:00 a 15:00 hrs. | 7 |
 | Sábados | 15:00 a 17:00 hrs | 5 |
