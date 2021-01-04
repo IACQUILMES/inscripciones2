@@ -37,7 +37,7 @@ description: >-
 **Desarrollo de Aplicaciones Windows \(Visual Studio.NET\):** El objetivo central es desarrollar programas y aplicaciones en una de las plataformas de desarrollo más utilizada en la actualidad, pero a su vez preparar al alumno para enfrentar futuros cambios de plataformas.  
 **Programación Orientada a Objetos \(POO\):** es un paradigma de programación que usa objetos y sus interacciones, para diseñar aplicaciones y programas informáticos. El objetivo de esta unidad es introducir al alumno a este paradigma ejercitando con ejemplos prácticos cada uno de estos temas.
 
-### Descarga el temario completo haciendo clic abajo
+#### Descarga el temario completo haciendo clic abajo
 
 {% file src="../.gitbook/assets/programacion-objetos-.pdf" caption="TEMARIO" %}
 
