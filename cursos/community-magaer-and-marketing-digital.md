@@ -28,8 +28,8 @@ description: >-
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 12 |
-| Viernes | 18:30 a 20:30 hrs | 12 |
+| Miércoles | 18:30 a 20:30 hrs | 8 |
+| Viernes | 18:30 a 20:30 hrs | 6 |
 
 #### [volver](../)
 
