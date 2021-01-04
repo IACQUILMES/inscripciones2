@@ -14,13 +14,13 @@ description: >-
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
 * Costo $16.000
 * Desc. promo Dic y Ene. $4.000
-* **Precio hasta 31 de Enero $12.000**
+* **Precio hasta el 15 de FEB $12.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 12.000 en 9 pagos de $1.334 |
-| ENE. | $ 12.000 en 8 pagos de $1.500 |
+| ENE. | $ 13.298 en 8 pagos de $1.663 |
+| FEB. | $ 12.000 en 7 pagos de $1.715 |
 {% endtab %}
 {% endtabs %}
 
