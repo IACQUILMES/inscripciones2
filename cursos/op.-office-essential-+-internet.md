@@ -21,8 +21,8 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 15.000 en 11 pagos de $1.364 |
 | ENE. | $ 15.000 en 10 pagos de $1.500 |
+| FEB. | $ 15.000 en 9 pagos de $1.668 |
 {% endtab %}
 {% endtabs %}
 
