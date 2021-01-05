@@ -1,7 +1,7 @@
 ---
 description: >-
-  ONLINE EN VIVO 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
-  - Grupos reducidos
+  ONLINE EN VIVO + 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre
+  2021 - Grupos reducidos
 ---
 
 # OP. OFFICE ESSENTIAL & INTERNET

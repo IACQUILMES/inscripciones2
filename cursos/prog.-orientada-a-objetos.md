@@ -1,7 +1,7 @@
 ---
 description: >-
-  30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022 - Grupos
-  reducidos
+  ONLINE EN VIVO + 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+  - Grupos reducidos
 ---
 
 # PROG. ORIENTADA A OBJETOS
@@ -16,7 +16,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tab title="PROG. OBJETOS" %}
 * Costo $30.000
 * Desc. promo $8.000
-* **Precio hasta el 15 de Feb. $22.000**
+* **Precio hasta el 15 de FEB. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |

@@ -1,7 +1,7 @@
 ---
 description: >-
-  36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022 - Grupos
-  reducidos
+  ONLINE EN VIVO + 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+  - Grupos reducidos
 ---
 
 # OP. OFFICE FULL
@@ -15,14 +15,14 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tabs %}
 {% tab title="OFFICE FULL" %}
 * Costo $25.000
-* Desc. promo Dic y Ene. $6.000
-* **Precio hasta 31 de Enero $19.000**
+* Desc. promo $6.000
+* **Precio hasta el 15 de FEB. $19.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 19.000 en 14 pagos de $1.358 |
 | ENE. | $ 19.000 en 13 pagos de $1.462 |
+| FEB. | $ 19.000 en 12 pagos de $1.584 |
 {% endtab %}
 {% endtabs %}
 

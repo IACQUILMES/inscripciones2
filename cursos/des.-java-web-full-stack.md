@@ -1,5 +1,5 @@
 ---
-description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+description: ONLINE EN VIVO + 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 ---
 
 # DES. JAVA WEB FULL STACK

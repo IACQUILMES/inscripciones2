@@ -1,7 +1,7 @@
 ---
 description: >-
-  18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto 2021 - Grupos
-  reducidos
+  ONLINE EN VIVO + 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto
+  2021 - Grupos reducidos
 ---
 
 # COMMUNITY MANAGER & MARKETING DIGITAL
@@ -15,14 +15,14 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tabs %}
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
 * Costo $16.000
-* Desc. promo Dic y Ene. $4.000
-* **Precio hasta 31 de Enero $12.000**
+* Desc. promo $4.000
+* **Precio hasta el 15 de FEB. $12.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 12.000 en 9 pagos de $1.334 |
 | ENE. | $ 12.000 en 8 pagos de $1.500 |
+| FEB. | $ 12.000 en 7 pagos de $1.715 |
 {% endtab %}
 {% endtabs %}
 

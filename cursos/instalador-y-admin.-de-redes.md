@@ -1,6 +1,6 @@
 ---
 description: >-
-  TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES - 30 clases de 2 horas. Inicia
+  TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 horas. Inicia
   Abril 2021 - Finaliza Enero 2022 - Grupos reducidos
 ---
 
