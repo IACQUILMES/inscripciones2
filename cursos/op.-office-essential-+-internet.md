@@ -15,8 +15,8 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tabs %}
 {% tab title="OFFICE ESSENTIAL" %}
 * Costo $20.000
-* Desc. promo Dic y Ene. $5.000
-* **Precio hasta 31 de Enero $15.000**
+* Desc. promo $5.000
+* **Precio hasta el 15 de Feb. $15.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
