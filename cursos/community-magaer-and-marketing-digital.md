@@ -6,21 +6,21 @@ description: >-
 
 # COMMUNITY MANAGER & MARKETING DIGITAL
 
-#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en FEBRERO solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 #### [volver](../)
 
 {% tabs %}
 {% tab title="COMMUNITY & MARKETING DIGITAL" %}
 * Costo $16.000
-* Desc. promo $4.000
-* **Precio hasta el 15 de FEB $12.000**
+* Desc. promo Dic y Ene. $4.000
+* **Precio hasta 31 de Enero $12.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 13.298 en 8 pagos de $1.663 |
-| FEB. | $ 12.000 en 7 pagos de $1.715 |
+| DIC. | $ 12.000 en 9 pagos de $1.334 |
+| ENE. | $ 12.000 en 8 pagos de $1.500 |
 {% endtab %}
 {% endtabs %}
 
@@ -28,8 +28,8 @@ description: >-
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 8 |
-| Viernes | 18:30 a 20:30 hrs | 6 |
+| Miércoles | 18:30 a 20:30 hrs | 12 |
+| Viernes | 18:30 a 20:30 hrs | 12 |
 
 #### [volver](../)
 

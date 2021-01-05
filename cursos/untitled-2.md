@@ -6,21 +6,21 @@ description: >-
 
 # DES. WEB FULL STACK
 
-#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en FEBRERO solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 #### [volver](../)
 
 {% tabs %}
 {% tab title="DES. WEB FULL STACK" %}
 * Costo $30.000
-* Desc. promo $8.000
-* **Precio hasta el 15 de FEB. $22.000**
+* Desc. promo Dic y Ene. $8.000
+* **Precio hasta 31 de Enero $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 23.298 en 13 pagos de $1.793 |
-| FEB. | $ 22.000 en 12 pagos de $1.834 |
+| DIC. | $ 22.000 en 14 pagos de $1.572 |
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
 {% endtab %}
 {% endtabs %}
 

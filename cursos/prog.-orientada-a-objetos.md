@@ -6,7 +6,9 @@ description: >-
 
 # PROG. ORIENTADA A OBJETOS
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 #### [volver](../)
 
