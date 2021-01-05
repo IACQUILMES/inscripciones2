@@ -1,25 +1,27 @@
 ---
 description: >-
-  36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022 - Grupos
-  reducidos
+  ONLINE EN VIVO - 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+  - Grupos reducidos
 ---
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
 
-#### Si te anotas en ENERO el valor que verás reflejado es por el total del curso y contempla el pago faltante de Enero del curso actual que es un total de $1.298. Si te anotas en FEBRERO solo está contemplado el precio final del curso. Promo válida hasta el 15 de Febrero. 
+CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+
+#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.572 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
 
 #### [volver](../)
 
 {% tabs %}
 {% tab title="DISEÑO GRÁFICO" %}
 * Costo  $30.000
-* Desc. promo $8.000
-* **Precio hasta el 15 de FEB $22.000**
+* Desc. promo  $8.000
+* **Precio hasta el 15 de Feb. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 23.298 en 13 pagos de $1.793 |
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
 | FEB. | $ 22.000 en 12 pagos de $1.834 |
 {% endtab %}
 {% endtabs %}
@@ -28,7 +30,7 @@ description: >-
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Martes | 17:00 a 19:00 hrs. | 10 |
+| Martes | 17:00 a 19:00 hrs. | 12 |
 | Martes | 19:00 a 21:00 hrs. | 6 |
 | Sábados | 13:00 a 15:00 hrs. | 7 |
 | Sábados | 15:00 a 17:00 hrs | 5 |
