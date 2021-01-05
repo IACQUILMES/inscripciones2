@@ -16,13 +16,13 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tab title="ARMADO Y REP. DE PC" %}
 * Costo $30.000
 * Desc. promo Dic y Ene. $8.000
-* **Precio hasta 31 de Enero $22.000**
+* **Precio hasta el 15 de Feb. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 22.000 en 14 pagos de $1.572 |
 | ENE. | $ 22.000 en 13 pagos de $1.693 |
+| FEB | $ 22.000 en 12 pagos de $1.834 |
 {% endtab %}
 {% endtabs %}
 
