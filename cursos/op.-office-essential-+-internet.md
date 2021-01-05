@@ -1,12 +1,14 @@
 ---
 description: >-
-  24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021 - Grupos
-  reducidos
+  ONLINE EN VIVO 24 clases de 2 horas. Inicia Abril 2021 - Finaliza Octubre 2021
+  - Grupos reducidos
 ---
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-#### Siempre vas a abonar mensualmente en efectivo, crédito, débito o transferencia. Por ejemplo, si te anotas en Diciembre comenzás tu plan de abono con pagos de $1.364 mensuales. Por Diciembre y Enero no estamos cobrando matrícula de inscripción
+CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 #### [volver](../)
 
