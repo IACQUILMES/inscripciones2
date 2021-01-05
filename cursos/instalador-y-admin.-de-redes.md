@@ -16,7 +16,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 {% tab title="INST. Y ADMIN. DE REDES" %}
 * Costo $30.000
 * Desc. promo Dic y Ene. $8.000
-* **Precio hasta 31 de Enero $22.000**
+* **Precio hasta el 15 de FEB. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
