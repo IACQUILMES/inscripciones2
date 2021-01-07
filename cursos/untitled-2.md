@@ -30,7 +30,8 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Jueves | 18:30 a 20:30 hrs | 12 |
+| Jueves | 18:30 a 20:30 hrs | 8 de 10 |
+| Sáb. | 10 a 12 hrs | 8 de 10 |
 
 #### [volver](../)
 
