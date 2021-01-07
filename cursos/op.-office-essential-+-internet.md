@@ -6,6 +6,10 @@ description: >-
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
+|  | 10 |
+| :--- | :--- |
+
+
 CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 #### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.500 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
@@ -30,10 +34,8 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | 10 |
-| Miércoles | 10:00 a 12:00 hrs. | 12 |
-| Sábados | 10:00 a 12:00 hrs | 10 |
-| Sábados | 12:00 a 14:00 hrs | 10 |
+| Lunes | 18:30 a 20:30 hrs. | 5 de 10 |
+| Sábados | 10:00 a 12:00 hrs | 6 de 10 |
 
 #### [volver](../)
 
