@@ -30,13 +30,13 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 12 |
-| Jueves | 18:30 a 20:30 hrs | 12 |
-| Viernes | 18:30 a 20:30 hrs | 12 |
-| Sábados | 10:00 a 12:00 hrs | 12 |
-| Sábados | 12:00 a 14:00 hrs | 12 |
-| Sábados | 14:00 a 16:00 hrs | 12 |
-| Sábados | 16:00 a 18:00 hrs | 12 |
+| Miércoles | 18:30 a 20:30 hrs | 4 |
+| Jueves | 18:30 a 20:30 hrs | 3 |
+| Viernes | 18:30 a 20:30 hrs | 8 |
+| Sábados | 10:00 a 12:00 hrs | 7 |
+| Sábados | 12:00 a 14:00 hrs | 5 |
+| Sábados | 14:00 a 16:00 hrs | 3 |
+| Sábados | 16:00 a 18:00 hrs | 8 |
 
 #### [volver](../)
 
