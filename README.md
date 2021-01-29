@@ -1,10 +1,10 @@
 ---
-description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tenemos una promo. No te quedes afuera. Vacantes limitadas \U0001F605 -"
+description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas a poder encontrar info sobre nuestros cursos, promos, días de cursada y temarios."
 ---
 
 # IAC Filial Quilmes 2021
 
-## HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS HASTA EL 15 DE FEB. PARA VOS 😉
+#### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS HASTA EL 15 DE FEB. PARA VOS 😉
 
 #### **CURSOS ONLINE EN VIVO**
 
