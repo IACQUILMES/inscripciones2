@@ -1,6 +1,6 @@
 # Table of contents
 
-* [INSCRIPCIÓN 2021](README.md)
+* [IAC Filial Quilmes 2021](README.md)
 
 ## CURSOS
 

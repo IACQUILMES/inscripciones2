@@ -2,7 +2,7 @@
 description: "Hola \U0001F44B si estás pensando en seguir estudiando ♥ , tenemos una promo. No te quedes afuera. Vacantes limitadas \U0001F605 -"
 ---
 
-# INSCRIPCIÓN 2021
+# IAC Filial Quilmes 2021
 
 ## HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS HASTA EL 15 DE FEB. PARA VOS 😉
 
