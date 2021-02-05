@@ -6,11 +6,13 @@ description: >-
 
 # PROG. ORIENTADA A OBJETOS
 
-CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
+**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### [volver](../)
+#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\) 
+
+
 
 {% tabs %}
 {% tab title="PROG. OBJETOS" %}

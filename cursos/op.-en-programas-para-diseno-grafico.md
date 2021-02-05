@@ -8,9 +8,9 @@ description: >-
 
 _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-**Se entrega certificación con código QR con todos tus datos, docente, matricula y notas**
+**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. 
+#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\) 
 
 {% tabs %}
 {% tab title="DISEÑO GRÁFICO" %}
