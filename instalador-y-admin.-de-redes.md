@@ -6,11 +6,11 @@ description: >-
 
 # INSTALADOR Y ADMIN. DE REDES
 
-CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos en nuestro Instituto de Quilmes centro.** 
 
-#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
+**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### [volver](./)
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 {% tabs %}
 {% tab title="INST. Y ADMIN. DE REDES" %}
@@ -33,8 +33,6 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 | Lunes | 10:00 a 12:00 hrs. | 0 |
 | Miércoles | 18:30 a 20:30 hrs. | 12 |
 | Sábados | 10:00 a 12:00 hrs | 12 |
-
-#### [volver](./)
 
 Convertite en un experto, dominando los conceptos, las tipologías, desempeñándote como instalador y administrador de todo tipo de redes. Éste curso, será imprescindible para quienes deseen, en un futuro, trabajar en el área técnica de grandes empresas, consultoras de sistemas y cómo una actividad independiente. Serás un elemento útil e imprescindible en el área de sistemas de cualquier empresa, tendrás habilidades técnicas en el ámbito de la informática y te permitirá resolver los habituales problemas que se desarrollan en el entorno de las organizaciones y sus redes.
 
