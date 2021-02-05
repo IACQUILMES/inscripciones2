@@ -10,7 +10,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM + INSTALAC
 
 #### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
-#### [volver](../)
+#### [volver](./)
 
 {% tabs %}
 {% tab title="TANGO GESTION" %}
@@ -33,15 +33,15 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM + INSTALAC
 | Lunes | 18:30 a 20:30 hrs. | 12 |
 | Jueves | 18:30 a 20:30 hrs. | 12 |
 
-#### [volver](../)
+#### [volver](./)
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/tango.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/tango.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+#### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
 

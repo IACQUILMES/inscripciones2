@@ -1,23 +1,28 @@
 ---
-description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+description: >-
+  TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 horas. Inicia
+  Abril 2021 - Finaliza Enero 2022 - Grupos reducidos
 ---
 
 # INSTALADOR Y ADMIN. DE REDES
 
-#### No te preocupes, el valor que verás reflejado es por el total del curso y contempla los pagos faltantes del curso actual de este año que es un total de $2.652 si te anotas en Diciembre, y de $1.326 si te anotas en Enero.
+CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 #### [volver](./)
 
 {% tabs %}
-{% tab title="DISEÑO GRÁFICO" %}
+{% tab title="INST. Y ADMIN. DE REDES" %}
 * Costo $30.000
-* Desc. Alumno $8.000
+* Desc. promo $8.000
+* **Precio hasta el 15 de FEB. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| DIC. | $ 24.652 en 14 pagos de $1.761 |
-| ENE. | $ 23.326 en 13 pagos de $1.795 |
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
+| FEB. | $ 22.000 en 12 pagos de $1.834 |
 {% endtab %}
 {% endtabs %}
 
@@ -25,7 +30,7 @@ description: 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 10:00 a 12:00 hrs. | 12 |
+| Lunes | 10:00 a 12:00 hrs. | 0 |
 | Miércoles | 18:30 a 20:30 hrs. | 12 |
 | Sábados | 10:00 a 12:00 hrs | 12 |
 

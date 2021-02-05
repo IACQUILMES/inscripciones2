@@ -8,25 +8,25 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### **CURSOS ONLINE EN VIVO**
 
-#### [Operador Tango Gestión](cursos/untitled-1.md)
+#### [Operador Tango Gestión](untitled-1.md)
 
-#### [Programación Orientado a Objetos](cursos/prog.-orientada-a-objetos.md)
+#### [Programación Orientado a Objetos](prog.-orientada-a-objetos.md)
 
-#### [Desarrollador Web Full Stack](cursos/untitled-2.md)
+#### [Desarrollador Web Full Stack](untitled-2.md)
 
-#### [Desarrollador JAVA Web Full Stack](cursos/des.-java-web-full-stack.md)
+#### [Desarrollador JAVA Web Full Stack](des.-java-web-full-stack.md)
 
-#### [Op. en programas para Diseño Gráfico](cursos/op.-en-programas-para-diseno-grafico.md)
+#### [Op. en programas para Diseño Gráfico](op.-en-programas-para-diseno-grafico.md)
 
-#### [Community Manager & Marketing Digital](cursos/community-magaer-and-marketing-digital.md)
+#### [Community Manager & Marketing Digital](community-magaer-and-marketing-digital.md)
 
-#### [Operador Office Full](cursos/op.-office-full.md)
+#### [Operador Office Full](op.-office-full.md)
 
-#### [Operador Office Essential + Internet](cursos/op.-office-essential-+-internet.md)
+#### [Operador Office Essential + Internet](op.-office-essential-+-internet.md)
 
 #### **CURSOS MIXTOS \(ONLINE EN VIVO + PRÁCTICA PRESENCIAL\)**
 
-#### [Armado y Reparación de PC](cursos/armado-y-rep.-de-pc.md)
+#### [Armado y Reparación de PC](armado-y-rep.-de-pc.md)
 
-#### [Instalador y Administrador de Redes](cursos/instalador-y-admin.-de-redes.md)
+#### [Instalador y Administrador de Redes](instalador-y-admin.-de-redes.md)
 

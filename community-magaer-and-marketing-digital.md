@@ -37,9 +37,9 @@ Vas a aprender conceptos de marketing digital y cómo aplicarlos en la creación
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/community-and-marketin-digital.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/community-and-marketin-digital.pdf" caption="TEMARIO" %}
 
-#### [volver](../)
+#### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
 

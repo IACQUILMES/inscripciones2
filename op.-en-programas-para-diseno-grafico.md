@@ -40,13 +40,13 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/diseno-grafico.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/diseno-grafico.pdf" caption="TEMARIO" %}
 
 #### Descarga trabajos que realizas durante la cursada haciendo clic abajo
 
-{% file src="../.gitbook/assets/diseno-grafico-trabajos.pdf" caption="TRABAJOS QUE REALIZAS EN LA CURSADA" %}
+{% file src=".gitbook/assets/diseno-grafico-trabajos.pdf" caption="TRABAJOS QUE REALIZAS EN LA CURSADA" %}
 
-#### [volver](../)
+#### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 

@@ -10,7 +10,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 #### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.500 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
-#### [volver](../)
+#### [volver](./)
 
 {% tabs %}
 {% tab title="OFFICE ESSENTIAL" %}
@@ -33,7 +33,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 | Lunes | 18:30 a 20:30 hrs. | 5 de 10 |
 | Sábados | 10:00 a 12:00 hrs | 6 de 10 |
 
-#### [volver](../)
+#### [volver](./)
 
 **Vas a aprender: Windows, Word, Excel,** **Internet**. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 
@@ -41,7 +41,7 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 
 ### [TEMARIO](https://app.gitbook.com/@iacquilmes/s/officessential/)
 
-#### [volver](../)
+#### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
 
