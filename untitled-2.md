@@ -10,7 +10,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 #### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\) 
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 {% tabs %}
 {% tab title="DES. WEB FULL STACK" %}
