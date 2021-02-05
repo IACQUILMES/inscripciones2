@@ -6,25 +6,24 @@ description: >-
 
 # OP. EN PROGRAMAS PARA DISEÑO GRAFICO
 
-_Todas las clases son online en vivo, también se graban y se guardan junto con apuntes y ejercicios que realizas dentro de un aula virtual para los alumnxs del curso._ ****
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-**Una vez finalizado el curso, se entrega certificación con código QR con todos tus datos, docente, matricula y notas**
+**Se entrega certificación con código QR con todos tus datos, docente, matricula y notas**
 
-#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
-
-#### [volver](../)
+#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. 
 
 {% tabs %}
 {% tab title="DISEÑO GRÁFICO" %}
 * Costo  $30.000
-* Desc. promo  $8.000
+* Desc. por promo  $8.000
 * **Precio hasta el 15 de FEB. $22.000**
 * Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 22.000 en 13 pagos de $1.693 |
-| FEB. | $ 22.000 en 12 pagos de $1.834 |
+| FEB. | $ 22.000 en 12 pagos de $ 1.834 |
+| MAR | $ 24.000 en 11 pagos de $ 2.182 |
+| ABR | $ 30.000 en 10 pagos de $ 3.000 |
 {% endtab %}
 {% endtabs %}
 
@@ -32,14 +31,12 @@ _Todas las clases son online en vivo, también se graban y se guardan junto con 
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Martes | 17:00 a 19:00 hrs. | 12 |
+| Martes | 17:00 a 19:00 hrs. | 3 |
 | Martes | 19:00 a 21:00 hrs. | 6 |
 | Sábados | 13:00 a 15:00 hrs. | 7 |
 | Sábados | 15:00 a 17:00 hrs | 5 |
 
-#### [volver](../)
-
-El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son Photoshop, Illustrator, Indesign, XD y Corel Draw.
+El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son Photoshop, Illustrator, Indesign, Figma y Corel Draw.
 
 #### Descarga el temario completo haciendo clic abajo
 
