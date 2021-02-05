@@ -6,11 +6,11 @@ description: >-
 
 # DES. WEB FULL STACK
 
-CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.693 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
+#### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### [volver](../)
+#### Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\) 
 
 {% tabs %}
 {% tab title="DES. WEB FULL STACK" %}
@@ -32,8 +32,6 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM
 | :--- | :--- | :--- |
 | Jueves | 18:30 a 20:30 hrs | 8 de 10 |
 | Sáb. | 10 a 12 hrs | 8 de 10 |
-
-#### [volver](../)
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
