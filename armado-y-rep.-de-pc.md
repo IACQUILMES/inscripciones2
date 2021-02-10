@@ -6,6 +6,8 @@ description: >-
 
 # ARMADO Y REP. DE PC
 
+**SOLO PARA QUILMES Y ALREDEDORES**
+
 _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos en nuestro Instituto de Quilmes centro.**
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
@@ -31,9 +33,9 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | 3 |
-| Miércoles | 10:00 a 12:00 hrs. | 0 |
-| Jueves | 17 a 19 hrs | 4 |
-| Jueves | 19 a 21 hrs | 5 |
+| Miércoles | 10:00 a 12:00 hrs. | 5 |
+| Jueves | 17 a 19 hrs | 5 |
+| Jueves | 19 a 21 hrs | 0 |
 | Sábados | 12:00 a 14:00 hrs | 4 |
 | Sábados | 14:00 a 16:00 hrs | 3 |
 | Sábados | 16:00 a 18:00 hrs | 3 |
