@@ -21,8 +21,9 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 | MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| ENE. | $ 12.000 en 8 pagos de $1.500 |
 | FEB. | $ 12.000 en 7 pagos de $1.715 |
+| MAR | $ 14.000 en 6 pagos de $2.334 |
+| ABR | $16.000 en 5 pagos de $3.200 |
 {% endtab %}
 {% endtabs %}
 
