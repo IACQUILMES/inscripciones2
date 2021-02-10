@@ -31,8 +31,8 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 10:00 a 12:00 hrs. | 0 |
-| Miércoles | 18:30 a 20:30 hrs. | 12 |
-| Sábados | 10:00 a 12:00 hrs | 12 |
+| Miércoles | 18:30 a 20:30 hrs. | 8 |
+| Sábados | 10:00 a 12:00 hrs | 8 |
 
 Convertite en un experto, dominando los conceptos, las tipologías, desempeñándote como instalador y administrador de todo tipo de redes. Éste curso, será imprescindible para quienes deseen, en un futuro, trabajar en el área técnica de grandes empresas, consultoras de sistemas y cómo una actividad independiente. Serás un elemento útil e imprescindible en el área de sistemas de cualquier empresa, tendrás habilidades técnicas en el ámbito de la informática y te permitirá resolver los habituales problemas que se desarrollan en el entorno de las organizaciones y sus redes.
 
