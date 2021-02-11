@@ -45,9 +45,9 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/arm.-y-reparacion-de-pc.pdf" caption="TEMARIO" %}
-
 #### [volver](./)
+
+{% file src=".gitbook/assets/rep.-pc.pdf" caption="TEMARIO" %}
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
 
