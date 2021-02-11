@@ -21,10 +21,10 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
-| PLAN | PLAN DE CUOTAS |
+| PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | $ 22.000 en 12 pagos de $1.834 - Tu prox. pago es en Marzo |
-| PLAN 2 | $22.000 en 11 pagos de $2.000 - Tu prox. pago es en Abril |
+| PLAN 1 | $ 22.000 en 12 pagos de $1.834 - Tu próx. pago es en Marzo |
+| PLAN 2 | $22.000 en 11 pagos de $2.000 - Tu próx. pago es en Abril |
 {% endhint %}
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
