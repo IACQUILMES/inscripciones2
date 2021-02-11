@@ -10,8 +10,6 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.462 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
-
 💥PROMOS💥 
 
 {% hint style="success" %}
