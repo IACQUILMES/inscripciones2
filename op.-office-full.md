@@ -1,10 +1,10 @@
 ---
-description: >-
-  ONLINE EN VIVO + 36 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
-  - Grupos reducidos
+description: ONLINE EN VIVO + 36 clases de 2 horas.
 ---
 
 # OP. OFFICE FULL
+
+**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
 _Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
 
