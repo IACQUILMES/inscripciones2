@@ -10,6 +10,8 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+
 💥PROMOS💥 
 
 {% hint style="success" %}
@@ -24,8 +26,6 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | PLAN 1 | **$ 19.000** en **12 pagos** de **$1.584** - Tu próx. pago es en Marzo |
 | PLAN 2 | **$ 19.000** en **11 pagos** de **$1.728** - Tu próx. pago es en Abril |
 {% endhint %}
-
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 #### Días y horarios
 
