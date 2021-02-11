@@ -30,8 +30,8 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Jueves | 18:30 a 20:30 hrs | 8 de 10 |
-| Sáb. | 10 a 12 hrs | 8 de 10 |
+| Jueves | 18:30 a 20:30 hrs | 3 |
+| Sáb. | 10 a 12 hrs | 3 |
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
