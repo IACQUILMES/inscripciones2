@@ -12,8 +12,6 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-
-
 💥**PROMO HASTA EL 20 DE FEB**💥 
 
 {% hint style="success" %}
@@ -29,26 +27,12 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 | PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - Primer pago en Feb, próx. en Abr. |
 {% endhint %}
 
-{% tabs %}
-{% tab title="DES. WEB FULL STACK" %}
-* Costo $30.000
-* Desc. promo $8.000
-* **Precio hasta el 15 de FEB. $22.000**
-* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
-
-| MES | PLAN DE CUOTAS |
-| :--- | :--- |
-| ENE. | $ 22.000 en 13 pagos de $1.693 |
-| FEB. | $ 22.000 en 12 pagos de $1.834 |
-{% endtab %}
-{% endtabs %}
-
 #### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Jueves | 18:30 a 20:30 hrs | 3 |
-| Sáb. | 10 a 12 hrs | 3 |
+| Jueves | 18:30 a 20:30 hrs | 3 de 12 |
+| Sáb. | 10 a 12 hrs | 3 de 12 |
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
@@ -63,4 +47,10 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 #### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)
+
+
+
+|  |
+| :--- |
+
 
