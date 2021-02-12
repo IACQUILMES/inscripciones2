@@ -10,7 +10,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+#### Todos los meses, te enviamos un link por mercadopago para que abones en efectivo, crédito, débito ó transferencia. Si te anotas en ENERO comenzás tu plan de abono con pagos de $1.462 mensuales. Por Enero y Febrero no estamos cobrando matrícula de inscripción.
 
 💥PROMOS💥 
 
@@ -27,17 +27,19 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | PLAN 2 | **$ 19.000** en **11 pagos** de **$1.728** - Tu próx. pago es en Abril |
 {% endhint %}
 
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+
 #### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 4 de 10 |
-| Jueves | 18:30 a 20:30 hrs | 0 de 10 |
-| Viernes | 18:30 a 20:30 hrs | 5 de 10 |
-| Sábados | 10:00 a 12:00 hrs | 4 de 10 |
-| Sábados | 12:00 a 14:00 hrs | 5 de 10 |
-| Sábados | 14:00 a 16:00 hrs | 3 de 10 |
-| Sábados | 16:00 a 18:00 hrs | 6 de 10 |
+| Miércoles | 18:30 a 20:30 hrs | 4 de 12 |
+| Jueves | 18:30 a 20:30 hrs | 0 de 12 |
+| Viernes | 18:30 a 20:30 hrs | 5 de 12 |
+| Sábados | 10:00 a 12:00 hrs | 4 de 12 |
+| Sábados | 12:00 a 14:00 hrs | 5 de 12 |
+| Sábados | 14:00 a 16:00 hrs | 3 de 12 |
+| Sábados | 16:00 a 18:00 hrs | 6 de 12 |
 
 **Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 

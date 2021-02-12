@@ -31,8 +31,8 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 4 de 12 |
-| Viernes | 18:30 a 20:30 hrs | 5 de 12 |
+| Miércoles | 18:30 a 20:30 hrs | 4 |
+| Viernes | 18:30 a 20:30 hrs | 5 |
 
 Vas a aprender conceptos de marketing digital y cómo aplicarlos en la creación de campañas publicitarias. Harás planeación estratégica donde delinearas objetivos: audiencia, producto, cliente y qué plataformas ayudarán a que tengas éxito. Vas a segmentar y plantear campañas para Facebook e Instagram, aprenderás sobre reputación online y generación de tráfico, además de herramientas de trabajo. Aprenderás sobre herramientas de creación de gráfica e infografía.
 
