@@ -33,10 +33,10 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Martes | 17:00 a 19:00 hrs. | 3 |
-| Martes | 19:00 a 21:00 hrs. | 6 |
-| Sábados | 13:00 a 15:00 hrs. | 7 |
-| Sábados | 15:00 a 17:00 hrs | 5 |
+| Martes | 17:00 a 19:00 hrs. | 3 de 10 |
+| Martes | 19:00 a 21:00 hrs. | 6 de 10 |
+| Sábados | 13:00 a 15:00 hrs. | 7 de 10 |
+| Sábados | 15:00 a 17:00 hrs | 5 de 10 |
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son Photoshop, Illustrator, Indesign, Figma y Corel Draw.
 
