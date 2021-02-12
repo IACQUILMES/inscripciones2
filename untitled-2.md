@@ -50,7 +50,3 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 
 
 
-|  |
-| :--- |
-
-
