@@ -39,7 +39,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/programacion-objetos-.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/poo.pdf" caption="TEMARIO" %}
 
 #### [volver](./)
 
