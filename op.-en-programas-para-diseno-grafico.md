@@ -25,8 +25,8 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Tu próx. pago es en Marzo |
-| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - Tu próx. pago es en Abril |
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Primer pago en Feb., próx. en Mar. |
+| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - Primer pago en Feb, próx. en Abr. |
 {% endhint %}
 
 #### Días y horarios
