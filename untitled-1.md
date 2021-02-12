@@ -30,8 +30,8 @@ CERTIFICACIÓN + APUNTES + GRABACIÓN DE TODAS LAS CLASES + CLASSROOM + INSTALAC
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | 12 |
-| Jueves | 18:30 a 20:30 hrs. | 12 |
+| Lunes | 18:30 a 20:30 hrs. | 4 de 12 |
+| Jueves | 18:30 a 20:30 hrs. | 5 de 12 |
 
 #### [volver](./)
 

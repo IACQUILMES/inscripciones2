@@ -8,11 +8,9 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
-**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ ****
+**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ ****
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
-
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 💥PROMOS💥 
 
@@ -28,6 +26,8 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 | PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Tu próx. pago es en Marzo |
 | PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - Tu próx. pago es en Abril |
 {% endhint %}
+
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 #### Días y horarios
 
