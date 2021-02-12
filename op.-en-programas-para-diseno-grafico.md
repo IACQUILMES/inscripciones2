@@ -12,20 +12,20 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-{% tabs %}
-{% tab title="DISEÑO GRÁFICO" %}
-* Costo  $30.000
-* Desc. por promo  $8.000
-* **Precio hasta el 15 de FEB. $22.000**
-* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
+💥PROMOS💥 
 
-| MES | PLAN DE CUOTAS |
+{% hint style="success" %}
+* Costo del curso $30.000
+* Desc. por promo $8.000
+* **Precio hasta el 15 de FEB. $22.000**
+* **Sin cargos de Inscripción**
+* **Descuento de $100 en cada pago abonando del 1 al 5.** 
+
+| PLAN | PAGOS |
 | :--- | :--- |
-| FEB. | $ 22.000 en 12 pagos de $ 1.834 |
-| MAR | $ 24.000 en 11 pagos de $ 2.182 |
-| ABR | $ 30.000 en 10 pagos de $ 3.000 |
-{% endtab %}
-{% endtabs %}
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Tu próx. pago es en Marzo |
+| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - Tu próx. pago es en Abril |
+{% endhint %}
 
 #### Días y horarios
 
@@ -49,6 +49,8 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 #### [volver](./)
 
 ### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
+
+
 
 #### 
 
