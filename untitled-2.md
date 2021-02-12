@@ -42,7 +42,7 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/desarrollo-web-full-stack.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/des.-web.pdf" caption="TEMARIO" %}
 
 #### [volver](./)
 
