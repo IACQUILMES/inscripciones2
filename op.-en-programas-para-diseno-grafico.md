@@ -6,7 +6,7 @@ description: ONLINE EN VIVO + 36 clases de 2 horas.
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign, etc.** 
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign, etc.** 
 
 _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la distancia._
 
@@ -25,8 +25,8 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Primer pago en Feb., próx. en Mar. |
-| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - Primer pago en Feb, próx. en Abr. |
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Primer pago en Feb., segundo en Mar.** |
+| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
 #### Días y horarios
