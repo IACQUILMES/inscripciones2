@@ -23,10 +23,8 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834.**  |
-|  | Todos sus pagos son de $1.834. Su primer pago es en Feb, el segundo en Mar., el tercero en Abr.  |
-| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000**  |
-|  | Todos sus pagos son de $2.000. Su primer pago es en Feb, y el segundo pago recién es en Abril. |
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834. Primer pago en Feb., segundo en Mar.** |
+| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000. Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
 #### Días y horarios
