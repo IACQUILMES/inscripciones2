@@ -6,7 +6,7 @@ description: ONLINE EN VIVO + 30 clases de 2 horas.
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
 #### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
