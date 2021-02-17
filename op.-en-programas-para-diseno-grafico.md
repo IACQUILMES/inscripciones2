@@ -50,7 +50,7 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 #### [volver](./)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
+### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 
 
 
