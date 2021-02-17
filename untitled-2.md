@@ -12,7 +12,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 20 DE FEB**💥 
+💥**PROMO HASTA EL 28 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
