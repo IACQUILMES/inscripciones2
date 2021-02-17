@@ -14,7 +14,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥PROMOS💥 
+💥**PROMOS HASTA EL 28 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
@@ -29,7 +29,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 | PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - Tu próx. pago es en Abril |
 {% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
