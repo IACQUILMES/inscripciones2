@@ -6,13 +6,13 @@ description: ONLINE EN VIVO + 36 clases de 2 horas.
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
-_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
+_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥PROMOS💥 
+💥**PROMOS HASTA EL 28 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
@@ -27,7 +27,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | PLAN 2 | **$ 19.000** en **11 pagos** de **$1.728** - **Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |

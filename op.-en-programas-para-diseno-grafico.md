@@ -14,7 +14,7 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 28 DE FEB**💥 
+💥**PROMO HASTA EL 20 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
@@ -29,7 +29,7 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 | PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
-#### Podes cursar en uno de estos grupos:
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 #### [volver](./)
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 
 
 
