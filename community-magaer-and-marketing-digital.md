@@ -15,9 +15,9 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 💥**PROMOS HASTA EL 28 DE FEB**💥 
 
 {% hint style="success" %}
-* Costo del curso $30.000
-* Desc. por promo $8.000
-* **Precio hasta el 15 de FEB. $22.000**
+* Costo del curso $16.000
+* Desc. por promo $4.000
+* **Precio hasta el 28 de FEB. $12.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
