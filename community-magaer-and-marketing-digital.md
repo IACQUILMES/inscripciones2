@@ -42,5 +42,5 @@ Vas a aprender conceptos de marketing digital y cómo aplicarlos en la creación
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
 
-#### [volver](./)
+#### [Mirá todos nuestros cursos](./)
 

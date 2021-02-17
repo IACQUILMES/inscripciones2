@@ -8,28 +8,28 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
-**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ ****
+**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ ****
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥PROMOS💥 
+💥**PROMOS HASTA EL 28 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $8.000
-* **Precio hasta el 15 de FEB. $22.000**
+* **Precio hasta el 28 de FEB. $22.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - Tu próx. pago es en Marzo |
-| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - Tu próx. pago es en Abril |
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Primer pago en Feb., segundo en Mar.** |
+| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -45,9 +45,9 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 #### Descarga el temario completo haciendo clic abajo
 
-#### [volver](./)
-
 {% file src=".gitbook/assets/rep.-pc.pdf" caption="TEMARIO" %}
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+
+#### [Mirá todos nuestros cursos](./)
 
