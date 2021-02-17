@@ -29,7 +29,7 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 | PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
 {% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |

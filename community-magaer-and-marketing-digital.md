@@ -12,22 +12,22 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-{% tabs %}
-{% tab title="COMMUNITY & MARKETING DIGITAL" %}
-* Costo $16.000
-* Desc. promo $4.000
-* **Precio hasta el 15 de FEB. $12.000**
-* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
+💥**PROMOS HASTA EL 28 DE FEB**💥 
 
-| MES | PLAN DE CUOTAS |
+{% hint style="success" %}
+* Costo del curso $30.000
+* Desc. por promo $8.000
+* **Precio hasta el 15 de FEB. $22.000**
+* **Sin cargos de Inscripción**
+* **Descuento de $100 en cada pago abonando del 1 al 5.** 
+
+| PLAN | PAGOS |
 | :--- | :--- |
-| FEB. | $ 12.000 en 7 pagos de $1.715 |
-| MAR | $ 14.000 en 6 pagos de $2.334 |
-| ABR | $16.000 en 5 pagos de $3.200 |
-{% endtab %}
-{% endtabs %}
+| PLAN 1 | **$ 12.000** en **7 pagos** de **$1.715** - **Primer pago en Feb., segundo en Mar.** |
+| PLAN 2 | **$ 12.000** en **6 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
+{% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |

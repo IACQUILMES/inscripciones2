@@ -6,27 +6,32 @@ description: >-
 
 # INSTALADOR Y ADMIN. DE REDES
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos en nuestro Instituto de Quilmes centro.** 
+**SOLO PARA QUILMES Y ALREDEDORES**
+
+**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
+
+**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ ****
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-{% tabs %}
-{% tab title="INST. Y ADMIN. DE REDES" %}
-* Costo $30.000
-* Desc. promo $8.000
+💥**PROMOS HASTA EL 28 DE FEB**💥 
+
+{% hint style="success" %}
+* Costo del curso $30.000
+* Desc. por promo $8.000
 * **Precio hasta el 15 de FEB. $22.000**
-* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
+* **Sin cargos de Inscripción**
+* **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
-| MES | PLAN DE CUOTAS |
+| PLAN | PAGOS |
 | :--- | :--- |
-| ENE. | $ 22.000 en 13 pagos de $1.693 |
-| FEB. | $ 22.000 en 12 pagos de $1.834 |
-{% endtab %}
-{% endtabs %}
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Primer pago en Feb., segundo en Mar.** |
+| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
+{% endhint %}
 
-#### Días y horarios
+#### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -42,5 +47,5 @@ Convertite en un experto, dominando los conceptos, las tipologías, desempeñán
 
 #### [volver](./)
 
-### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
+### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
 
