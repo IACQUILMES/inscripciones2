@@ -1,7 +1,5 @@
 ---
-description: >-
-  ONLINE EN VIVO - 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
-  - Grupos reducidos
+description: ONLINE EN VIVO - 30 clases de 2 horas.
 ---
 
 # OP. SIST. TANGO GESTION
