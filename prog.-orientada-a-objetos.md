@@ -1,37 +1,36 @@
 ---
-description: ONLINE EN VIVO + 30 clases de 2 horas.
+description: >-
+  ONLINE EN VIVO + 30 clases de 2 horas. Inicia Abril 2021 - Finaliza Enero 2022
+  - Grupos reducidos
 ---
 
 # PROG. ORIENTADA A OBJETOS
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
-
-#### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
+**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 28 DE FEB**💥 
+{% tabs %}
+{% tab title="PROG. OBJETOS" %}
+* Costo $30.000
+* Desc. promo $8.000
+* **Precio hasta el 15 de FEB. $22.000**
+* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
-{% hint style="success" %}
-* Costo del curso $30.000
-* Desc. por promo $8.000
-* **Precio hasta el 28 de FEB. $22.000**
-* **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
+| MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Primer pago en Feb., segundo en Mar.** |
-| PLAN 2 | **$ 22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
-{% endhint %}
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
+| FEB. | $ 22.000 en 12 pagos de $1.834 |
+{% endtab %}
+{% endtabs %}
 
-#### Dia y horario de cursada
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs. | 2 |
+| Miércoles | 18:30 a 20:30 hrs. | 3 |
 
 **Diagramación lógica \(algoritmos\)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.  
@@ -42,11 +41,9 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 {% file src=".gitbook/assets/poo.pdf" caption="TEMARIO" %}
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Prog.%20Objetos)
+#### [volver](./)
 
-#### \*\*\*\*[Mirá todos nuestros cursos](./)
-
-#### 
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Prog.%20Objetos)
 
 \_\_
 

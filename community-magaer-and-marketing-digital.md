@@ -1,33 +1,33 @@
 ---
-description: ONLINE EN VIVO + 18 clases de 2 horas.
+description: >-
+  ONLINE EN VIVO + 18 clases de 2 horas. Inicia Abril 2021 - Finaliza Agosto
+  2021 - Grupos reducidos
 ---
 
 # COMMUNITY MANAGER & MARKETING DIGITAL
 
-**Inicia Abril 2021 - Finaliza Agosto 2021 - Vacantes limitadas**
-
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 28 DE FEB**💥 
+{% tabs %}
+{% tab title="COMMUNITY & MARKETING DIGITAL" %}
+* Costo $16.000
+* Desc. promo $4.000
+* **Precio hasta el 15 de FEB. $12.000**
+* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
-{% hint style="success" %}
-* Costo del curso $16.000
-* Desc. por promo $4.000
-* **Precio hasta el 28 de FEB. $12.000**
-* **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
+| MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| PLAN 1 | **$ 12.000** en **7 pagos** de **$1.715** - **Primer pago en Feb., segundo en Mar.** |
-| PLAN 2 | **$ 12.000** en **6 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
-{% endhint %}
+| FEB. | $ 12.000 en 7 pagos de $1.715 |
+| MAR | $ 14.000 en 6 pagos de $2.334 |
+| ABR | $16.000 en 5 pagos de $3.200 |
+{% endtab %}
+{% endtabs %}
 
-#### Podes cursar en uno de estos grupos:
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ Vas a aprender conceptos de marketing digital y cómo aplicarlos en la creación
 
 {% file src=".gitbook/assets/community-and-marketin-digital.pdf" caption="TEMARIO" %}
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
+#### [volver](./)
 
-#### [Mirá todos nuestros cursos](./)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Community%20Manager)
 
