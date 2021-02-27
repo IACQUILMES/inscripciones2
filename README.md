@@ -24,8 +24,6 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### [Operador Office Essential + Internet](op.-office-essential-+-internet.md)
 
-#### **CURSOS MIXTOS \(ONLINE EN VIVO + PRÁCTICA PRESENCIAL\)**
-
 #### [Armado y Reparación de PC](armado-y-rep.-de-pc.md)
 
 #### [Instalador y Administrador de Redes](instalador-y-admin.-de-redes.md)
