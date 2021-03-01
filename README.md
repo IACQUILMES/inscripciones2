@@ -8,23 +8,23 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### **CURSOS ONLINE EN VIVO**
 
-#### [Operador Tango Gestión](untitled-1.md)
+#### [Operador Tango Gestión](tangogestion.md)
 
-#### [Programación Orientado a Objetos](prog.-orientada-a-objetos.md)
+#### [Programación Orientado a Objetos](progobjetos.md)
 
-#### [Desarrollador Web Full Stack](untitled-2.md)
+#### [Desarrollador Web Full Stack](deswebfullstack.md)
 
 #### [Desarrollador JAVA Web Full Stack](des.-java-web-full-stack.md)
 
-#### [Op. en programas para Diseño Gráfico](op.-en-programas-para-diseno-grafico.md)
+#### [Op. en programas para Diseño Gráfico](disenografico.md)
 
 #### [Community Manager & Marketing Digital](community-magaer-and-marketing-digital.md)
 
-#### [Operador Office Full](op.-office-full.md)
+#### [Operador Office Full](officefull.md)
 
-#### [Operador Office Essential + Internet](op.-office-essential-+-internet.md)
+#### [Operador Office Essential + Internet](officessential.md)
 
-#### [Armado y Reparación de PC](armyrepcspresencial.md)
+#### [Armado y Reparación de PC](reppc.md)
 
-#### [Instalador y Administrador de Redes](instalador-y-admin.-de-redes.md)
+#### [Instalador y Administrador de Redes](redesonline.md)
 
