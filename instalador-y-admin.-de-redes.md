@@ -17,14 +17,14 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $8.000
-* **Precio hasta el 28 de FEB. $22.000**
+* **Precio del curso hasta el 10 de Mar. $22.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Primer pago en Feb., segundo en Mar.** |
-| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - **Primer pago en Feb., segundo en Abr.** |
+| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Abonas de Mar. a Feb.** |
+| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - **Abonas de Mar. a Ene.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
