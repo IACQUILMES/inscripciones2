@@ -24,7 +24,7 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### [Operador Office Essential + Internet](op.-office-essential-+-internet.md)
 
-#### [Armado y Reparación de PC](armado-y-rep.-de-pc.md)
+#### [Armado y Reparación de PC](armyrepcspresencial.md)
 
 #### [Instalador y Administrador de Redes](instalador-y-admin.-de-redes.md)
 
