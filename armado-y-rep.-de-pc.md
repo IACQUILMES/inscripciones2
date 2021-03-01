@@ -8,9 +8,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 h
 
 **SOLO PARA QUILMES Y ALREDEDORES**
 
-[**SI QUERES CURSAR ONLINE HACE CLIC ACA**](armyrepc.md)\*\*\*\*
 
-[**SI QUERES CURSAR SEMIPRESENCIAL HACE CLIC ACA**](armyrepcspresencial.md)\*\*\*\*
 
 **La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ ****
 

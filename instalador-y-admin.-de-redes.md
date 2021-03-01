@@ -1,37 +1,36 @@
 ---
-description: ONLINE EN VIVO + 30 clases de 2 horas.
+description: >-
+  TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 horas. Inicia
+  Abril 2021 - Finaliza Enero 2022 - Grupos reducidos
 ---
 
 # INSTALADOR Y ADMIN. DE REDES
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
-
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los alumnxs del curso._ **La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos en nuestro Instituto de Quilmes centro.** 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 10 DE MARZO**💥 
+{% tabs %}
+{% tab title="INST. Y ADMIN. DE REDES" %}
+* Costo $30.000
+* Desc. promo $8.000
+* **Precio hasta el 15 de FEB. $22.000**
+* Si abonas del 1 al 5 tenes un desc. de $100 en cada pago
 
-{% hint style="success" %}
-* Costo del curso $30.000
-* Desc. por promo $8.000
-* **Precio del curso hasta el 10 de Mar. $22.000**
-* **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
+| MES | PLAN DE CUOTAS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **12 pagos** de **$1.834** - **Abonas de Mar. a Feb.** |
-| PLAN 2 | **$22.000** en **11 pagos** de **$2.000** - **Abonas de Mar. a Ene.** |
-{% endhint %}
+| ENE. | $ 22.000 en 13 pagos de $1.693 |
+| FEB. | $ 22.000 en 12 pagos de $1.834 |
+{% endtab %}
+{% endtabs %}
 
-#### Podes cursar en uno de estos grupos:
+#### Días y horarios
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 10:00 a 12:00 hrs. | sin vac. |
+| Lunes | 10:00 a 12:00 hrs. | 0 de 10 |
 | Miércoles | 18:30 a 20:30 hrs. | 8 de 10 |
 | Sábados | 10:00 a 12:00 hrs | 8 de 10 |
 
@@ -41,7 +40,7 @@ Convertite en un experto, dominando los conceptos, las tipologías, desempeñán
 
 {% file src=".gitbook/assets/redes.pdf" caption="TEMARIO" %}
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
+#### [volver](./)
 
-#### \*\*\*\*[Mirá todos nuestros cursos](./)
+### [Escribinos al WhatsApp](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Inst.%20Adm.%20de%20Redes)
 

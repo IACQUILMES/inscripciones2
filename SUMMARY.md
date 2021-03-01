@@ -12,5 +12,5 @@
 * [COMMUNITY MANAGER & MARKETING DIGITAL](community-magaer-and-marketing-digital.md)
 * [DES. JAVA WEB FULL STACK](des.-java-web-full-stack.md)
 * [ARMADO Y REP. DE PC ONLINE](armyrepc.md)
-* [ARMADO Y REP. DE PC SEMIPRENCIAL](armyrepcspresencial.md)
+* [ARMADO Y REP. DE PC](armyrepcspresencial.md)
 
