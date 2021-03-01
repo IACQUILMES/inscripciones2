@@ -11,6 +11,6 @@
 * [OP. SIST. TANGO GESTION](tangogestion.md)
 * [OP. OFFICE FULL](officefull.md)
 * [OP. OFFICE ESSENTIAL & INTERNET](officessential.md)
-* [COMMUNITY MANAGER & MARKETING DIGITAL](community-magaer-and-marketing-digital.md)
-* [DES. JAVA WEB FULL STACK](des.-java-web-full-stack.md)
+* [COMMUNITY MANAGER & MARKETING DIGITAL](communityandmarketing.md)
+* [DES. JAVA WEB FULL STACK](desjava.md)
 

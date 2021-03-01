@@ -14,11 +14,11 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### [Desarrollador Web Full Stack](deswebfullstack.md)
 
-#### [Desarrollador JAVA Web Full Stack](des.-java-web-full-stack.md)
+#### [Desarrollador JAVA Web Full Stack](desjava.md)
 
 #### [Op. en programas para Diseño Gráfico](disenografico.md)
 
-#### [Community Manager & Marketing Digital](community-magaer-and-marketing-digital.md)
+#### [Community Manager & Marketing Digital](communityandmarketing.md)
 
 #### [Operador Office Full](officefull.md)
 
