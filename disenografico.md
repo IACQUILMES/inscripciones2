@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO + 36 clases de 2 horas.
 ---
 
-# DISEÑO GRAFICO
+# OP. EN PROG. PARA DISEÑO GRAFICO
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
 
