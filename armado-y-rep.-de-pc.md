@@ -1,5 +1,5 @@
 ---
-description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 30 clases de 2 horas.
+description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 36 clases de 2 horas.
 ---
 
 # ARMADO Y REP. DE PC SEMIPRESENCIAL
