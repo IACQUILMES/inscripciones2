@@ -32,9 +32,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 36 clases de 2 h
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | 3 de 10 |
-| Miércoles | 10:00 a 12:00 hrs. | sin vac. |
 | Jueves | 17 a 19 hrs | 5 de 10 |
-| Jueves | 19 a 21 hrs | solo online |
 | Sábados | 12:00 a 14:00 hrs | 4 de 10 |
 | Sábados | 14:00 a 16:00 hrs | 3 de 10 |
 | Sábados | 16:00 a 18:00 hrs | 3 de 10 |
