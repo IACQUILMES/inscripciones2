@@ -14,7 +14,7 @@ _Te las instalamos por controlador remoto una **versión educativa de Tango Gest
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 28 DE FEB**💥 
+💥**PROMO HASTA EL 10 DE FEB**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
@@ -33,8 +33,8 @@ _Te las instalamos por controlador remoto una **versión educativa de Tango Gest
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | 4 de 10 |
-| Jueves | 18:30 a 20:30 hrs. | 5 de 10 |
+| Lunes | 18:30 a 20:30 hrs. | sin vacantes |
+| Jueves | 18:30 a 20:30 hrs. | 5 de 8 |
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
