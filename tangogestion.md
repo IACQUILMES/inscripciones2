@@ -14,7 +14,7 @@ _Te las instalamos por controlador remoto una **versión educativa de Tango Gest
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 10 DE FEB**💥 
+💥**PROMO HASTA EL 10 DE MARZO**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
