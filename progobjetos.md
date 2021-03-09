@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO + 30 clases de 2 horas.
 ---
 
-# PROG. ORIENTADA A OBJETOS
+# PROG. ORIENTADA A OBJETOS con .NET
 
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
 
