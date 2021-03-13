@@ -4,7 +4,7 @@ description: ONLINE EN VIVO + 30 clases de 2 horas.
 
 # DES. WEB FULL STACK
 
-Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
+Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación para llevar a cabo páginas web dinámicas y responsive, manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
 **¿Qué aprendes?**
 
