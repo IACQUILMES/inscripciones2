@@ -13,7 +13,7 @@ I**nicia Abril 2021 - Finaliza Septiembre 2021 - Vacantes limitadas**
 {% hint style="success" %}
 * Costo del curso $22.000
 * Desc. por promo $17.000
-* **Precio del curso hasta el 15 de Mar. $17.000**
+* **Precio del curso hasta el 15 de Mar. $19.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
