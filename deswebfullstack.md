@@ -6,7 +6,9 @@ description: ONLINE EN VIVO + 30 clases de 2 horas.
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: HTML, CSS, JAVA SCRIPT, XML, PHP, HTML5, CSS3, SQL, LIBRERIAS, FRAMEWORKS, etc. Se procederá a trabajar con varios lenguajes de programación, para llevar a cabo páginas web dinámicas y responsive. Manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
-**Programación:** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
+**¿Qué aprendes?**
+
+**Programación \(POO\):** contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
 **Front-End:** Son todas las tecnologías de diseño y desarrollo web que corren en el navegador y que se encargan de la interactividad con los usuarios. Un programador Frontend debe especializarse en HTML, CSS y JavaScript para poder usar algunos frameworks o librerías \(React, Angular, Bootstrap son algunos de ellos\).  
 **Back-End:** Son todas las tecnologías de desarrollo web que se llevan a cabo en el Servidor, lejos de la interfaz del usuario. Algunas de las tareas del desarrollador Backend son Manejo de Bases de datos, Sesiones, Transacciones, entre otras. Algunos de los lenguajes que se usan son PHP, Ruby, C\# y Java.
 
@@ -14,11 +16,9 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 
 {% file src=".gitbook/assets/des.-web.pdf" caption="TEMARIO" %}
 
-\*\*\*\*
-
 **Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
 
-**¿Qué aprendes?Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
 _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
@@ -49,6 +49,8 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)
 
 #### \*\*\*\*[Mirá todos nuestros cursos](./)
+
+
 
 
 
