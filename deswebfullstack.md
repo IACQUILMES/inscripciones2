@@ -22,7 +22,7 @@ Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso 
 
 _Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.** 
 
-#### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
+#### **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas.** 
 
 💥**PROMO HASTA EL 18 DE MARZO**💥 
 
