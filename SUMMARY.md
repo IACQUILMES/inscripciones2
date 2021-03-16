@@ -1,7 +1,7 @@
 # Table of contents
 
 * [IAC Filial Quilmes 2021](README.md)
-* [OP. EN PROG. PARA DISEÑO GRAFICO](disenografico.md)
+* [DISEÑO GRAFICO I](disenografico.md)
 * [PROG. ORIENTADA A OBJETOS con .NET](progobjetos.md)
 * [DES. WEB FULL STACK](deswebfullstack.md)
 * [INSTALADOR Y ADMIN. DE REDES](redesonline.md)
