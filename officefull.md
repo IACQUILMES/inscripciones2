@@ -12,12 +12,12 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 10 DE MARZO**💥 
+💥**PROMOS HASTA EL 18 DE MARZO**💥 
 
 {% hint style="success" %}
 * Costo del curso $25.000
 * Desc. por promo $5.000
-* **Precio hasta el 10 de Marzo $19.000**
+* **Precio hasta el 18 de Marzo $19.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
@@ -34,7 +34,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | Miércoles | 18:30 a 20:30 hrs | 3 de 10 |
 | Jueves | 18:30 a 20:30 hrs | 5 de 10 |
 | Viernes | 18:30 a 20:30 hrs | 5 de 10 |
-| Sábados | 10:00 a 12:00 hrs | 1 de 10 |
+| Sábados | 10:00 a 12:00 hrs | sin vacantes |
 | Sábados | 12:00 a 14:00 hrs | 4 de 10 |
 | Sábados | 14:00 a 16:00 hrs | 3 de 10 |
 | Sábados | 16:00 a 18:00 hrs | 4 de 10 |
