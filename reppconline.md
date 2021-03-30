@@ -8,19 +8,19 @@ I**nicia Abril 2021 - Finaliza Septiembre 2021 - Vacantes limitadas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 18 DE MARZO**💥 
+💥**PROMOS HASTA EL 30 DE MARZO**💥 
 
 {% hint style="success" %}
 * Costo del curso $22.000
 * Desc. por promo $17.000
-* **Precio del curso hasta el 18 de Mar. $17.000**
+* **Precio del curso hasta el 30 de Mar. $17.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 17.000** en **8 pagos** de **$2.125**- **Abonas de Mar a Oct.** |
-| PLAN 2 | **$ 17.000** en **7 pagos** de **$2.429** - **Abonas de Mar a Sept.** |
+| PLAN 1 | **$ 17.000** en **8 pagos** de **$2.125**- **Primer pago en Mar., segundo en Abr.** |
+| PLAN 2 | **$ 17.000** en **7 pagos** de **$2.429** - **Primer pago en Mar., segundo en May.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:

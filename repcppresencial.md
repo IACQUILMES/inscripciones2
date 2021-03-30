@@ -12,30 +12,29 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 36 clases de 2 h
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 18 DE MARZO**💥 
+💥**PROMOS HASTA EL 30 DE MARZO**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 18 de Mar. $22.000**
+* **Precio del curso hasta el 30 de Mar. $22.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **11 pagos** de **$2.000**- **Primer pago en Mar., segundo en Abr.** |
-| PLAN 2 | **$22.000** en **10 pagos** de **$2.200** - **Primer pago en Mar., segundo en May.** |
+| PLAN 1 | **$22.000** en **10 pagos** de **$2.200** - **Primer pago en Mar., segundo en May.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | 3 de 10 |
-| Jueves | 17 a 19 hrs | 5 de 10 |
-| Sábados | 12:00 a 14:00 hrs | 4 de 10 |
-| Sábados | 14:00 a 16:00 hrs | 3 de 10 |
-| Sábados | 16:00 a 18:00 hrs | 3 de 10 |
+| Lunes | 18:30 a 20:30 hrs. | sin vacantes |
+| Jueves | 17 a 19 hrs | sin vacantes |
+| Sábados | 12:00 a 14:00 hrs | 2 de 6 |
+| Sábados | 14:00 a 16:00 hrs | 1 de 6 |
+| Sábados | 16:00 a 18:00 hrs | 3 de 6 |
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
