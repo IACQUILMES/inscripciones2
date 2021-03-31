@@ -20,33 +20,33 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la distancia._
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas. Si vivís lejos enviamos la certificación por correo Argentino.** 
+**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 10 DE ABRIL**💥 
+💥**PROMO HASTA EL 30 DE MARZO**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 10 de Abr. $22.000**
+* **Precio del curso hasta el 30 de Mar. $22.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 22.000** en **10 pagos** de **$2.200** - **Primer pago al inscribirte, segundo en May.** |
-| PLAN 2 | **$ 22.000** en **9 pagos** de **$2.445** - **Primer pago al inscribirte, próx. en Jun.**  |
+| PLAN 1 | **$ 22.000** en **11 pagos** de **$2.000** - **Primer pago en Mar., segundo en Abr.** |
+| PLAN 2 | **$ 22.000** en **10 pagos** de **$2.200** - **Primer pago en Mar., segundo en May.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Martes  | 17:00 a 19:00 hrs. | 3 de 10 |
-| Martes  | 19:00 a 21:00 hrs. | 3 de 10 |
-| Sábado  | 13:00 a 15:00 hrs. | 3 de 10 |
-| Sábado  | 15:00 a 17:00 hrs | 5 de 10 |
+| Martes | 17:00 a 19:00 hrs. | 3 de 10 |
+| Martes | 19:00 a 21:00 hrs. | 3 de 10 |
+| Sábados | 13:00 a 15:00 hrs. | 3 de 10 |
+| Sábados | 15:00 a 17:00 hrs | 5 de 10 |
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Diseño%20Grafico)
 

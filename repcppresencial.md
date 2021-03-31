@@ -29,8 +29,8 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$22.000** en **10 pagos** de **$2.200** - **Primer pago al inscribirte, segundo en May.** |
-| PLAN 2 | **$22.000** en **9 pagos** de **$2.445** - **Primer pago al inscribirte, segundo en Jun.** |
+| PLAN 1 | **$ 22.000** en **10 pagos** de **$2.200** - **Primer pago al inscribirte, segundo en May.** |
+| PLAN 2 | **$ 22.000** en **9 pagos** de **$2.445** - **Primer pago al inscribirte, segundo en Jun.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
