@@ -12,19 +12,18 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 18 DE MARZO**💥 
+💥**PROMOS HASTA EL 10 DE ABRIL**💥 
 
 {% hint style="success" %}
 * Costo del curso $16.000
 * Desc. por promo $4.000
-* **Precio hasta el 18 de Marzo. $12.000**
+* **Precio hasta el 10 de Marzo. $12.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.** 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 12.000** en **6 pagos** de **$2.000** - **Primer pago en Mar., segundo en Abr.** |
-| PLAN 2 | **$ 12.000** en **5 pagos** de **$2.400** - **Primer pago en Mar., segundo en May.** |
+| PLAN 1 | **$ 12.000** en **5 pagos** de **$2.400** - **Primer pago en Mar., segundo en May.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
