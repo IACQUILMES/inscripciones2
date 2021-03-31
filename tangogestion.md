@@ -40,7 +40,7 @@ _Te las instalamos por controlador remoto una **versión educativa de Tango Gest
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
 | Lunes | 18:30 a 20:30 hrs. | sin vacantes |
-| Jueves | 18:30 a 20:30 hrs. | 5 de 8 |
+| Jueves | 18:30 a 20:30 hrs. | 8 de 10 |
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)
 
