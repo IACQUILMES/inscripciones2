@@ -24,7 +24,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | PLAN | PAGOS |
 | :--- | :--- |
 | PLAN 1 | **$ 19.000** en **10 pagos** de **$1.900** - **Primer pago al inscribirte, segundo en May.** |
-| PLAN 2 | **$ 19.000** en **10 pagos** de **$2.112** - **Primer pago al inscribirte, segundo en Jun.** |
+| PLAN 2 | **$ 19.000** en **9 pagos** de **$2.112** - **Primer pago al inscribirte, segundo en Jun.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
