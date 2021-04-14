@@ -24,7 +24,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 10 DE ABRIL**💥 
+💥**PROMO**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000
@@ -41,9 +41,11 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 #### Podes cursar en uno de estos grupos:
 
+Inicios sábado 10 y Jueves 15 de Abril
+
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
-| Jueves  | 18:30 a 20:30 hrs. | 1 de 16 |
+| Jueves  | 18:30 a 20:30 hrs. | sin vacantes |
 | Sábados  | 10:00 a 12:00 hrs. | 5 de 16 |
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)

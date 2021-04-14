@@ -4,7 +4,7 @@ description: ONLINE EN VIVO + 30 clases de 2 horas.
 
 # PROG. ORIENTADA A OBJETOS con Microsoft .NET
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
+**INICIO 14 Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
 
 **Diagramación lógica \(algoritmos\)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.  
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.  
@@ -21,7 +21,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMO HASTA EL 10 DE ABRIL**💥 
+💥**PROMO**💥 
 
 {% hint style="success" %}
 * Costo del curso $30.000

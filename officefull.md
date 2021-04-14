@@ -12,7 +12,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS HASTA EL 10 DE ABRIL**💥 
+💥**PROMOS**💥 
 
 {% hint style="success" %}
 * Costo del curso $25.000
@@ -24,10 +24,12 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | PLAN | PAGOS |
 | :--- | :--- |
 | PLAN 1 | **$ 19.000** en **10 pagos** de **$1.900** - **Primer pago al inscribirte, segundo en May.** |
-| PLAN 2 | **$ 19.000** en **10 pagos** de **$2.112** - **Primer pago al inscribirte, segundo en Jun.** |
+| PLAN 2 | **$ 19.000** en **9 pagos** de **$2.112** - **Primer pago al inscribirte, segundo en Jun.** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
+
+Inicio sábado 10, miércoles 14, jueves 15 y viernes 16 de Abril
 
 | Días | horarios | Vacantes |
 | :--- | :--- | :--- |
