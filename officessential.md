@@ -23,7 +23,6 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 15.000** en **8 pagos** de **$1.875** - **Primer pago en Mar., segundo en Abr.** |
 | PLAN 2 | **$ 15.000** en **7 pagos** de **$2.143** - **Primer pago en Mar., segundo en May.** |
 {% endhint %}
 
