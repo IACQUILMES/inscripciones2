@@ -8,7 +8,7 @@ description: ONLINE EN VIVO + 24 clases de 2 horas.
 
 _Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
+**Se entrega certificación física con código QR con todos tus datos, docente, matrícula y notas.** 
 
 **Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
