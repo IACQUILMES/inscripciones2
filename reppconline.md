@@ -1,6 +1,6 @@
 # ARMADO Y REP. DE PC ONLINE
 
-I**nicia Abril 2021 - Finaliza Septiembre 2021 - Vacantes limitadas**
+I**nicia 27 Julio 2021 - Finaliza Diciembre 2021 - Vacantes limitadas**
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
@@ -25,17 +25,17 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 2 | **$ 17.000** en **6 pagos** de **$2.835** - **Primer pago al inscribirte, segundo en Jun.** |
+| PLAN 1 | **$ 17.000** en **8 pagos** de **$2.125** - **Junio a Enero** |
+| PLAN 2 | **$ 17.000** en **6 pagos** de **$2.429** - **Junio a Diciembre** |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:
 
 Inicio miércoles 14 y Jueves 15 de Abril
 
-| Días | horarios | Vacantes |
-| :--- | :--- | :--- |
-| Miércoles | 10:00 a 12:00 hrs. | sin vac. |
-| Jueves | 19 a 21 hrs | 9 de 15 |
+| Días | horarios |
+| :--- | :--- |
+| Martes | 19 a 21 hrs |
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
 
