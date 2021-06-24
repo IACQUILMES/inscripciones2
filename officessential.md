@@ -4,7 +4,7 @@ description: ONLINE EN VIVO + 24 clases de 2 horas.
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-**Inicia 21 de Junio 2021 - Finaliza 29 Noviembre 2021 - Vacantes limitadas**
+**Inicia 28 de Junio 2021 - Finaliza 06 Dic. 2021 - Vacantes limitadas**
 
 _Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
 

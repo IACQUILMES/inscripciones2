@@ -25,16 +25,16 @@ _Las clases son **online en vivo**, además quedan grabadas  y  se guardan dentr
 {% hint style="success" %}
 ✨Matrícula: 100% bonificada✨
 
-* Costo del curso $14.000
+* Costo del curso $30.000
 * **Desc. por PROMO hasta 50% OFF**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**  
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 7.000** en **4 pagos** de **$1.750** - **Abonas de Jun. a Sept.**  |
-| PLAN 2 | **$ 7.000** en **3 pagos** de **$2.334** - **Abonas de Julio a Sept.** |
-| PLAN 3 | **$ 5.000** en **1 pago.** |
+| PLAN 1 | **$ 18.000** en **7 pagos** de **$2.572** - **Abonas de Jun. a Dic.**  |
+| PLAN 2 | **$ 18.000** en **6 pagos** de **$3.000** - **Abonas de Julio a Nov.** |
+| AHORA 6 | **$ 15.000** en **6 pagos** de **$2.500** - Promo exclusiva para pagos por AHORA 6 |
 {% endhint %}
 
 ### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20SQL%20DBA) <a id="escribinos-al-whatsapp"></a>
