@@ -31,8 +31,8 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 17.000** en **8 pagos** de **$2.125** - **Jun. a Ene.** |
-| PLAN 2 | **$ 17.000** en **6 pagos** de **$2.429** - **Jun. a Dic.** |
+| PLAN 1 | **$ 17.000** en **8 pagos** de **$2.125** - **Junio a Enero** |
+| PLAN 2 | **$ 17.000** en **6 pagos** de **$2.429** - **Junio a Diciembre** |
 {% endhint %}
 
 ### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20Rep.%20de%20PC%20Online)
