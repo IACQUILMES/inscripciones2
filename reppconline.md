@@ -1,6 +1,8 @@
 # ARMADO Y REP. DE PC ONLINE
 
-I**nicia 27 Julio 2021 - Finaliza Diciembre 2021 - Vacantes limitadas**
+**INICIO 27 DE JULIO - FINALIZA 04 DE ENERO**
+
+**CURSAS TODOS LOS MARTES DE 19 A 21 HRS**
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
@@ -10,9 +12,9 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 **El curso es completamente online en vivo. Son 24 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para lxs alumnxs del curso._ ****
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas. Si vivís lejos enviamos la certificación por correo Argentino.** 
+**Se entrega certificación digital y física con código QR con todos tus datos, docente, matrícula y notas.** 
 
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+**Abonas mensualmente por Rapipago, Pago Fácil, Tarjeta de crédito, débito ó transferencia. Podes ver nuestros planes:** __
 
 💥**PROMOS**💥 
 
@@ -31,13 +33,11 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 #### Podes cursar en uno de estos grupos:
 
-Inicio miércoles 14 y Jueves 15 de Abril
-
 | Días | horarios |
 | :--- | :--- |
 | Martes | 19 a 21 hrs |
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20Rep.%20de%20PC%20Online)
 
 #### [Mirá todos nuestros cursos](./)
 
