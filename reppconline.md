@@ -35,12 +35,6 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 | PLAN 2 | **$ 17.000** en **6 pagos** de **$2.429** - **Junio a Diciembre** |
 {% endhint %}
 
-#### Podes cursar en uno de estos grupos:
-
-| Días | horarios |
-| :--- | :--- |
-| Martes | 19 a 21 hrs |
-
 ### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20Rep.%20de%20PC%20Online)
 
 #### [Mirá todos nuestros cursos](./)
