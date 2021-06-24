@@ -1,6 +1,10 @@
+---
+description: 48 horas en 24 clases de 2 hrs
+---
+
 # ARMADO Y REP. DE PC ONLINE
 
-**INICIO 27 DE JULIO - FINALIZA 04 DE ENERO**
+📅 **INICIO 27 DE JULIO - FINALIZA 04 DE ENERO 📅**
 
 **CURSAS TODOS LOS MARTES DE 19 A 21 HRS**
 
