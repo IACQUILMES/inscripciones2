@@ -13,5 +13,6 @@
 * [OP. OFFICE ESSENTIAL & INTERNET](officessential.md)
 * [COMMUNITY MANAGER & MARKETING DIGITAL](communityandmarketing.md)
 * [DES. JAVA WEB FULL STACK](desjava.md)
-* [SQL DATABASE ADMINISTRATOR](sql-database-administrator.md)
+* [SQL DATABASE ADMINISTRATOR](sql-database-administrator/README.md)
+  * [Temario SQL DBA](sql-database-administrator/temario-sql-dba.md)
 
