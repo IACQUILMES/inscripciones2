@@ -4,7 +4,7 @@ description: 20 horas en 10 clases de 2 hrs
 
 # Temario SQL DBA
 
-El objetivo del Curso de SQL es que el alumnx conozca las características principales y componentes de SQL Server para diseñar bases de datos relacionales que incluyan la definición de tablas, reglas, índices y vistas mediante instrucciones SQL que le permitan la consulta y manejo de información. El Curso SQL va dirigido a todas aquellas personas que deseen trabajar con bases de datos y necesiten aprender el lenguaje estándar de acceso a las mismas y a programadores en Visual Basic, SP, PHP, Java, etc., para comprender a fondo un lenguaje que deben utilizar siempre que acceden a bases de datos.  Los beneficios que obtendrá de tomar este Curso de SQL son:
+El objetivo del Curso de SQL es que el alumnx conozca las características principales y componentes de SQL  para diseñar bases de datos relacionales que incluyan la definición de tablas, reglas, índices y vistas mediante instrucciones SQL que le permitan la consulta y manejo de información. El curso va dirigido a todas aquellas personas que deseen trabajar con bases de datos y necesiten aprender el lenguaje estándar de acceso a las mismas y a programadores en Visual Basic, SP, PHP, Java, etc., para comprender a fondo un lenguaje que deben utilizar siempre que se accede a bases de datos. Los beneficios que obtendrá de tomar este Curso de SQL son:
 
 * Conocerá como se planea y estructura una base de datos relacional desde cero.
 * Aprenderá los antecedentes, la importancia y los principales componentes del lenguaje SQL.
@@ -57,7 +57,10 @@ El objetivo del Curso de SQL es que el alumnx conozca las características princ
   * SQLite
   * PostgreSQL
 
+**BASE DE DATOS NO RELACIONES**
 
+* Introducción teórica sobre base de datos no relacionales
+* Introducción teórica sobre Big Data
 
 
 
