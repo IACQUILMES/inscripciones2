@@ -32,7 +32,7 @@ _Las clases son **online en vivo**, además quedan grabadas  y  se guardan dentr
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 7.000** en **4 pagos** de **$1.750** - **Abonas de Jun. a Sept.**  |
+| PLAN 1 | **$ 7.000** en **4 pagos** de **$1.750** - **Abonas de Julio a Oct.**  |
 | PLAN 2 | **$ 7.000** en **3 pagos** de **$2.334** - **Abonas de Julio a Sept.** |
 | PLAN 3 | **$ 5.000** en **1 pago.** |
 {% endhint %}
