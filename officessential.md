@@ -23,8 +23,8 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 
 | PLAN | PAGOS |
 | :--- | :--- |
-| PLAN 1 | **$ 15.000** en **7 pagos** de **$2.143** - **Julio a Enero.**  |
-| PLAN 2 | **$ 15.000** en **6 pagos** de **$2.500** - **Julio a Dic.**  |
+| PLAN 1 | **$ 15.000** en **7 pagos** de **$2.143** - **Junio a Dic.**  |
+| PLAN 2 | **$ 15.000** en **6 pagos** de **$2.500** - **Junio a Nov.**  |
 {% endhint %}
 
 #### Podes cursar en uno de estos grupos:

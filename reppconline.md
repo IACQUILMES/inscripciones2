@@ -20,7 +20,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 **Abonas mensualmente por Rapipago, Pago Fácil, Tarjeta de crédito, débito ó transferencia. Podes ver nuestros planes:** __
 
-💥**PROMOS HASTA EL 20 DE JULIO**💥 
+💥**PROMOS**💥 
 
 {% hint style="success" %}
 * Costo del curso $22.000

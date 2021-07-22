@@ -20,7 +20,7 @@ _Las clases son **online en vivo**, además quedan grabadas  y  se guardan dentr
 
 **Abonas mensualmente por Rapipago, Pago Fácil, Tarjeta de crédito, débito ó transferencia. Podes ver nuestros planes:**
 
-💥**PROMOS HASTA 20 DE JULIO**💥 
+💥**PROMOS**💥 
 
 {% hint style="success" %}
 ✨Matrícula: 100% bonificada✨
