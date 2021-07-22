@@ -34,7 +34,7 @@ _Las clases son **online en vivo**, además quedan grabadas  y  se guardan dentr
 | :--- | :--- |
 | PLAN 1 | **$ 7.000** en **4 pagos** de **$1.750** - **Abonas de Julio a Oct.**  |
 | PLAN 2 | **$ 7.000** en **3 pagos** de **$2.334** - **Abonas de Julio a Sept.** |
-| PLAN 3 | **$ 5.000** en **1 pago.** |
+| PLAN 3 | **$ 5.000** en **1 pago. PROMO ESPECIAL EN 1 PAGO** |
 {% endhint %}
 
 ### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20SQL%20DBA) <a id="escribinos-al-whatsapp"></a>
