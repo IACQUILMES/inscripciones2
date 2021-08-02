@@ -2,7 +2,9 @@
 description: ONLINE EN VIVO + 30 clases de 2 horas.
 ---
 
-# PROG. ORIENTADA A OBJETOS con Microsoft .NET
+# Programación en C\# de Microsoft.NET
+
+## Aprende a programar desde cero con C\# de Microsoft .NET
 
 **INICIO 14 Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
 

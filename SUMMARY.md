@@ -2,7 +2,7 @@
 
 * [IAC Filial Quilmes 2021](README.md)
 * [DISEÑO GRAFICO I](disenografico.md)
-* [PROG. ORIENTADA A OBJETOS con Microsoft .NET](progobjetos.md)
+* [Programación en C\# de Microsoft.NET](progobjetos.md)
 * [DES. WEB FULL STACK](deswebfullstack.md)
 * [INSTALADOR Y ADMIN. DE REDES](redesonline.md)
 * [ARMADO Y REP. DE PC](reppc.md)
