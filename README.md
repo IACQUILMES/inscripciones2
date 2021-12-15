@@ -16,7 +16,7 @@ description: >-
 
 #### [Desarrollador JAVA Web Full Stack](desjava.md)
 
-#### [Op. en programas para Diseño Gráfico](disenografico/)
+#### [Op. en programas para Diseño Gráfico](disenografico.md)
 
 #### [Community Manager & Marketing Digital](communityandmarketing.md)
 
