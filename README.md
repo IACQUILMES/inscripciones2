@@ -1,12 +1,12 @@
 ---
-description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas a poder encontrar info sobre nuestros cursos, promos, días de cursada y temarios."
+description: >-
+  Hola ¿Cómo estás? Somos IAC Quilmes 👋 en esta web vas a poder encontrar info
+  sobre nuestros cursos, promos, días de cursada y temarios.
 ---
 
-# IAC Filial Quilmes 2021
+# IAC Filial Quilmes 2022
 
 #### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
-
-#### **CURSOS ONLINE EN VIVO**
 
 #### [Operador Tango Gestión](tangogestion.md)
 
@@ -16,7 +16,7 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 
 #### [Desarrollador JAVA Web Full Stack](desjava.md)
 
-#### [Op. en programas para Diseño Gráfico](disenografico.md)
+#### [Op. en programas para Diseño Gráfico](disenografico/)
 
 #### [Community Manager & Marketing Digital](communityandmarketing.md)
 
@@ -27,4 +27,3 @@ description: "Hola ¿Cómo estás? Somos IAC Quilmes \U0001F44B en esta web vas 
 #### [Armado y Reparación de PC](reppc.md)
 
 #### [Instalador y Administrador de Redes](redesonline.md)
-

@@ -1,8 +1,10 @@
 # Table of contents
 
-* [IAC Filial Quilmes 2021](README.md)
-* [DISEÑO GRAFICO I](disenografico.md)
-* [Programación en C\# de Microsoft.NET](progobjetos.md)
+* [IAC Filial Quilmes 2022](README.md)
+* [DISEÑO GRAFICO DIGITAL I](disenografico/README.md)
+  * [Temario Diseño Gráfico Digital I](disenografico/temario-diseno-grafico-digital-i.md)
+* [DISEÑO GRAFICO DIGITAL I](diseno-grafico-digital-i.md)
+* [Programación en C# de Microsoft.NET](progobjetos.md)
 * [DES. WEB FULL STACK](deswebfullstack.md)
 * [INSTALADOR Y ADMIN. DE REDES](redesonline.md)
 * [ARMADO Y REP. DE PC](reppc.md)
@@ -15,4 +17,3 @@
 * [DES. JAVA WEB FULL STACK](desjava.md)
 * [SQL DATABASE ADMINISTRATOR](sql-database-administrator/README.md)
   * [Temario SQL DBA](sql-database-administrator/temario-sql-dba.md)
-
