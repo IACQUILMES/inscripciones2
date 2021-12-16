@@ -45,32 +45,16 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | PLAN MARZO     | **$ 28.000** en **11 pagos** de **$2.000**  |
 | PLAN ABRIL     | **$ 28.000** en **10 pagos** de **$2.000**  |
 
-{% swagger method="head" path="" baseUrl="CURSAS ONLINE HACE CLIC ACA" summary="CURSO ONLINE" %}
-{% swagger-description %}
-DDDDDD
-
-Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó podes hacer **transferencia** mensual. Podes elegir uno de estos planes de abono: ****&#x20;
-
-💥<mark style="background-color:green;">**PROMOS**</mark>💥&#x20;
-{% endswagger-description %}
-{% endswagger %}
-
-{% swagger method="get" path="" baseUrl="SI CURSAS PRESENCIAL HACE CLIC ACA" summary="" %}
-{% swagger-description %}
-
-{% endswagger-description %}
-{% endswagger %}
-
 #### Podes cursar en uno de estos grupos:
 
 Los inicios son el sábado 10 y martes 13 de Abril
 
-| Días    | horarios           | Vacantes |
-| ------- | ------------------ | -------- |
-| Martes  | 17:00 a 19:00 hrs. | 3 de 10  |
-| Martes  | 19:00 a 21:00 hrs. | 3 de 10  |
-| Sábado  | 13:00 a 15:00 hrs. | 3 de 10  |
-| Sábado  | 15:00 a 17:00 hrs  | 5 de 10  |
+| Días      | horarios           | Vacantes |
+| --------- | ------------------ | -------- |
+| Miércoles | 17:00 a 19:00 hrs. | 3 de 10  |
+| Miércoles | 19:00 a 21:00 hrs. | 3 de 10  |
+| Sábado    | 13:00 a 15:00 hrs. | 3 de 10  |
+| Sábado    | 15:00 a 17:00 hrs  | 5 de 10  |
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)
 
