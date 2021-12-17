@@ -8,7 +8,7 @@ description: ONLINE EN VIVO x ZOOM - 20 clases de 2 horas.
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
-<mark style="color:red;">**Requisito: tu computadora debe tener como mínimo 4 GB de RAM. Pregúntanos para asesorarte.**</mark>&#x20;
+<mark style="color:red;">**Requisito: tu computadora debe tener mínimo 4 GB de RAM. Pregúntanos para asesorarte.**</mark>&#x20;
 
 #### Descarga el temario completo haciendo clic abajo
 
@@ -50,7 +50,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 Inicio miércoles 13 de Abril
 
-## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscr\`ibirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****
 
