@@ -1,5 +1,5 @@
 ---
-description: ONLINE EN VIVO + 36 clases de 2 horas.
+description: ONLINE EN VIVO x ZOOM + 36 clases de 2 horas.
 ---
 
 # Diseño Gráfico Online
@@ -41,8 +41,10 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | <mark style="background-color:orange;">**Inscríbete en Diciembre**</mark> | PLAN 2 |
 | ------------------------------------------------------------------------- | ------ |
 | **$ 28.000** en **14 pagos** de **$2.000**                                |        |
+| _Primer pago al inscribirte, segundo en Ene._                             |        |
 | <mark style="background-color:orange;">**Inscríbete en Enero**</mark>     |        |
 | **$ 28.000** en **13 pagos** de **$2.154**                                |        |
+| _Primer pago al inscribirte, segundo en Feb._                             |        |
 
 #### Podes cursar en uno de estos grupos:
 
@@ -56,7 +58,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 Los inicios son el sábado 09 y miércoles 13 de Abril
 
-## [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:green;"></mark>
 
 ### ****[**Pulsa para ver todos nuestros cursos**](./)****
 

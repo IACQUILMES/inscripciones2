@@ -1,12 +1,12 @@
 ---
-description: ONLINE EN VIVO + 30 clases de 2 horas.
+description: ONLINE EN VIVO x ZOOM + 30 clases de 2 horas.
 ---
 
 # Programación con C# en Microsoft.NET
 
 ## Aprende a programar desde cero con C# en Microsoft .NET
 
-**INICIO 13 Abril 2021 - Finaliza Enero 2022 - Vacantes Limitadas**
+**Inicia Abril 2022 - Finaliza Enero 2023 - Vacantes limitadas**
 
 **Diagramación lógica (algoritmos)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.\
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.\
@@ -17,7 +17,7 @@ description: ONLINE EN VIVO + 30 clases de 2 horas.
 
 {% file src=".gitbook/assets/PROGRAMACION OBJETOS 2022 .pdf" %}
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica.**&#x20;
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y laboratorio práctico.** &#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
@@ -26,7 +26,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 💥**PROMO**💥&#x20;
 
 {% hint style="success" %}
-* Costo del curso $30.000
+* Costo del curso $36.000
 * Desc. por promo $8.000
 * **Precio del curso hasta el 25 de Enero $28.000**
 * **Sin cargos de Inscripción**
@@ -36,10 +36,10 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
 | ---------------------------------------------------------------- | ------ |
 | **$ 28.000** en **14 pagos** de **$2.000**                       | PLAN 2 |
-| **Primer pago al inscribirte, segundo en Ene.**                  |        |
+| _Primer pago al inscribirte, segundo en Ene._                    |        |
 | <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
 | **$ 28.000** en **13 pagos** de **$2.154**                       |        |
-| **Primer pago al inscribirte, segundo en Feb.**                  |        |
+| _Primer pago al inscribirte, segundo en Feb._                    |        |
 
 #### Dia y horario de cursada
 
@@ -47,9 +47,11 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | ------------------ | ---- | -------- |
 | 19:00 a 21:00 hrs. |      | 8 de 16  |
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Prog.%20Objetos)
+Inicia miércoles 13 de Abril
 
-#### ****[Mirá todos nuestros cursos](./)
+## <mark style="color:red;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Prog.%20Objetos)<mark style="color:green;"></mark>
+
+### [**Pulsa para ver todos nuestros cursos**](./)****
 
 ####
 
