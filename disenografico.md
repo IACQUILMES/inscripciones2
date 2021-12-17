@@ -10,13 +10,13 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/dis.-graf..pdf" %}
+{% file src=".gitbook/assets/DISEÑO GRAFICO 2022 .pdf" %}
 TEMARIO
 {% endfile %}
 
 #### Descarga trabajos que realizas durante la cursada haciendo clic abajo
 
-{% file src=".gitbook/assets/diseno-grafico-trabajos.pdf" %}
+{% file src=".gitbook/assets/TRABAJOS GRAFICOS 2022.pdf" %}
 TRABAJOS QUE REALIZAS EN LA CURSADA
 {% endfile %}
 
@@ -26,7 +26,7 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 **Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas. Si vivís lejos enviamos la certificación por correo OCA.**&#x20;
 
-Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó podes hacer **transferencia** mensual. Podes elegir uno de estos planes de abono: ****&#x20;
+Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó realizas una **transferencia** mensual. Contamos con los siguientes planes de abono: ****&#x20;
 
 💥**PROMOS**💥&#x20;
 
@@ -38,11 +38,11 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN 2 |
-| ---------------------------------------------------------------- | ------ |
-| **$ 28.000** en **14 pagos** de **$2.000**                       |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 28.000** en **13 pagos** de **$2.154**                       |        |
+| <mark style="background-color:orange;">**Inscríbete en Diciembre**</mark> | PLAN 2 |
+| ------------------------------------------------------------------------- | ------ |
+| **$ 28.000** en **14 pagos** de **$2.000**                                |        |
+| <mark style="background-color:orange;">**Inscríbete en Enero**</mark>     |        |
+| **$ 28.000** en **13 pagos** de **$2.154**                                |        |
 
 #### Podes cursar en uno de estos grupos:
 
