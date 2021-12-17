@@ -28,22 +28,19 @@ _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la 
 
 Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó podes hacer **transferencia** mensual. Podes elegir uno de estos planes de abono: ****&#x20;
 
-💥<mark style="background-color:green;">**PROMOS**</mark>💥&#x20;
+💥**PROMOS**💥&#x20;
 
 {% hint style="success" %}
 * Costo del curso $36.000
-* Desc. por promo $7.500
-* **Precio del curso hasta el 25 de Febrero. $28.500**
+* Desc. por promo $8.000
+* **Precio del curso hasta el 25 de Enero  $28.500**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
 | PLAN DICIEMBRE | **$ 28.000** en **14 pagos** de **$2.000**  |
 | -------------- | ------------------------------------------- |
-| PLAN ENERO     | **$ 28.000** en **13 pagos** de **$2.000**  |
-| PLAN FEBRERO   | **$ 28.000** en **12 pagos** de **$2.000**  |
-| PLAN MARZO     | **$ 28.000** en **11 pagos** de **$2.000**  |
-| PLAN ABRIL     | **$ 28.000** en **10 pagos** de **$2.000**  |
+| PLAN ENERO     | **$ 28.000** en **13 pagos** de **$2.154**  |
 
 #### Podes cursar en uno de estos grupos:
 
@@ -51,14 +48,14 @@ Los inicios son el sábado 10 y martes 13 de Abril
 
 | Días      | horarios           | Vacantes |
 | --------- | ------------------ | -------- |
-| Miércoles | 17:00 a 19:00 hrs. | 3 de 10  |
-| Miércoles | 19:00 a 21:00 hrs. | 3 de 10  |
-| Sábado    | 13:00 a 15:00 hrs. | 3 de 10  |
-| Sábado    | 15:00 a 17:00 hrs  | 5 de 10  |
+| Miércoles | 17:00 a 19:00 hrs. | 10 de 10 |
+| Miércoles | 19:00 a 21:00 hrs. | 10 de 10 |
+| Sábado    | 13:00 a 15:00 hrs. | 10 de 10 |
+| Sábado    | 15:00 a 17:00 hrs  | 10 de 10 |
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)
+### [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
 
-#### ****[**M**irá todos nuestros cursos](./)
+#### ****[**Pulsa para ver** todos nuestros cursos](./)
 
 ####
 
