@@ -46,15 +46,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-Los inicios son el sábado 09 y miércoles 13 de Abril
-
-| Miércoles          | Días      | Vacantes |
+| **Miércoles**      | Días      | Vacantes |
 | ------------------ | --------- | -------- |
 | 17:00 a 19:00 hrs. | Miércoles | 10 de 10 |
 | 19:00 a 21:00 hrs. |           |          |
-| Sábado             |           |          |
+| **Sábado**         |           |          |
 | 13:00 a 15:00 hrs. |           |          |
 | 15:00 a 17:00 hrs  |           |          |
+
+Los inicios son el sábado 09 y miércoles 13 de Abril
 
 ## [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
 
