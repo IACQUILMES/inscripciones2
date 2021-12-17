@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO + 36 clases de 2 horas.
 ---
 
-# DISEÑO GRAFICO ONLINE
+# Diseño Gráfico Online
 
 **Inicia Abril 2022 - Finaliza Enero 2023 - Vacantes limitadas**
 
@@ -24,7 +24,7 @@ _Las clases son online en vivo, además se graban y  junto con apuntes y ejercic
 
 _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la distancia._
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas. Si vivís lejos enviamos la certificación por correo OCA.**&#x20;
+**Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**&#x20;
 
 Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó realizas una **transferencia** mensual. Contamos con los siguientes planes de abono: ****&#x20;
 

@@ -2,7 +2,7 @@
 description: PRESENCIAL + 36 CLASES DE 2 HORAS
 ---
 
-# DISEÑO GRAFICO DIGITAL I
+# Diseño Gráfico Presencial
 
 **Inicia Abril 2022 - Finaliza Enero 2023**&#x20;
 
@@ -20,7 +20,7 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 _Las clases son_ **presenciales**_, en grupos de 8 personas por aula._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign y Figma.**&#x20;
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas. Si vivís lejos enviamos la certificación por correo OCA.**&#x20;
+**Se entrega certificación con código QR con todos tus datos de cursada.**&#x20;
 
 Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó podes hacer **transferencia** mensual. Además podes abonar en nuestra sucursal.  Podes elegir uno de estos planes de abono: ****&#x20;
 
@@ -50,6 +50,6 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 Los inicios son el sábado 09 y Lunes 11 de Abril
 
-### [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
+## [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
 
 #### ****[**Pulsa para ver** todos nuestros cursos](./)
