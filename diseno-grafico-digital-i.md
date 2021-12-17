@@ -10,7 +10,7 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app webs y sitios web; y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son **Photoshop, Illustrator,  Indesign y Figma.**
 
-Descarga el temario completo haciendo clic abajo&#x20;
+**Descarga el temario completo haciendo clic abajo**&#x20;
 
 {% file src=".gitbook/assets/DISEÑO GRAFICO 2022 .pdf" %}
 
@@ -34,18 +34,21 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| PLAN DICIEMBRE | **$ 30.000** en **14 pagos** de **$2.144**  |
-| -------------- | ------------------------------------------- |
-| PLAN ENERO     | **$ 30.000** en **13 pagos** de **$2.310**  |
+| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN DICIEMBRE |
+| ---------------------------------------------------------------- | -------------- |
+| **$ 30.000** en **14 pagos** de **$2.144**                       |                |
+| <mark style="background-color:orange;">**Plan Enero**</mark>     | PLAN ENERO     |
+| **$ 30.000** en **13 pagos** de **$2.310**                       |                |
 
 #### Podes cursar en uno de estos grupos:
 
-Los inicios son el sábado 09 y Lunes 11 de Abril
+| **Lunes**          | Lunes   | 8 de 8 |
+| ------------------ | ------- | ------ |
+| 17:00 a 19:00 hrs. |         |        |
+| **Sábado**         | Sábado  | 8 de 8 |
+| 11:00 a 13:00 hrs  |         |        |
 
-| Días    | horarios           | Vacantes |
-| ------- | ------------------ | -------- |
-| Lunes   | 17:00 a 19:00 hrs. | 8 de 8   |
-| Sábado  | 11:00 a 13:00 hrs  | 8 de 8   |
+Los inicios son el sábado 09 y Lunes 11 de Abril
 
 ### [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
 
