@@ -38,9 +38,9 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| PLAN 1 | **$ 28.000** en **14 pagos** de **$2.000**  |
-| ------ | ------------------------------------------- |
-| PLAN 2 | **$ 28.000** en **13 pagos** de **$2.154**  |
+| **$ 28.000** en **14 pagos** de **$2.000** | PLAN 2 |
+| ------------------------------------------ | ------ |
+| **$ 28.000** en **13 pagos** de **$2.154** |        |
 
 #### Podes cursar en uno de estos grupos:
 
