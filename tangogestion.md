@@ -44,13 +44,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Dia y horario de cursada
 
-| **Jueves**         | Días | Vacantes     |
+| **Miércoles**      | Días | Vacantes     |
 | ------------------ | ---- | ------------ |
 | 18:30 a 20:30 hrs. |      | sin vacantes |
 
-Inicio Jueves 14 de Abril
+Inicio miércoles 13 de Abril
 
-## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscr\`ibirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****
 

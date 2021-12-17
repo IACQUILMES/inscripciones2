@@ -4,9 +4,9 @@ description: ONLINE EN VIVO x ZOOM + 30 clases de 2 horas.
 
 # Programación con C# en Microsoft.NET
 
-## Aprende a programar desde cero con C# en Microsoft .NET
+### Aprende a programar desde cero con C# en Microsoft .NET
 
-**Inicia Abril 2022 - Finaliza Enero 2023 - Vacantes limitadas**
+**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
 **Diagramación lógica (algoritmos)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.\
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.\
