@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO + 36 clases de 2 horas.
 ---
 
-# DISEÑO GRAFICO DIGITAL I
+# DISEÑO GRAFICO ONLINE
 
 **Inicia Abril 2022 - Finaliza Enero 2023 - Vacantes limitadas**
 
@@ -20,7 +20,7 @@ TEMARIO
 TRABAJOS QUE REALIZAS EN LA CURSADA
 {% endfile %}
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign, etc.**&#x20;
+_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign, etc.**&#x20;
 
 _Si no tenes las aplicaciones en tu computadora nosotros te las instalamos a la distancia._
 

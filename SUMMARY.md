@@ -1,9 +1,9 @@
 # Table of contents
 
-* [IAC Filial Quilmes 2022](README.md)
-* [DISEÑO GRAFICO DIGITAL I](disenografico.md)
-* [DISEÑO GRAFICO DIGITAL I](diseno-grafico-digital-i.md)
-* [Programación en C# de Microsoft.NET](progobjetos.md)
+* [IAC QUILMES 2022](README.md)
+* [DISEÑO GRAFICO ONLINE](disenografico.md)
+* [DISEÑO GRAFICO PRESENCIAL](diseno-grafico-presencial.md)
+* [Programación en C# con Microsoft.NET](progobjetos.md)
 * [DES. WEB FULL STACK](deswebfullstack.md)
 * [INSTALADOR Y ADMIN. DE REDES](redesonline.md)
 * [ARMADO Y REP. DE PC](reppc.md)
