@@ -53,9 +53,9 @@ Los inicios son el sábado 09 y miércoles 13 de Abril
 | Sábado    | 13:00 a 15:00 hrs. | 10 de 10 |
 | Sábado    | 15:00 a 17:00 hrs  | 10 de 10 |
 
-### [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
+## [<mark style="color:red;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:red;"></mark>
 
-#### ****[**Pulsa para ver** todos nuestros cursos](./)
+### ****[**Pulsa para ver todos nuestros cursos**](./)****
 
 ####
 
