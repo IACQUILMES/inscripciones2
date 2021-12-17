@@ -44,7 +44,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-Los inicios son el sábado 10 y martes 13 de Abril
+Los inicios son el sábado 09 y miércoles 13 de Abril
 
 | Días      | horarios           | Vacantes |
 | --------- | ------------------ | -------- |
