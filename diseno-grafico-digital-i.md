@@ -10,9 +10,13 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app webs y sitios web; y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son **Photoshop, Illustrator,  Indesign y Figma.**
 
-Descarga el temario completo haciendo clic abajo
+Descarga el temario completo haciendo clic abajo&#x20;
 
+{% file src=".gitbook/assets/DISEÑO GRAFICO 2022 .pdf" %}
 
+#### Descarga trabajos que realizas durante la cursada haciendo clic abajo
+
+{% file src=".gitbook/assets/TRABAJOS GRAFICOS 2022.pdf" %}
 
 _Las clases son_ **presenciales**_, en grupos de 8 personas por aula._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con las aplicaciones de Photoshop, Illustrator, Indesign y Figma.**&#x20;
 

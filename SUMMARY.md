@@ -2,7 +2,6 @@
 
 * [IAC Filial Quilmes 2022](README.md)
 * [DISEÑO GRAFICO DIGITAL I](disenografico.md)
-  * [Temario Diseño Gráfico Digital I](disenografico/temario-diseno-grafico-digital-i.md)
 * [DISEÑO GRAFICO DIGITAL I](diseno-grafico-digital-i.md)
 * [Programación en C# de Microsoft.NET](progobjetos.md)
 * [DES. WEB FULL STACK](deswebfullstack.md)
