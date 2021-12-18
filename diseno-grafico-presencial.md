@@ -14,7 +14,7 @@ El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, 
 
 {% file src=".gitbook/assets/DISEÑO GRAFICO 2022 .pdf" %}
 
-#### Descarga trabajos que realizas durante la cursada haciendo clic abajo
+#### **Descarga trabajos que realizas durante la cursada haciendo clic abajo**
 
 {% file src=".gitbook/assets/TRABAJOS GRAFICOS 2022.pdf" %}
 
