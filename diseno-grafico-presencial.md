@@ -29,7 +29,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $38.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 25 de Enero  $28.500**
+* **Precio del curso hasta el 25 de Enero  $30.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
