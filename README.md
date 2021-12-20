@@ -10,7 +10,7 @@ description: >-
 
 #### [Operador Tango Gestión](op.-sistema-tango-gestion.md)
 
-#### [Programación Objetos con C# en .NET Orientado a Objetos](progobjetos.md)
+#### [Programación Orientado Objetos con C# en .NET](progobjetos.md)
 
 #### [Desarrollador Web Full Stack](deswebfullstack.md)
 
@@ -20,7 +20,7 @@ description: >-
 
 #### [Community Manager & Marketing Digital](communityandmarketing.md)
 
-#### [Operador Office Full](officefull.md)
+#### [Operador Office Full Online Office Full](officefull.md)
 
 #### [Armado y Reparación de PC](reppc.md)
 
