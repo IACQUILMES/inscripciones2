@@ -1,49 +1,57 @@
 ---
-description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 36 clases de 2 horas.
+description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 20 clases de 2 horas.
 ---
 
 # ARMADO Y REP. DE PC SEMIPRESENCIAL
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
+**Inicia Abril 2022- Finaliza Agosto 2022 -**&#x20;
+
+<mark style="color:red;">**8**</mark>**  **<mark style="color:red;">**Vacantes por grupo**</mark>
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/rep.-pc.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/rep.-pc.pdf" %}
+TEMARIO
+{% endfile %}
 
-**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.**  **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para lxs alumnxs del curso._ ****
+**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.** **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas.**
+**Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
+Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó realizas una **transferencia** mensual. Contamos con los siguientes planes de abono:
 
-💥**PROMOS** 💥 
+💥**PROMO**💥&#x20;
 
 {% hint style="success" %}
 * Costo del curso $30.000
-* Desc. por promo $8.000
-* **Precio del curso hasta el 10 de Abr. $22.000**
+* Desc. por promo $5.000
+* **Precio del curso hasta el 15 de Enero $25.000**
 * **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
-| :--- | :--- |
-| PLAN 1 | **$ 22.000** en **10 pagos** de **$2.200** - **Primer pago al inscribirte, segundo en May.** |
-| PLAN 2 | **$ 22.000** en **9 pagos** de **$2.445** - **Primer pago al inscribirte, segundo en Jun.** |
+* **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-#### Podes cursar en uno de estos grupos:
+| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
+| ---------------------------------------------------------------- | ------ |
+| **$ 25.000** en **11 pagos** de **$2.273**                       | PLAN 2 |
+| _Primer pago al inscribirte, segundo en Ene._                    |        |
+| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
+| **$ 25.000** en **10 pagos** de **$2.500**                       |        |
+| _Primer pago al inscribirte, segundo en Feb._                    |        |
 
-| Días | horarios | Vacantes |
-| :--- | :--- | :--- |
-| Lunes | 18:30 a 20:30 hrs. | sin vacantes |
-| Jueves | 17 a 19 hrs | sin vacantes |
-| Sábados | 12:00 a 14:00 hrs | sin vacantes |
-| Sábados | 14:00 a 16:00 hrs | sin vacantes |
-| Sábados | 16:00 a 18:00 hrs | sin vacantes |
+#### Dia y horario de cursada
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Rep%20PC)
+| **Lunes**           | Días | Vacantes     |
+| ------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs.  |      | sin vacantes |
+| **Sábado**          |      |              |
+| 12:00 a 14:00 hrs.  |      |              |
+| 14::00 a 16:00 hrs. |      |              |
+| 16:00 a 18:00 hrs.  |      |              |
 
-#### [Mirá todos nuestros cursos](./)
+Inicio sábado 09 y lunes 11 de Abril
 
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
+
+### [**Pulsa para ver todos nuestros cursos**](./)****
