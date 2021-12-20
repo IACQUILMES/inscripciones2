@@ -8,7 +8,7 @@ description: >-
 
 #### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
 
-#### [Operador Tango Gestión](op.-sistema-tango-gestion.md)
+#### [Operador Tango Gestión](op.-sistema-tango-gestion/)
 
 #### [Programación Orientado Objetos con C# en .NET](progobjetos.md)
 
@@ -22,6 +22,6 @@ description: >-
 
 #### [Operador Office Full Online Office Full](officefull.md)
 
-#### [Armado y Reparación de PC](reppc.md)
+#### [Armado y Reparación de PC](reppc/)
 
 #### [Instalador y Administrador de Redes](redesonline.md)

@@ -10,7 +10,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 
 #### Descarga el temario completo haciendo clic abajo&#x20;
 
-{% file src=".gitbook/assets/rep.-pc.pdf" %}
+{% file src="../.gitbook/assets/rep.-pc.pdf" %}
 TEMARIO
 {% endfile %}
 
@@ -48,4 +48,4 @@ Inicio lunes 12  de Abril
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
 
-### [**Pulsa para ver todos nuestros cursos**](./)****
+### [**Pulsa para ver todos nuestros cursos**](../)****

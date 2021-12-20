@@ -12,7 +12,7 @@ Aprende a usar el Sistema Tango, el más actualizado software de gestión contab
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/OP. TANGO GESTION 2022.pdf" %}
+{% file src="../.gitbook/assets/OP. TANGO GESTION 2022.pdf" %}
 TEMARIO
 {% endfile %}
 
@@ -52,7 +52,7 @@ Inicio miércoles 13 de Abril
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
 
-### [**Pulsa para ver todos nuestros cursos**](./)****
+### [**Pulsa para ver todos nuestros cursos**](../)****
 
 ####
 
