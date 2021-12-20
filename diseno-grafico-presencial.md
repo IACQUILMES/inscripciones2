@@ -52,6 +52,6 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 Los inicios son el sábado 09 y Lunes 11 de Abril
 
-## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Dise%C3%B1o%20Grafico)<mark style="color:green;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/1164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20la%20Dise%C3%B1o%20Gr%C3%A1fico%20Online%20y%quiero%20inscribirme.)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****
