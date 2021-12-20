@@ -8,9 +8,11 @@ description: ONLINE EN VIVO + 36 clases de 2 horas.
 
 **Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet.&#x20;
 
-_Descarga el temario completo haciendo clic abajo_
+**Descarga el temario completo haciendo clic abajo**
 
-
+{% file src=".gitbook/assets/office-full.pdf" %}
+TEMARIO
+{% endfile %}
 
 _Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
 
@@ -53,18 +55,6 @@ Inicio sábado 09, miércoles 13, jueves 14 y viernes 15 de Abril
 | 14:00 a 16:00 hrs | Sábados   | 3 de 10      |
 | 16:00 a 18:00 hrs | Sábados   | 4 de 10      |
 
-{% file src=".gitbook/assets/office-full.pdf" %}
-TEMARIO
-{% endfile %}
-
-
-
 ## [<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****
-
-****
-
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Full)
-
-#### [Mirá todos nuestros cursos](./)
