@@ -12,7 +12,7 @@
 * [Op. Sistema Tango Gestión](op.-sistema-tango-gestion.md)
 * [Op. Sist. Tango Gestión online](tangogestion.md)
 * [Op. Sistema Tango Gestión Presencial](op.-sistema-tango-gestion-presencial.md)
-* [OP. OFFICE FULL](officefull.md)
+* [Op. Office Full Online](officefull.md)
 * [Page 1](page-1.md)
 * [OP. OFFICE ESSENTIAL & INTERNET](officessential.md)
 * [COMMUNITY MANAGER & MARKETING DIGITAL](communityandmarketing.md)
