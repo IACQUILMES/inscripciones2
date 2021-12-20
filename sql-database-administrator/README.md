@@ -4,6 +4,8 @@ description: ONLINE EN VIVO + 20 horas en 10 clases de 2 horas
 
 # SQL DATABASE ADMINISTRATOR
 
+## <mark style="color:red;">LAMENTABLEMENTE POR EL MOMENTO ESTE CURSO SE ENCUENTRA SUSPENDIDO</mark>
+
 El objetivo del Curso de SQL es que el alumnx conozca las características principales y componentes de SQL  para diseñar bases de datos relacionales que incluyan la definición de tablas, reglas, índices y vistas mediante instrucciones SQL que le permitan la consulta y manejo de información. El curso va dirigido a todas aquellas personas que deseen trabajar con bases de datos y necesiten aprender el lenguaje estándar de acceso a las mismas y a programadores en Visual Basic, SP, PHP, Java, etc., para comprender a fondo un lenguaje que deben utilizar siempre que se accede a bases de datos.&#x20;
 
 ****[**PULSA PARA VER EL TEMARIO**](temario-sql-dba.md)****
