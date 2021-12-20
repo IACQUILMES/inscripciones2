@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO + 36 clases de 2 horas.
 ---
 
-# OP. OFFICE FULL
+# Op. Office Full Online
 
 **Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
@@ -55,6 +55,6 @@ Inicio sábado 09, miércoles 13, jueves 14 y viernes 15 de Abril
 | 14:00 a 16:00 hrs | Sábados   | 3 de 10      |
 | 16:00 a 18:00 hrs | Sábados   | 4 de 10      |
 
-## [<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)<mark style="color:green;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Online%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****

@@ -48,6 +48,6 @@ Inicio sábado 09, miércoles 13, jueves 14 y viernes 15 de Abril
 | **Miércoles**     |           |          |
 | 18:30 a 20:30 hrs | Jueves    | 5 de 10  |
 
-## [<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)<mark style="color:green;"></mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Community%20Manager%20&%20Marketing%20Digital%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
 ### [**Pulsa para ver todos nuestros cursos**](./)****
