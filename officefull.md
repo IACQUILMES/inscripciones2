@@ -4,49 +4,67 @@ description: ONLINE EN VIVO + 36 clases de 2 horas.
 
 # OP. OFFICE FULL
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - Vacantes limitadas**
+**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
-_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.** 
+**Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet.&#x20;
 
-**Se entrega certificación con código QR con todos tus datos, docente, matrícula y notas**
+_Descarga el temario completo haciendo clic abajo_
 
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :\)** 
 
-💥**PROMOS**💥 
+
+_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
+
+**Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
+
+Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó realizas una **transferencia** mensual. Contamos con los siguientes planes de abono: ****&#x20;
+
+💥**PROMO**💥&#x20;
 
 {% hint style="success" %}
-* Costo del curso $25.000
-* Desc. por promo $5.000
-* **Precio hasta el 10 de Marzo $19.000**
+* Costo del curso $30.000
+* Desc. por promo $8.000
+* **Precio del curso hasta el 15 de Enero $22.000**
 * **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
-| :--- | :--- |
-| PLAN 2 | **$ 19.000** en **9 pagos** de **$2.112** - **Primer pago al inscribirte, segundo en Jun.** |
+* **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
+
+| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
+| ---------------------------------------------------------------- | ------ |
+| **$ 22.000** en **14 pagos** de **$1.574**                       | PLAN 2 |
+| _Primer pago al inscribirte, segundo en Ene._                    |        |
+| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
+| **$ 22.000** en **13 pagos** de **$1.693**                       |        |
+| _Primer pago al inscribirte, segundo en Feb._                    |        |
 
 #### Podes cursar en uno de estos grupos:
 
-Inicio sábado 10, miércoles 14, jueves 15 y viernes 16 de Abril
+Inicio sábado 09, miércoles 13, jueves 14 y viernes 15 de Abril
 
-| Días | horarios | Vacantes |
-| :--- | :--- | :--- |
-| Miércoles | 18:30 a 20:30 hrs | 3 de 10 |
-| Jueves | 18:30 a 20:30 hrs | 5 de 10 |
-| Viernes | 18:30 a 20:30 hrs | 5 de 10 |
-| Sábados | 10:00 a 12:00 hrs | sin vacantes |
-| Sábados | 12:00 a 14:00 hrs | 4 de 10 |
-| Sábados | 14:00 a 16:00 hrs | 3 de 10 |
-| Sábados | 16:00 a 18:00 hrs | 4 de 10 |
+| **Miércoles**     | Días      | Vacantes     |
+| ----------------- | --------- | ------------ |
+| 18:30 a 20:30 hrs | Miércoles | 3 de 10      |
+| **Jueves**        |           |              |
+| 18:30 a 20:30 hrs | Jueves    | 5 de 10      |
+| **Viernes**       |           |              |
+| 18:30 a 20:30 hrs | Viernes   | 5 de 10      |
+| **Sábado**        |           |              |
+| 10:00 a 12:00 hrs | Sábados   | sin vacantes |
+| 12:00 a 14:00 hrs | Sábados   | 4 de 10      |
+| 14:00 a 16:00 hrs | Sábados   | 3 de 10      |
+| 16:00 a 18:00 hrs | Sábados   | 4 de 10      |
 
-**Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
+{% file src=".gitbook/assets/office-full.pdf" %}
+TEMARIO
+{% endfile %}
 
-#### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/office-full.pdf" caption="TEMARIO" %}
+
+## [<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Des.%20Web)<mark style="color:green;"></mark>
+
+### [**Pulsa para ver todos nuestros cursos**](./)****
+
+****
 
 ### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Full)
 
 #### [Mirá todos nuestros cursos](./)
-
