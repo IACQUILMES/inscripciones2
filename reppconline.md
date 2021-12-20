@@ -1,41 +1,51 @@
 ---
-description: 48 horas en 24 clases de 2 hrs
+description: 40 horas en 20 clases de 2 hrs
 ---
 
-# ARMADO Y REP. DE PC ONLINE
+# Armado y Reparación de PC Online
 
-**INICIO 27 DE JULIO - FINALIZA 04 DE ENERO**
-
-**CURSAS TODOS LOS MARTES DE 19 A 21 HRS**
+**Inicia Abril 2022- Finaliza Agosto 2022 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
-#### Descarga el temario completo haciendo clic abajo 
+#### Descarga el temario completo haciendo clic abajo&#x20;
 
-{% file src=".gitbook/assets/rep.-pc.pdf" caption="TEMARIO" %}
+{% file src=".gitbook/assets/rep.-pc.pdf" %}
+TEMARIO
+{% endfile %}
 
-**El curso es completamente online en vivo. Son 24 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para lxs alumnxs del curso._ ****
+**El curso es completamente online en vivo. Son 20 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
-**Se entrega certificación digital y física con código QR con todos tus datos, docente, matrícula y notas.** 
+**Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
-**Abonas mensualmente por Rapipago, Pago Fácil, Tarjeta de crédito, débito ó transferencia. Podes ver nuestros planes:** __
+Todos los meses, te enviamos un link por **MercadoPago** para que abones en **efectivo** (Rapipago, Pago Fácil), **crédito, débito** ó realizas una **transferencia** mensual. Contamos con los siguientes planes de abono:
 
-💥**PROMOS**💥 
+💥**PROMO**💥&#x20;
 
 {% hint style="success" %}
-* Costo del curso $22.000
-* Desc. $5.000
-* **Precio por PROMO $17.000**
+* Costo del curso $25.000
+* Desc. por promo $7.000
+* **Precio del curso hasta el 15 de Enero $18.000**
 * **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.** 
-
-| PLAN | PAGOS |
-| :--- | :--- |
-| PLAN 1 | **$ 17.000** en **7 pagos** de **$2.429** - **Julio a Enero** |
-| PLAN 2 | **$ 17.000** en **6 pagos** de **$2.834** - **Julio a Diciembre** |
+* **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-### [Hace clic para inscribirte](https://wa.me/5491164622877?text=Leí%20toda%20la%20información%20enviada%20y%20quiero%20anotarme%20en%20el%20curso%20de%20Rep.%20de%20PC%20Online)
+| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
+| ---------------------------------------------------------------- | ------ |
+| **$ 18.000** en **11 pagos** de **$1.636**                       | PLAN 2 |
+| _Primer pago al inscribirte, segundo en Ene._                    |        |
+| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
+| **$ 18.000** en **10 pagos** de **$1.800**                       |        |
+| _Primer pago al inscribirte, segundo en Feb._                    |        |
 
-#### [Mirá todos nuestros cursos](./)
+#### Dia y horario de cursada
 
+| **Martes**        | Días | Vacantes     |
+| ----------------- | ---- | ------------ |
+| 19:00 a 21:00 hrs |      | sin vacantes |
+
+Inicio lunes 12  de Abril
+
+## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
+
+### [**Pulsa para ver todos nuestros cursos**](./)****

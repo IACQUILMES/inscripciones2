@@ -1,8 +1,8 @@
 ---
-description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 20 clases de 2 horas.
+description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 24 clases de 2 horas.
 ---
 
-# ARMADO Y REP. DE PC SEMIPRESENCIAL
+# Armado y Reparación de PC semipresencial
 
 **Inicia Abril 2022- Finaliza Agosto 2022 -**&#x20;
 
@@ -45,12 +45,14 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | **Lunes**           | Días | Vacantes     |
 | ------------------- | ---- | ------------ |
 | 18:30 a 20:30 hrs.  |      | sin vacantes |
+| **Jueves**          |      |              |
+| 18:30 a 20:30 hrs   |      |              |
 | **Sábado**          |      |              |
 | 12:00 a 14:00 hrs.  |      |              |
 | 14::00 a 16:00 hrs. |      |              |
 | 16:00 a 18:00 hrs.  |      |              |
 
-Inicio sábado 09 y lunes 11 de Abril
+Inicio sábado 09, lunes 11 y jueves 14 de Abril
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Tango%20Gestion)<mark style="color:green;"></mark>
 

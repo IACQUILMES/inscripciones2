@@ -2,7 +2,7 @@
 description: ONLINE EN VIVO x ZOOM - 20 clases de 2 horas.
 ---
 
-# Op. Sist. Tango Gestión
+# Op. Sist. Tango Gestión online
 
 **Inicia Abril 2022 - Finaliza Agosto 2022 - Vacantes limitadas**
 
@@ -44,7 +44,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Dia y horario de cursada
 
-| **Miércoles**      | Días | Vacantes     |
+| **Lunes**          | Días | Vacantes     |
 | ------------------ | ---- | ------------ |
 | 18:30 a 20:30 hrs. |      | sin vacantes |
 
