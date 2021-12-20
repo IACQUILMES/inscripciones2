@@ -14,7 +14,7 @@ description: >-
 
 #### [Diseño Gráfico Digital Presencial](diseno-grafico-presencial.md)
 
-#### [Programación Orientado Objetos con C# en .NET](progobjetos.md)
+#### [Prog. Orientada Objetos con C# en .NET](progobjetos.md)
 
 #### [Desarrollador Web Full Stack](deswebfullstack.md)
 
@@ -24,7 +24,7 @@ description: >-
 
 #### [Armado y Reparación de PC Online](./#armado-y-reparacion-de-pc-online)
 
-#### [Operador Tango Gestion Presencial](./#operador-tango-gestion-presencial)
+#### [Operador Tango Gestión Presencial](./#operador-tango-gestion-presencial)
 
 #### [Operador Tango Gestión Online](./#operador-tango-gestion-online)
 
