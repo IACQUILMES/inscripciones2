@@ -8,7 +8,7 @@ description: >-
 
 #### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉
 
-#### [Operador Tango Gestión](tangogestion.md)
+#### [Operador Tango Gestión](op.-sistema-tango-gestion.md)
 
 #### [Programación Objetos con C# en .NET Orientado a Objetos](progobjetos.md)
 
