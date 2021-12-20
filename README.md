@@ -6,9 +6,9 @@ description: >-
 
 # IAC QUILMES 2022
 
-#### Este año estaremos contando en algunos cursos con las dos modalidades: <mark style="background-color:orange;">online en vivo por Zoom o de forma presencial con vacantes reducidas.</mark>&#x20;
+#### Este año estaremos contando en algunos cursos con las dos modalidades: <mark style="background-color:orange;">**online en vivo por Zoom o de forma presencial con vacantes reducidas.**</mark>** **&#x20;
 
-#### HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS 😉&#x20;
+#### **HACE CLIC EN EL CURSO QUE TE INTERESE Y MIRA LOS DESCUENTOS QUE TENEMOS PARA VOS** 😉&#x20;
 
 #### [Diseño Gráfico Digital Online](disenografico.md)
 
