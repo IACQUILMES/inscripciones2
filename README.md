@@ -20,13 +20,13 @@ description: >-
 
 #### [Instalador y Administrador de Redes](redesonline.md)
 
-#### [Armado y Reparación de PC Semipresencial](./#armado-y-reparacion-de-pc-semipresencial)
+#### [Armado y Reparación de PC Semipresencial](reppc/repcppresencial.md)
 
-#### [Armado y Reparación de PC Online](./#armado-y-reparacion-de-pc-online)
+#### [Armado y Reparación de PC Online](reppc/reppconline.md)
 
-#### [Operador Tango Gestión Presencial](./#operador-tango-gestion-presencial)
+#### [Operador Tango Gestión Presencial](op.-sistema-tango-gestion/op.-sistema-tango-gestion-presencial.md)
 
-#### [Operador Tango Gestión Online](./#operador-tango-gestion-online)
+#### [Operador Tango Gestión Online](op.-sistema-tango-gestion/tangogestion.md)
 
 #### [Operador Office Full Online](officefull.md)
 
