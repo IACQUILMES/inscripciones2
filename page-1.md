@@ -32,27 +32,28 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
-| ---------------------------------------------------------------- | ------ |
-| **$ 24.000** en **14 pagos** de **$1.715**                       | PLAN 2 |
-| _Primer pago al inscribirte, segundo en Ene._                    |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 24.000** en **13 pagos** de **$1.847**                       |        |
-| _Primer pago al inscribirte, segundo en Feb._                    |        |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
+| ---------------------------------------------------------- | - |
+| **$ 24.000** en **13 pagos** de **$1.847**                 |   |
+| _Primer pago al inscribirte, segundo en Feb._              |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| **$ 24.000** en **12 pagos** de **$2.000**                 |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 24.000** en **11 pagos** de **$2.182**                 |   |
+| _Primer pago al inscribirte, segundo en Abril_             |   |
 
 #### Podes cursar en uno de estos grupos:
 
-Inicio sábado 09, lunes 11, miércoles 13 de Abril
-
-| **Lunes**         |           |              |
-| ----------------- | --------- | ------------ |
-| 17:00 a 19:00 hrs |           |              |
-| **Miércoles**     |           |              |
-| 18:30 a 20:30 hrs | Miércoles | 3 de 10      |
-| **Sábado**        |           |              |
-| 10:00 a 12:00 hrs | Sábados   | sin vacantes |
-| 12:00 a 14:00 hrs | Sábados   | 4 de 10      |
-| 14:00 a 16:00 hrs | Sábados   | 3 de 10      |
+| **Lunes - Inicio 11/04**     |           |              |
+| ---------------------------- | --------- | ------------ |
+| 17:00 a 19:00 hrs            |           |              |
+| **Miércoles - Inicio 13/04** |           |              |
+| 18:30 a 20:30 hrs            | Miércoles | 3 de 10      |
+| **Sábado - Inicio 09/04**    |           |              |
+| 10:00 a 12:00 hrs            | Sábados   | sin vacantes |
+| 12:00 a 14:00 hrs            | Sábados   | 4 de 10      |
+| 14:00 a 16:00 hrs            | Sábados   | 3 de 10      |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 

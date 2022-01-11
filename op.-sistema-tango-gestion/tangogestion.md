@@ -34,21 +34,22 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
-| ---------------------------------------------------------------- | ------ |
-| **$ 22.000** en **11 pagos** de **$2.000**                       | PLAN 2 |
-| _Primer pago al inscribirte, segundo en Ene._                    |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 22.000** en **10 pagos** de **$2.200**                       |        |
-| _Primer pago al inscribirte, segundo en Feb._                    |        |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
+| ---------------------------------------------------------- | - |
+| **$ 22.000** en **10 pagos** de **$2.200**                 |   |
+| _Primer pago al inscribirte, segundo en Feb._              |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| **$ 22.000** en **9 pagos** de **$2.445**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 22.000** en **8 pagos** de **$2.750**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
 
-#### Dia y horario de cursada
+#### Podes cursar en uno de estos grupos:
 
-| **Lunes**          | Días | Vacantes     |
-| ------------------ | ---- | ------------ |
-| 18:30 a 20:30 hrs. |      | sin vacantes |
-
-Inicio miércoles 13 de Abril
+| **Lunes - Inicio 13/04** | Días | Vacantes     |
+| ------------------------ | ---- | ------------ |
+| 18:30 a 20:30 hrs.       |      | sin vacantes |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Tango%20Gesti%C3%B3n%20Online%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 

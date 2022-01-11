@@ -51,15 +51,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Miércoles**      | Días      | Vacantes |
-| ------------------ | --------- | -------- |
-| 17:00 a 19:00 hrs. | Miércoles | 10 de 10 |
-| 19:00 a 21:00 hrs. |           |          |
-| **Sábado**         |           |          |
-| 13:00 a 15:00 hrs. |           |          |
-| 15:00 a 17:00 hrs  |           |          |
-
-Inicios: **sábado 09** y **miércoles 13 de Abril**
+| **Miércoles - Inicio 13/04** | Días      | Vacantes |
+| ---------------------------- | --------- | -------- |
+| 17:00 a 19:00 hrs.           | Miércoles | 10 de 10 |
+| 19:00 a 21:00 hrs.           |           |          |
+| **Sábado - Inicio 09/04**    |           |          |
+| 13:00 a 15:00 hrs.           |           |          |
+| 15:00 a 17:00 hrs.           |           |          |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Dise%C3%B1o%20Gr%C3%A1fico%20Online%20y%20quiero%20inscribirme.)<mark style="color:green;"></mark>
 

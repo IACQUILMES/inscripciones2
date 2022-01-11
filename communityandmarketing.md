@@ -25,28 +25,29 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $26.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 15 de Enero $18.000**
+* **Precio del curso hasta el 25 de Enero $18.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
-| ---------------------------------------------------------------- | ------ |
-| **$ 18.000** en **14 pagos** de **$1.286**                       | PLAN 2 |
-| _Primer pago al inscribirte, segundo en Ene._                    |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 18.000** en **13 pagos** de **$1.385**                       |        |
-| _Primer pago al inscribirte, segundo en Feb._                    |        |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
+| ---------------------------------------------------------- | - |
+| **$ 18.000** en **10 pagos** de **$1.800**                 |   |
+| _Primer pago al inscribirte, segundo en Feb._              |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| **$ 18.000** en **9 pagos** de **$2.000**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 18.000** en **8 pagos** de **$2.250**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
 
 #### Podes cursar en uno de estos grupos:
 
-Inicio sábado 09, miércoles 13, jueves 14 y viernes 15 de Abril
-
-| **Lunes**         | Días      | Vacantes |
-| ----------------- | --------- | -------- |
-| 18:30 a 20:30 hrs | Miércoles | 3 de 10  |
-| **Miércoles**     |           |          |
-| 18:30 a 20:30 hrs | Jueves    | 5 de 10  |
+| **Lunes - Inicio 18/04**     | Días      | Vacantes |
+| ---------------------------- | --------- | -------- |
+| 18:30 a 20:30 hrs            | Miércoles | 3 de 10  |
+| **Miércoles - Inicio 13/04** |           |          |
+| 18:30 a 20:30 hrs            | Jueves    | 5 de 10  |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Community%20Manager%20y%20Marketing%20Digital%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
