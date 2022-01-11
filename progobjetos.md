@@ -33,21 +33,24 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
-| ---------------------------------------------------------------- | ------ |
-| **$ 28.000** en **14 pagos** de **$2.000**                       | PLAN 2 |
-| _Primer pago al inscribirte, segundo en Ene._                    |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 28.000** en **13 pagos** de **$2.154**                       |        |
-| _Primer pago al inscribirte, segundo en Feb._                    |        |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
+| ---------------------------------------------------------- | - |
+| **$ 28.000** en **13 pagos** de **$2.154**                 |   |
+| _Primer pago al inscribirte, segundo en Feb._              |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| **$ 28.000** en **12 pagos** de **$2.334**                 |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 28.000** en **11 pagos** de **$2.546**                 |   |
+| _Primer pago al inscribirte, segundo en Abril_             |   |
 
-#### Dia y horario de cursada
+#### Podes cursar en uno de estos grupos:
 
 | **Miércoles**      | Días | Vacantes |
 | ------------------ | ---- | -------- |
 | 19:00 a 21:00 hrs. |      | 8 de 16  |
 
-Inicia miércoles 13 de Abril
+Inicia **miércoles 13 de Abril**
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Programaci%C3%B3n%20en%20C-Sharp%20con%20.NET%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 

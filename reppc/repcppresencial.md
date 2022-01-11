@@ -32,27 +32,28 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN   |
-| ---------------------------------------------------------------- | ------ |
-| **$ 25.000** en **11 pagos** de **$2.273**                       | PLAN 2 |
-| _Primer pago al inscribirte, segundo en Ene._                    |        |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     |        |
-| **$ 25.000** en **10 pagos** de **$2.500**                       |        |
-| _Primer pago al inscribirte, segundo en Feb._                    |        |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
+| ---------------------------------------------------------- | - |
+| **$ 25.000** en **10 pagos** de **$2.500**                 |   |
+| _Primer pago al inscribirte, segundo en Feb._              |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| **$ 25.000** en **9 pagos** de **$2.778**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 25.000** en **8 pagos** de **$3.125**                  |   |
+| _Primer pago al inscribirte, segundo en Marzo_             |   |
 
-#### Dia y horario de cursada
+#### Podes cursar en uno de estos grupos:
 
-| **Lunes**           | Días | Vacantes     |
-| ------------------- | ---- | ------------ |
-| 18:30 a 20:30 hrs.  |      | sin vacantes |
-| **Jueves**          |      |              |
-| 18:30 a 20:30 hrs   |      |              |
-| **Sábado**          |      |              |
-| 12:00 a 14:00 hrs.  |      |              |
-| 14::00 a 16:00 hrs. |      |              |
-| 16:00 a 18:00 hrs.  |      |              |
-
-Inicio sábado 09, lunes 11 y jueves 14 de Abril
+| **Lunes - Inicio 11-04**  | Días | Vacantes     |
+| ------------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs.        |      | sin vacantes |
+| **Jueves - Inicio 14-04** |      |              |
+| 18:30 a 20:30 hrs         |      |              |
+| **Sábado - Inicio 09-04** |      |              |
+| 12:00 a 14:00 hrs.        |      |              |
+| 14::00 a 16:00 hrs.       |      |              |
+| 16:00 a 18:00 hrs.        |      |              |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
