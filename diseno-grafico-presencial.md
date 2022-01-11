@@ -4,7 +4,7 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 # Diseño Gráfico Presencial
 
-**Inicia Abril 2022 - Finaliza Enero 2023**&#x20;
+<mark style="background-color:orange;">**Inicia Abril 2022 - Finaliza Enero 2023**</mark>** **&#x20;
 
 <mark style="color:red;">**8 Vacantes por comisión**</mark>
 
@@ -34,13 +34,16 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan Diciembre**</mark> | PLAN DICIEMBRE |
-| ---------------------------------------------------------------- | -------------- |
-| **$ 30.000** en **14 pagos** de **$2.144**                       |                |
-| _Primer pago al inscribirte, segundo en Ene._                    |                |
-| <mark style="background-color:orange;">**Plan Enero**</mark>     | PLAN ENERO     |
-| **$ 30.000** en **13 pagos** de **$2.310**                       |                |
-| _Primer pago al inscribirte, segundo en Feb._                    |                |
+| <mark style="background-color:orange;">**Plan I**</mark>  | PLAN DICIEMBRE |
+| --------------------------------------------------------- | -------------- |
+| **$ 30.000** en **13 pagos** de **$2.310**                |                |
+| _Primer pago al inscribirte, segundo en Feb._             |                |
+| <mark style="background-color:orange;">**Plan II**</mark> | PLAN ENERO     |
+| **$ 30.000** en **12 pagos** de **$2.500**                |                |
+| _Primer pago al inscribirte, segundo en Marzo._           |                |
+| <mark style="background-color:orange;">**Plan II**</mark> |                |
+| **$ 30.000** en **11 pagos** de **$2.728**                |                |
+| _Primer pago al inscribirte, segundo en Abril._           |                |
 
 #### Podes cursar en uno de estos grupos:
 
@@ -50,7 +53,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | **Sábado**         | Sábado  | 8 de 8 |
 | 11:00 a 13:00 hrs  |         |        |
 
-Los inicios son el sábado 09 y Lunes 11 de Abril
+Inicios: **sábado 09** y **lunes 11** de **Abril**
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Dise%C3%B1o%20Gr%C3%A1fico%20Presencial%20y%20quiero%20inscribirme.)<mark style="color:green;"></mark>
 
