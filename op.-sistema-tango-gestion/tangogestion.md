@@ -47,7 +47,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 13/04** | Días | Vacantes     |
+| **Lunes - Inicio 11/04** | Días | Vacantes     |
 | ------------------------ | ---- | ------------ |
 | 18:30 a 20:30 hrs.       |      | sin vacantes |
 
