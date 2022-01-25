@@ -6,7 +6,7 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 <mark style="background-color:orange;">**Inicia Abril 2022 - Finaliza Enero 2023**</mark>** **&#x20;
 
-<mark style="color:red;">**8 Vacantes por comisión**</mark>
+<mark style="color:red;">**Solo quedan 3 Vacantes por comisión**</mark>
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app webs y sitios web; y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son **Photoshop, Illustrator,  Indesign y Figma.**
 
@@ -29,7 +29,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $38.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 25 de Enero  $30.000**
+* **Precio del curso hasta el 31 de Enero  $30.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
