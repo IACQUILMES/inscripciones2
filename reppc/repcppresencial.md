@@ -16,7 +16,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**La cursada va a ser mixta: la teoría se dictará de forma online y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.** **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**La cursada va a ser mixta: la teoría se dictará de forma online en vivo por Zoom y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.** **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 

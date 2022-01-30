@@ -14,7 +14,7 @@ description: ONLINE EN VIVO + 36 clases de 2 horas.
 TEMARIO
 {% endfile %}
 
-_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
+_Las clases son **online en vivo por Zoom**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 

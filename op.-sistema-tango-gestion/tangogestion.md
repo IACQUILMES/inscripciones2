@@ -16,7 +16,7 @@ Aprende a usar el Sistema Tango, el más actualizado software de gestión contab
 TEMARIO
 {% endfile %}
 
-_**Las clases son online en vivo**, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con la versión educativa de Tango gestión.**&#x20;
+_**Las clases son online en vivo por Zoom**, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica, es decir, que vas a trabajar en clase con la versión educativa de Tango gestión.**&#x20;
 
 _Te instalamos por controlador remoto una **versión educativa de Tango Gestión**  **en tu computadora** para que puedas practicar._&#x20;
 

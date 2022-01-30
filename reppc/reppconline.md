@@ -14,7 +14,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**El curso es completamente online en vivo. Son 18 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**El curso es completamente online en vivo por Zoom. Son 18 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 

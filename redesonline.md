@@ -14,7 +14,7 @@ Convertite en un experto, dominando los conceptos, las tipologías, desempeñán
 TEMARIO
 {% endfile %}
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y laboratorio práctico.** &#x20;
+_Las clases son **online en vivo por Zoom**, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y laboratorio práctico.** &#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 

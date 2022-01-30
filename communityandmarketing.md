@@ -14,7 +14,7 @@ Vas a aprender sobre marketing digital y cómo aplicarlo en la creación de camp
 TEMARIO
 {% endfile %}
 
-_Las clases son online en vivo, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica.**&#x20;
+_Las clases son **online en vivo por Zoom**, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica.**&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
