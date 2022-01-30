@@ -6,7 +6,7 @@ description: ONLINE EN VIVO + 18 clases de 2 horas.
 
 **Inicia Abril 2022 - Finaliza Agosto 2022 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
-Vas a aprender sobre marketing digital y cómo aplicarlo en la creación de campañas publicitarias. Harás planeación estratégica donde delinearas objetivos: audiencia, producto, cliente y qué plataformas ayudarán a que tengas éxito. Vas a segmentar y plantear campañas para Facebook e Instagram, aprenderás sobre reputación online y generación de tráfico, además de herramientas de trabajo. Aprenderás sobre herramientas de creación de gráfica e infografía.
+Vas a aprender sobre marketing digital y cómo aplicarlo en la creación de campañas publicitarias. Harás planeación estratégica donde delinearas objetivos: audiencia, producto, cliente y qué plataformas ayudarán a que tengas éxito. Vas a segmentar y plantear campañas para Facebook e Instagram, aprenderás sobre reputación online y generación de tráfico, además de herramientas de trabajo. Aprenderás sobre herramientas de creación de gráfica.&#x20;
 
 #### Descarga el temario completo haciendo clic abajo
 
