@@ -8,6 +8,14 @@ description: ONLINE EN VIVO x ZOOM + 30 clases de 2 horas.
 
 **Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes limitadas**</mark>
 
+Sabías que con C# junto con el framework .NET podes crear juegos y app´s para la Web, dispositivos móviles y de escritorio, y el Internet de las cosas (IoT). ⬇
+
+✅.NET es una plataforma de desarrollador de código abierto gratuita y multiplataforma para crear muchos tipos diferentes de aplicaciones.
+
+✅ C# es el lenguaje de programación más usado en el ecosistema de .NET, fue creado de manera explícita para él.
+
+**¿Qué aprendes?**
+
 **Diagramación lógica (algoritmos)**: contendrá resolución de problemas, entes que intervienen, modo de resolverlos, conceptos de algoritmos, ingreso y salida de datos, estructuras de control, entre otros. Cada tema con ejercitación, explicado paso a paso, junto a una serie de ejercicios de aplicación real.\
 **Base de Datos:** se expondrá al alumno al diseño y creación de bases de datos y manipulación de los datos.\
 **Desarrollo de Aplicaciones Windows (**C# y Visual Basic**):** C# y Visual Basic son lenguajes de programación diseñados para crear una gran variedad de aplicaciones que se ejecutan en .NET Framework. El objetivo central es desarrollar programas y aplicaciones en una de las plataformas de desarrollo más utilizada en la actualidad, pero a su vez preparar al alumno para enfrentar futuros cambios de plataformas.\
@@ -28,21 +36,21 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $36.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 31 de Enero $28.000**
+* **Precio del curso hasta el 15 de Febrero $28.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
 | <mark style="background-color:orange;">**Plan I**</mark>   |   |
 | ---------------------------------------------------------- | - |
-| **$ 28.000** en **13 pagos** de **$2.154**                 |   |
-| _Primer pago al inscribirte, segundo en Feb._              |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 28.000** en **12 pagos** de **$2.334**                 |   |
 | _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 28.000** en **11 pagos** de **$2.546**                 |   |
 | _Primer pago al inscribirte, segundo en Abril_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 28.000** en **10 pagos** de **$2.800**                 |   |
+| _Primer pago al inscribirte, segundo en Mayo_              |   |
 
 #### Podes cursar en uno de estos grupos:
 

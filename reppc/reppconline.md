@@ -14,7 +14,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**El curso es completamente online en vivo. Son 20 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**El curso es completamente online en vivo. Son 18 clases de 2 horas.** _Todas las clases se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
@@ -32,14 +32,14 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 | <mark style="background-color:orange;">**Plan I**</mark>   |   |
 | ---------------------------------------------------------- | - |
-| **$ 18.000** en **9 pagos** de **$2.000**                  |   |
-| _Primer pago al inscribirte, segundo en Feb._              |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 18.000** en **8 pagos** de **$2.250**                  |   |
 | _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 18.000** en **7 pagos** de **$2.572**                  |   |
 | _Primer pago al inscribirte, segundo en Abril_             |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 18.000** en **6 pagos** de **$3.000**                  |   |
+| _Primer pago al inscribirte, segundo en Mayo_              |   |
 
 #### Podes cursar en uno de estos grupos:
 
