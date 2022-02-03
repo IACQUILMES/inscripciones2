@@ -4,7 +4,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 24 clases de 2 h
 
 # Armado y Reparación de PC semipresencial
 
-**Inicia Abril 2022- Finaliza Agosto 2022 -**&#x20;
+**Inicia Abril 2022- Finaliza Octubre 2022**&#x20;
 
 <mark style="color:red;">**8**</mark>**  **<mark style="color:red;">**Vacantes por grupo**</mark>
 
