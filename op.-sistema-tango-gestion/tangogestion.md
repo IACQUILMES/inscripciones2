@@ -4,7 +4,7 @@ description: ONLINE EN VIVO x ZOOM - 20 clases de 2 horas.
 
 # Op. Sist. Tango Gestión online
 
-**Inicia Abril 2022 - Finaliza Agosto 2022 - Vacantes limitadas**
+**Inicia Abril 2022 - Finaliza Septiembre 2022 - Vacantes limitadas**
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
