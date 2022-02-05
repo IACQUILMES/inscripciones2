@@ -32,7 +32,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
+| <mark style="background-color:orange;">**Plan I**</mark>   |   |
 | ---------------------------------------------------------- | - |
 | **$ 28.000** en **12 pagos** de **$2.334**                 |   |
 | _Primer pago al inscribirte, segundo en Marzo_             |   |
