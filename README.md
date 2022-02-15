@@ -24,9 +24,9 @@ description: >-
 
 #### [Armado y Reparación de PC Online](reppc/reppconline.md)
 
-#### [Operador Tango Gestión Presencial](op.-sistema-tango-gestion/op.-sistema-tango-gestion-presencial.md)
+#### [Operador Tango Gestión Presencial](tangogespresencial.md)
 
-#### [Operador Tango Gestión Online](op.-sistema-tango-gestion/tangogestion.md)
+#### [Operador Tango Gestión Online](tangogesonline.md)
 
 #### [Operador Office Full Online](officefull.md)
 
