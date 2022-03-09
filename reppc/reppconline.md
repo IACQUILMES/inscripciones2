@@ -30,17 +30,6 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>   |   |
-| ---------------------------------------------------------- | - |
-| **$ 18.000** en **8 pagos** de **$2.250**                  |   |
-| _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
-| **$ 18.000** en **7 pagos** de **$2.572**                  |   |
-| _Primer pago al inscribirte, segundo en Abril_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
-| **$ 18.000** en **6 pagos** de **$3.000**                  |   |
-| _Primer pago al inscribirte, segundo en Mayo_              |   |
-
 #### Podes cursar en uno de estos grupos:
 
 | **Martes - Inicio 12-04** | Días | Vacantes     |

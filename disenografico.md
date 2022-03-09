@@ -33,31 +33,31 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $36.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 25 de Febrero  $28.000**
+* **Precio del curso hasta el 25 de Marzo  $28.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
 | <mark style="background-color:orange;">**Plan I**</mark>   |   |
 | ---------------------------------------------------------- | - |
-| **$ 28.000** en **12 pagos** de **$2.334**                 |   |
-| _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 28.000** en **11 pagos** de **$2.546**                 |   |
 | _Primer pago al inscribirte, segundo en Abril_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| <mark style="background-color:orange;">**Plan II**</mark>  |   |
 | **$ 28.000** en **10 pagos** de **$2.800**                 |   |
 | _Primer pago al inscribirte, segundo en Mayo_              |   |
+| <mark style="background-color:orange;">**Plan III**</mark> |   |
+| **$ 28.000** en **9 pagos** de **$3.112**                  |   |
+| _Primer pago al inscribirte, segundo en Junio_             |   |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Miércoles - Inicio 13/04** | Días      | Vacantes |
-| ---------------------------- | --------- | -------- |
-| 17:00 a 19:00 hrs.           | Miércoles | 10 de 10 |
-| 19:00 a 21:00 hrs.           |           |          |
-| **Sábado - Inicio 09/04**    |           |          |
-| 13:00 a 15:00 hrs.           |           |          |
-| 15:00 a 17:00 hrs.           |           |          |
+| **Miércoles - Inicio 13/04**                                      | Días      | Vacantes |
+| ----------------------------------------------------------------- | --------- | -------- |
+| 17:00 a 19:00 hrs. <mark style="color:red;">**3 Vacantes**</mark> | Miércoles | 10 de 10 |
+| 19:00 a 21:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |           |          |
+| **Sábado - Inicio 09/04**                                         |           |          |
+| 13:00 a 15:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |           |          |
+| 15:00 a 17:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |           |          |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Dise%C3%B1o%20Gr%C3%A1fico%20Online%20y%20quiero%20inscribirme.)<mark style="color:green;"></mark>
 

@@ -6,7 +6,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 24 clases de 2 h
 
 **Inicia Abril 2022- Finaliza Octubre 2022**&#x20;
 
-<mark style="color:red;">**8**</mark>**  **<mark style="color:red;">**Vacantes por grupo**</mark>
+<mark style="color:red;">**Pocas vacantes**</mark>
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
@@ -45,15 +45,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11-04**  | Días | Vacantes     |
-| ------------------------- | ---- | ------------ |
-| 18:30 a 20:30 hrs.        |      | sin vacantes |
-| **Jueves - Inicio 14-04** |      |              |
-| 18:30 a 20:30 hrs         |      |              |
-| **Sábado - Inicio 09-04** |      |              |
-| 12:00 a 14:00 hrs.        |      |              |
-| 14::00 a 16:00 hrs.       |      |              |
-| 16:00 a 18:00 hrs.        |      |              |
+| **Lunes - Inicio 11-04**                                           | Días | Vacantes     |
+| ------------------------------------------------------------------ | ---- | ------------ |
+| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>  |      | sin vacantes |
+| **Jueves - Inicio 14-04**                                          |      |              |
+| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>   |      |              |
+| **Sábado - Inicio 09-04**                                          |      |              |
+| 12:00 a 14:00 hrs. <mark style="color:red;">**3 Vacantes**</mark>  |      |              |
+| 14::00 a 16:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      |              |
+| 16:00 a 18:00 hrs. <mark style="color:red;">**2 Vacantes**</mark>  |      |              |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 

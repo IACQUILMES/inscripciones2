@@ -4,15 +4,13 @@ description: ONLINE EN VIVO x ZOOM - 20 clases de 2 horas.
 
 # Op. Sist. Tango Gestión online
 
-**Inicia Abril 2022 - Finaliza Septiembre 2022 - Vacantes limitadas**
+**Inicia Abril 2022 - Finaliza Septiembre 2022 -  **<mark style="color:red;">**Quedan solo 3**</mark>**  **<mark style="color:red;">**Vacantes**</mark>&#x20;
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
-<mark style="color:red;">**Requisito: tu computadora debe tener mínimo 4 GB de RAM. Pregúntanos para asesorarte.**</mark>&#x20;
-
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src="../.gitbook/assets/OP. TANGO GESTION 2022.pdf" %}
+{% file src=".gitbook/assets/OP. TANGO GESTION 2022.pdf" %}
 TEMARIO
 {% endfile %}
 
@@ -47,13 +45,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11/04** | Días | Vacantes     |
-| ------------------------ | ---- | ------------ |
-| 18:30 a 20:30 hrs.       |      | sin vacantes |
+| **Lunes - Inicio 11/04**                                          | Días | Vacantes     |
+| ----------------------------------------------------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark> |      | sin vacantes |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Tango%20Gesti%C3%B3n%20Online%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
-### [**Pulsa para ver todos nuestros cursos**](../)****
+### [**Pulsa para ver todos nuestros cursos**](./)****
 
 ####
 
