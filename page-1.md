@@ -6,7 +6,7 @@ description: 36 clases de 2 horas
 
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
-<mark style="color:red;">**8 Vacantes por grupo.**</mark>
+<mark style="color:red;">**Pocas Vacantes**</mark>
 
 **Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet.&#x20;
 
@@ -45,15 +45,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11/04**     |           |              |
-| ---------------------------- | --------- | ------------ |
-| 17:00 a 19:00 hrs            |           |              |
-| **Miércoles - Inicio 13/04** |           |              |
-| 18:30 a 20:30 hrs            | Miércoles | 3 de 10      |
-| **Sábado - Inicio 09/04**    |           |              |
-| 10:00 a 12:00 hrs            | Sábados   | sin vacantes |
-| 12:00 a 14:00 hrs            | Sábados   | 4 de 10      |
-| 14:00 a 16:00 hrs            | Sábados   | 3 de 10      |
+| **Lunes - Inicio 11/04 Sin**  |           |              |
+| ----------------------------- | --------- | ------------ |
+| 17:00 a 19:00 hrs             |           |              |
+| **Miércoles - Inicio 13/04**  |           |              |
+| 18:30 a 20:30 hrs             | Miércoles | 3 de 10      |
+| **Sábado - Inicio 09/04**     |           |              |
+| 10:00 a 12:00 hrs             | Sábados   | sin vacantes |
+| 12:00 a 14:00 hrs             | Sábados   | 4 de 10      |
+| 14:00 a 16:00 hrs             | Sábados   | 3 de 10      |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
