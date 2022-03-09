@@ -27,21 +27,18 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $5.000
-* **Precio del curso hasta el 25 de Febrero $25.000**
+* **Precio del curso hasta el 25 de Marzo $25.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>   |   |
-| ---------------------------------------------------------- | - |
-| **$ 25.000** en **9 pagos** de **$2.778**                  |   |
-| _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
-| **$ 25.000** en **8 pagos** de **$3.125**                  |   |
-| _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
-| **$ 25.000** en **7 pagos** de **$3.572**                  |   |
-| _Primer pago al inscribirte, segundo en Mayo_              |   |
+| <mark style="background-color:orange;">**Plan I**</mark>  |   |
+| --------------------------------------------------------- | - |
+| **$ 25.000** en **8 pagos** de **$3.125**                 |   |
+| _Primer pago al inscribirte, segundo en Marzo_            |   |
+| <mark style="background-color:orange;">**Plan II**</mark> |   |
+| **$ 25.000** en **7 pagos** de **$3.572**                 |   |
+| _Primer pago al inscribirte, segundo en Mayo_             |   |
 
 #### Podes cursar en uno de estos grupos:
 
