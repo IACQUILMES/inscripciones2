@@ -6,7 +6,7 @@ description: 30 clases de 2 horas
 
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
-<mark style="color:red;">**Solo 8 Vacantes**</mark>
+<mark style="color:red;">**Solo 4 Vacantes**</mark>
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
@@ -27,21 +27,18 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $36.000
 * Desc. por promo $6.000
-* **Precio del curso hasta el 25 de Febrero $28.000**
+* **Precio del curso hasta el 25 de Marzo $28.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>   |   |
-| ---------------------------------------------------------- | - |
-| **$ 28.000** en **12 pagos** de **$2.334**                 |   |
-| _Primer pago al inscribirte, segundo en Marzo_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
-| **$ 28.000** en **11 pagos** de **$2.546**                 |   |
-| _Primer pago al inscribirte, segundo en Abril_             |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
-| **$ 28.000** en **10 pagos** de **$2.800**                 |   |
-| _Primer pago al inscribirte, segundo en Mayo_              |   |
+| <mark style="background-color:orange;">**Plan I**</mark>  |   |
+| --------------------------------------------------------- | - |
+| **$ 28.000** en **11 pagos** de **$2.546**                |   |
+| _Primer pago al inscribirte, segundo en Abril_            |   |
+| <mark style="background-color:orange;">**Plan II**</mark> |   |
+| **$ 28.000** en **10 pagos** de **$2.800**                |   |
+| _Primer pago al inscribirte, segundo en Mayo_             |   |
 
 #### Podes cursar en uno de estos grupos:
 

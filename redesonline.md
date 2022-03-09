@@ -4,7 +4,7 @@ description: ONLINE EN VIVO x ZOOM + 30 clases de 2 horas.
 
 # Instalador y Administrador de Redes
 
-**Inicia Abril 2021 - Finaliza Enero 2022 - **<mark style="color:red;">**Vacantes limitadas**</mark>
+**Inicia Abril 2021 - Finaliza Enero 2022 - **<mark style="color:red;">**2 VACANTES**</mark>
 
 Convertite en un experto, dominando tipologías, servicios de instalación, configuración de redes, mantenimientos y actualización de equipos, dispositivos periféricos y sistemas de redes de computadoras. Este curso, será imprescindible para quienes deseen, en un futuro, trabajar en el área técnica de grandes empresas, consultoras de sistemas y cómo una actividad independiente. Está dirigido a personas que se desempeñan o deseen incorporarse laboralmente en el ámbito del sector de instalaciones de redes informáticas. Tendrás habilidades técnicas en el ámbito de la informática y te permitirá resolver los habituales problemas que se desarrollan en el entorno de las organizaciones y sus redes.
 

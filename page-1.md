@@ -6,7 +6,7 @@ description: 36 clases de 2 horas
 
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
-<mark style="color:red;">**Pocas Vacantes**</mark>
+<mark style="color:red;">**1 VACANTE DISPONIBLE**</mark>
 
 **Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet.&#x20;
 
@@ -27,7 +27,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $6.000
-* **Precio del curso hasta el 25 de Febrero $24.000**
+* **Precio del curso hasta el 25 de Marzo $24.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}

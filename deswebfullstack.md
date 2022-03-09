@@ -4,7 +4,7 @@ description: ONLINE EN VIVO x ZOOM + 36 clases de 2 horas.
 
 # Desarrollo Full Stack
 
-**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes Limitadas**</mark>
+**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**5 VACANTES**</mark>
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: **HTML, CSS, JAVASCRIPT, XML, PHP, SQL, LIBRERIAS, FRAMEWORKS.** Se procederá a trabajar con varios lenguajes de programación para llevar a cabo páginas web dinámicas y responsive, manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 

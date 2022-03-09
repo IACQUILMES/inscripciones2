@@ -6,7 +6,7 @@ description: ONLINE EN VIVO x ZOOM + 30 clases de 2 horas.
 
 ### Aprende a programar desde cero con C# en Microsoft .NET
 
-**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**Vacantes limitadas**</mark>
+**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**3 VACANTES**</mark>
 
 Sabías que con C# junto con el framework .NET podes crear juegos y app´s para la Web, dispositivos móviles y de escritorio, y el Internet de las cosas (IoT). ⬇
 
