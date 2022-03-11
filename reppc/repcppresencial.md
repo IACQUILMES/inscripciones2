@@ -35,7 +35,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | <mark style="background-color:orange;">**Plan I**</mark>  |   |
 | --------------------------------------------------------- | - |
 | **$ 25.000** en **8 pagos** de **$3.125**                 |   |
-| _Primer pago al inscribirte, segundo en Marzo_            |   |
+| _Primer pago al inscribirte, segundo en Abril_            |   |
 | <mark style="background-color:orange;">**Plan II**</mark> |   |
 | **$ 25.000** en **7 pagos** de **$3.572**                 |   |
 | _Primer pago al inscribirte, segundo en Mayo_             |   |
