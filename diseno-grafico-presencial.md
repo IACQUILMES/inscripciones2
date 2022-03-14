@@ -6,7 +6,7 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 <mark style="background-color:orange;">**Inicia Abril 2022 - Finaliza Enero 2023**</mark>** **&#x20;
 
-<mark style="color:red;">**Sin vacantes**</mark>
+<mark style="color:red;">**solo 4 vacantes**</mark>
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app webs y sitios web; y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son **Photoshop, Illustrator,  Indesign y Figma.**
 
@@ -34,21 +34,20 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>   | PLAN ENERO |
-| ---------------------------------------------------------- | ---------- |
-| **$ 31.000** en **12 pagos** de **$2.584**                 |            |
-| _Primer pago al inscribirte, segundo en Marzo._            |            |
-| <mark style="background-color:orange;">**Plan II**</mark>  |            |
-| **$ 31.000** en **12 pagos** de **$2.818**                 |            |
-| _Primer pago al inscribirte, segundo en Abril._            |            |
-| <mark style="background-color:orange;">**Plan III**</mark> |            |
-| **$ 31.000** en **10 pagos** de **$3.100**                 |            |
-| _Primer pago al inscribirte, segundo en Mayo_              |            |
+| <mark style="background-color:orange;">**Plan I**</mark>  |   |
+| --------------------------------------------------------- | - |
+| **$ 31.000** en **12 pagos** de **$2.818**                |   |
+| _Primer pago al inscribirte, segundo en Abril._           |   |
+| <mark style="background-color:orange;">**Plan II**</mark> |   |
+| **$ 31.000** en **10 pagos** de **$3.100**                |   |
+| _Primer pago al inscribirte, segundo en Mayo_             |   |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11/04**                                          | Lunes   | 8 de 8 |
+| **Sábado - inicio 16-04**                                         | Lunes   | 8 de 8 |
 | ----------------------------------------------------------------- | ------- | ------ |
+| 14:00 a 16:00 hrs. <mark style="color:red;">**4 Vacantes**</mark> |         |        |
+| **Lunes - Inicio 11/04**                                          |         |        |
 | 17:00 a 19:00 hrs. <mark style="color:red;">**0 Vacantes**</mark> |         |        |
 | **Sábado - inicio 09-04**                                         | Sábado  | 8 de 8 |
 | 11:00 a 13:00 hrs. <mark style="color:red;">**0 Vacantes**</mark> |         |        |
