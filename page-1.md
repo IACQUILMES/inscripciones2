@@ -45,14 +45,16 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | **Jueves - Inicio 14/04 **<mark style="color:red;">**1 VACANTE**</mark>       |           |              |
 | ----------------------------------------------------------------------------- | --------- | ------------ |
 | 18:30 a 20:30 hrs                                                             |           |              |
+| **Sábado - Inicio 16/04  **<mark style="color:red;">**5 VACANTES**</mark>     |           |              |
+| 16:00 a 18:00 hrs                                                             |           |              |
 | **Lunes - Inicio 11/04 **<mark style="color:red;">**SIN VACANTES**</mark>     |           |              |
 | 17:00 a 19:00 hrs                                                             |           |              |
 | **Miércoles - Inicio 13/04 **<mark style="color:red;">**SIN VACANTES**</mark> |           |              |
 | 18:30 a 20:30 hrs                                                             | Miércoles | 3 de 10      |
-| **Sábado - Inicio 09/04 **<mark style="color:red;">**SIN VACANTES**</mark>    |           |              |
+| **Sábado - Inicio 09/04  **<mark style="color:red;">**SIN VACANTES**</mark>   |           |              |
 | 10:00 a 12:00 hrs                                                             | Sábados   | sin vacantes |
 | 12:00 a 14:00 hrs                                                             | Sábados   | 4 de 10      |
-| 14:00 a 16:00 hrs                                                             | Sábados   | 3 de 10      |
+| 14:00 a 16:00 hrs                                                             |           |              |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
