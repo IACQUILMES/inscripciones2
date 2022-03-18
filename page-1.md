@@ -42,7 +42,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábado - Inicio 16/04  **<mark style="color:red;">**3 VACANTES**</mark>     |           |              |
+| **Sábado - Inicio 16/04  **<mark style="color:red;">**1 VACANTES**</mark>     |           |              |
 | ----------------------------------------------------------------------------- | --------- | ------------ |
 | 16:00 a 18:00 hrs                                                             |           |              |
 | **Jueves - Inicio 14/04 **<mark style="color:red;">**SIN VACANTES**</mark>    |           |              |
