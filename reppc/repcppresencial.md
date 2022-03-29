@@ -39,15 +39,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11-04**                                           | Días | Vacantes     |
-| ------------------------------------------------------------------ | ---- | ------------ |
-| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>  |      | sin vacantes |
-| **Jueves - Inicio 14-04**                                          |      |              |
-| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>   |      |              |
-| **Sábado - Inicio 09-04**                                          |      |              |
-| 12:00 a 14:00 hrs. <mark style="color:red;">**3 Vacantes**</mark>  |      |              |
-| 14::00 a 16:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      |              |
-| 16:00 a 18:00 hrs. <mark style="color:red;">**2 Vacantes**</mark>  |      |              |
+| **Lunes - Inicio 11-04**                                             | Días | Vacantes     |
+| -------------------------------------------------------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>    |      | sin vacantes |
+| **Jueves - Inicio 14-04**                                            |      |              |
+| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>     |      |              |
+| **Sábado - Inicio 09-04**                                            |      |              |
+| 12:00 a 14:00 hrs. <mark style="color:red;">**2 VACANTES**</mark>    |      |              |
+| 14::00 a 16:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |      |              |
+| 16:00 a 18:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
