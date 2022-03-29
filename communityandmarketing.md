@@ -4,7 +4,7 @@ description: ONLINE EN VIVO + 18 clases de 2 horas.
 
 # Community Manager & Marketing Digital
 
-**Inicia Abril 2022 - Finaliza Agosto 2022 - **<mark style="color:red;">**POCAS VACANTES**</mark>
+**Inicia Abril 2022 - Finaliza Agosto 2022 - **<mark style="color:red;">**4 VACANTES**</mark>
 
 Vas a aprender sobre marketing digital y cómo aplicarlo en la creación de campañas publicitarias. Harás planeación estratégica donde delinearas objetivos: audiencia, producto, cliente y qué plataformas ayudarán a que tengas éxito. Vas a segmentar y plantear campañas para Facebook e Instagram, aprenderás sobre reputación online y generación de tráfico, además de herramientas de trabajo. Aprenderás sobre herramientas de creación de gráfica.&#x20;
 
@@ -25,18 +25,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $26.000
 * Desc. por promo $10.000
-* **Precio del curso hasta el 25 de Marzo $16.000**
+* **Precio del curso hasta el 10 de Abril $16.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>  |   |
-| --------------------------------------------------------- | - |
-| **$ 16.000** en **7 pagos** de **$2.285**                 |   |
-| _Primer pago al inscribirte, segundo en Abril_            |   |
-| <mark style="background-color:orange;">**Plan II**</mark> |   |
-| **$ 16.000** en **6 pagos** de **$2.667**                 |   |
-| _Primer pago al inscribirte, segundo en Mayo_             |   |
+| <mark style="background-color:orange;">**Plan I**</mark> |   |
+| -------------------------------------------------------- | - |
+| **$ 16.000** en **6 pagos** de **$2.667**                |   |
+| _Primer pago al inscribirte, segundo en Mayo_            |   |
 
 #### Podes cursar en uno de estos grupos:
 

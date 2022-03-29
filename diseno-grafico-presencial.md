@@ -29,26 +29,23 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $38.000
 * Desc. por promo $7.000
-* **Precio del curso hasta el 25 de Marzo  $31.000**
+* **Precio del curso hasta el 10 de Abril  $31.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>  |   |
-| --------------------------------------------------------- | - |
-| **$ 31.000** en **11 pagos** de **$2.818**                |   |
-| _Primer pago al inscribirte, segundo en Abril._           |   |
-| <mark style="background-color:orange;">**Plan II**</mark> |   |
-| **$ 31.000** en **10 pagos** de **$3.100**                |   |
-| _Primer pago al inscribirte, segundo en Mayo_             |   |
+| <mark style="background-color:orange;">**Plan I**</mark> |   |
+| -------------------------------------------------------- | - |
+| **$ 31.000** en **10 pagos** de **$3.100**               |   |
+| _Primer pago al inscribirte, segundo en Mayo_            |   |
 
 #### Podes cursar en uno de estos grupos:
 
 | **Sábado - inicio 16-04**                                         | Lunes   | 8 de 8 |
 | ----------------------------------------------------------------- | ------- | ------ |
-| 14:00 a 16:00 hrs. <mark style="color:red;">**4 Vacantes**</mark> |         |        |
+| 14:00 a 16:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |         |        |
 | **Lunes - Inicio 11/04**                                          |         |        |
-| 17:00 a 19:00 hrs. <mark style="color:red;">**0 Vacantes**</mark> |         |        |
+| 17:00 a 19:00 hrs. <mark style="color:red;">**1 Vacante**</mark>  |         |        |
 | **Sábado - inicio 09-04**                                         | Sábado  | 8 de 8 |
 | 11:00 a 13:00 hrs. <mark style="color:red;">**0 Vacantes**</mark> |         |        |
 

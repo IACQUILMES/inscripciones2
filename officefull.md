@@ -25,31 +25,26 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 25 de Marzo $22.000**
+* **Precio del curso hasta el 10 de Abril $22.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>  |   |
-| --------------------------------------------------------- | - |
-| **$ 22.000** en **11 pagos** de **$2.000**                |   |
-| _Primer pago al inscribirte, segundo en Abril_            |   |
-| <mark style="background-color:orange;">**Plan II**</mark> |   |
-| **$ 22.000** en **10 pagos** de **$2.200**                |   |
-| _Primer pago al inscribirte, segundo en Mayo_             |   |
+| <mark style="background-color:orange;">**Plan I**</mark> |   |
+| -------------------------------------------------------- | - |
+| **$ 22.000** en **10 pagos** de **$2.200**               |   |
+| _Primer pago al inscribirte, segundo en Mayo_            |   |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Miércoles - Inicio 13/04 **<mark style="color:red;">**4 VACANTES**</mark> | Días      | Vacantes     |
-| --------------------------------------------------------------------------- | --------- | ------------ |
-| 18:30 a 20:30 hrs                                                           | Miércoles | 3 de 10      |
-| **Jueves - Inicio 14/04 **<mark style="color:red;">**3 VACANTES**</mark>    |           |              |
-| 18:30 a 20:30 hrs                                                           | Jueves    | 5 de 10      |
-| **Sábado - Inicio 09/04 **<mark style="color:red;">**2 VACANTES**</mark>    |           |              |
-| 10:00 a 12:00 hrs                                                           | Sábados   | sin vacantes |
-| 12:00 a 14:00 hrs                                                           | Sábados   | 4 de 10      |
-|                                                                             | Sábados   | 3 de 10      |
-|                                                                             | Sábados   | 4 de 10      |
+| **Jueves - Inicio 14/04 **<mark style="color:red;">**3 VACANTES**</mark> |         |              |
+| ------------------------------------------------------------------------ | ------- | ------------ |
+| 18:30 a 20:30 hrs                                                        | Jueves  | 5 de 10      |
+| **Sábado - Inicio 09/04 **<mark style="color:red;">**2 VACANTES**</mark> |         |              |
+| 10:00 a 12:00 hrs                                                        | Sábados | sin vacantes |
+| 12:00 a 14:00 hrs                                                        | Sábados | 4 de 10      |
+|                                                                          | Sábados | 3 de 10      |
+|                                                                          | Sábados | 4 de 10      |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Online%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 

@@ -4,7 +4,7 @@ description: ONLINE EN VIVO x ZOOM + 36 clases de 2 horas.
 
 # Desarrollo Full Stack
 
-**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**5 VACANTES**</mark>
+**Inicia Abril 2022 - Finaliza Enero 2023 - **<mark style="color:red;">**2 VACANTES**</mark>
 
 Un sitio web utiliza varias tecnologías simultáneamente, dentro de este curso se utilizarán diversas técnicas, protocolos y lenguajes tales como: **HTML, CSS, JAVASCRIPT, XML, PHP, SQL, LIBRERIAS, FRAMEWORKS.** Se procederá a trabajar con varios lenguajes de programación para llevar a cabo páginas web dinámicas y responsive, manejo de datos web, administraciones del sitio, análisis del proyecto, entre otros.
 
@@ -31,29 +31,26 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $36.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 25 de Marzo  $28.000**
+* **Precio del curso hasta el 10 de Abril  $28.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>   |   |
-| ---------------------------------------------------------- | - |
-| **$ 28.000** en **11 pagos** de **$2.546**                 |   |
-| _Primer pago al inscribirte, segundo en Abril_             |   |
-| <mark style="background-color:orange;">**Plan II**</mark>  |   |
-| **$ 28.000** en **10 pagos** de **$2.800**                 |   |
-| _Primer pago al inscribirte, segundo en Mayo_              |   |
-| <mark style="background-color:orange;">**Plan III**</mark> |   |
-| **$ 28.000** en **9 pagos** de **$3.112**                  |   |
-| _Primer pago al inscribirte, segundo en Junio_             |   |
+| <mark style="background-color:orange;">**Plan I**</mark>  |   |
+| --------------------------------------------------------- | - |
+| **$ 28.000** en **10 pagos** de **$2.800**                |   |
+| _Primer pago al inscribirte, segundo en Mayo_             |   |
+| <mark style="background-color:orange;">**Plan II**</mark> |   |
+| **$ 28.000** en **9 pagos** de **$3.112**                 |   |
+| _Primer pago al inscribirte, segundo en Junio_            |   |
 
 #### Podes cursar en uno de estos grupos:
 
 | **Jueves - Inicio 14/04**                                         | Días | Vacantes     |
 | ----------------------------------------------------------------- | ---- | ------------ |
-| 19:00 a 21:00 hrs. <mark style="color:red;">**3 Vacantes**</mark> |      | sin vacantes |
+| 19:00 a 21:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      | sin vacantes |
 | **Sábados - inicio 09/04**                                        |      |              |
-| 10:00 a 12:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |      | 5 de 16      |
+| 10:00 a 12:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      | 5 de 16      |
 
 ## [<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Desarrollo%20Full%20Stack%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
