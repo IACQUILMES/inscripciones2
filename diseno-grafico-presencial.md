@@ -6,7 +6,7 @@ description: PRESENCIAL + 36 CLASES DE 2 HORAS
 
 <mark style="background-color:orange;">**Inicia Abril 2022 - Finaliza Enero 2023**</mark>** **&#x20;
 
-<mark style="color:red;">**SIN VACANTES**</mark>
+<mark style="color:red;">**solo 4 vacantes**</mark>
 
 El diseño gráfico es una de las disciplinas más solicitadas a nivel mundial, es por eso que ideamos un curso donde aprenderás fundamentos del diseño, teoría y psicología del color, imagen publicitaria, identidad corporativa, diseño editorial, diseño de revista, creación de wireframe UX para app webs y sitios web; y junto a esto usarás las herramientas indispensables que todo diseñador necesita, las cuales son **Photoshop, Illustrator,  Indesign y Figma.**
 
@@ -41,13 +41,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábado - inicio 16-04**                                           | Lunes   | 8 de 8 |
-| ------------------------------------------------------------------- | ------- | ------ |
-| 14:00 a 16:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |         |        |
-| **Lunes - Inicio 11/04**                                            |         |        |
-| 17:00 a 19:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |         |        |
-| **Sábado - inicio 09-04**                                           | Sábado  | 8 de 8 |
-| 11:00 a 13:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |         |        |
+| **Sábado - inicio 16-04**                                         | Lunes   | 8 de 8 |
+| ----------------------------------------------------------------- | ------- | ------ |
+| 14:00 a 16:00 hrs. <mark style="color:red;">**2 Vacantes**</mark> |         |        |
+| **Lunes - Inicio 11/04**                                          |         |        |
+| 17:00 a 19:00 hrs. <mark style="color:red;">**1 Vacante**</mark>  |         |        |
+| **Sábado - inicio 09-04**                                         | Sábado  | 8 de 8 |
+| 11:00 a 13:00 hrs. <mark style="color:red;">**0 Vacantes**</mark> |         |        |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Dise%C3%B1o%20Gr%C3%A1fico%20Presencial%20y%20quiero%20inscribirme.)<mark style="color:green;"></mark>
 

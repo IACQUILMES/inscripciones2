@@ -37,9 +37,9 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábado - Inicio 16/04  **<mark style="color:red;">**SIN VACANTES**</mark>   |           |              |
+| **Sábado - Inicio 07/05  **<mark style="color:red;">**8 VACANTES**</mark>     |           |              |
 | ----------------------------------------------------------------------------- | --------- | ------------ |
-| 16:00 a 18:00 hrs                                                             |           |              |
+| 14:00 a 16:00 hrs                                                             |           |              |
 | **Jueves - Inicio 14/04 **<mark style="color:red;">**SIN VACANTES**</mark>    |           |              |
 | 18:30 a 20:30 hrs                                                             |           |              |
 | **Lunes - Inicio 11/04 **<mark style="color:red;">**SIN VACANTES**</mark>     |           |              |
@@ -50,6 +50,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | 10:00 a 12:00 hrs                                                             | Sábados   | sin vacantes |
 | 12:00 a 14:00 hrs                                                             | Sábados   | 4 de 10      |
 | 14:00 a 16:00 hrs                                                             |           |              |
+| 16:00 a 18:00 hrs                                                             |           |              |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Office%20Full%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
