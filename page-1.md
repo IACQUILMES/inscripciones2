@@ -6,8 +6,6 @@ description: 36 clases de 2 horas
 
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
-<mark style="color:red;">**SIN VACANTES**</mark>
-
 **Vas a aprender: Windows, Word, Excel, Power Point, Access, Outlook Express, Internet**. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos, base de datos, presentador, administrador de agenda, correo electrónico, y un sólido manejo de la navegación en Internet.&#x20;
 
 **Descarga el temario completo haciendo clic abajo**

@@ -39,13 +39,15 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11-04**                                             | Días | Vacantes     |
+| **Sábado - Inicio 07-05**                                            |      |              |
 | -------------------------------------------------------------------- | ---- | ------------ |
-| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>    |      | sin vacantes |
+| 10:00 a 12:00 hrs. <mark style="color:red;">**8 VACANTES**</mark>    |      |              |
 | **Jueves - Inicio 14-04**                                            |      |              |
-| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>     |      |              |
+| 18:30 a 20:30 hrs <mark style="color:red;">**1 Vacante**</mark>      |      |              |
+| **Lunes - Inicio 11-04**                                             | Días | Vacantes     |
+| 18:30 a 20:30 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      | sin vacantes |
 | **Sábado - Inicio 09-04**                                            |      |              |
-| 12:00 a 14:00 hrs. <mark style="color:red;">**2 VACANTES**</mark>    |      |              |
+| 12:00 a 14:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
 | 14::00 a 16:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |      |              |
 | 16:00 a 18:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
 
