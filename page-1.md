@@ -25,7 +25,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $6.000
-* **Precio del curso hasta el 10 de Abril $24.000**
+* **Precio del curso por promo $24.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
@@ -37,7 +37,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábado - Inicio 07/05  **<mark style="color:red;">**8 VACANTES**</mark>     |           |              |
+| **Sábado - Inicio 07/05  **<mark style="color:red;">**SIN VACANTES**</mark>   |           |              |
 | ----------------------------------------------------------------------------- | --------- | ------------ |
 | 14:00 a 16:00 hrs                                                             |           |              |
 | **Jueves - Inicio 14/04 **<mark style="color:red;">**SIN VACANTES**</mark>    |           |              |

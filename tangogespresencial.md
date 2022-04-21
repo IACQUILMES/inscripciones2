@@ -6,8 +6,6 @@ description: 30 clases de 2 horas
 
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
-<mark style="color:red;">**Solo 4 Vacantes**</mark>
-
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
 
 **Descarga el temario completo haciendo clic abajo**
@@ -39,9 +37,9 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Miércoles - Inicio 13/04 **<mark style="color:red;">**4 Vacantes**</mark> | Días | Vacantes     |
-| --------------------------------------------------------------------------- | ---- | ------------ |
-| 18:30 a 20:30 hrs.                                                          |      | sin vacantes |
+| **Miércoles - Inicio 13/04**  | Días | Vacantes     |
+| ----------------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs.            |      | sin vacantes |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Operador%20en%20Tango%20Gesti%C3%B3n%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
