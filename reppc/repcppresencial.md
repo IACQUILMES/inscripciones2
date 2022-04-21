@@ -27,7 +27,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $5.000
-* **Precio del curso hasta el 05 de Mayo $25.000**
+* **Precio del curso hasta el 10 de Abril $25.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
@@ -39,15 +39,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábado - Inicio 07-05**                                            |      |              |
-| -------------------------------------------------------------------- | ---- | ------------ |
-| 10:00 a 12:00 hrs. <mark style="color:red;">**3 VACANTES**</mark>    |      |              |
-| **Jueves - Inicio 14-04**                                            |      |              |
-| 18:30 a 20:30 hrs <mark style="color:red;">**SIN VACANTES**</mark>   |      |              |
 | **Lunes - Inicio 11-04**                                             | Días | Vacantes     |
-| 18:30 a 20:30 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      | sin vacantes |
+| -------------------------------------------------------------------- | ---- | ------------ |
+| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>    |      | sin vacantes |
+| **Jueves - Inicio 14-04**                                            |      |              |
+| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>     |      |              |
 | **Sábado - Inicio 09-04**                                            |      |              |
-| 12:00 a 14:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
+| 12:00 a 14:00 hrs. <mark style="color:red;">**2 VACANTES**</mark>    |      |              |
 | 14::00 a 16:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |      |              |
 | 16:00 a 18:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
 
