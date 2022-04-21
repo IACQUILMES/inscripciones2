@@ -4,6 +4,8 @@ description: 30 clases de 2 horas
 
 # Op. Sistema Tango Gestión Presencial
 
+<mark style="color:red;">**CANCELADO**</mark>
+
 **Inicia Abril 2022 - Finaliza Enero 2023**
 
 Aprende a usar el Sistema Tango, el más actualizado software de gestión contable y convertirte en un operador del sistema para trabajar en estudios contables, empresas y comercios. Al completar este curso, el alumno conocerá las herramientas para la parametrización de una empresa y la operación completa de los módulos compras, ventas, stock, fondos y sueldos.
