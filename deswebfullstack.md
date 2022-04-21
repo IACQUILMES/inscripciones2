@@ -31,7 +31,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $36.000
 * Desc. por promo $8.000
-* **Precio del curso hasta el 10 de Abril  $28.000**
+* **Precio del curso por promo  $28.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
@@ -46,11 +46,11 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Jueves - Inicio 14/04**                                         | Días | Vacantes     |
-| ----------------------------------------------------------------- | ---- | ------------ |
-| 19:00 a 21:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      | sin vacantes |
-| **Sábados - inicio 09/04**                                        |      |              |
-| 10:00 a 12:00 hrs. <mark style="color:red;">**1 Vacantes**</mark> |      | 5 de 16      |
+| **Jueves - Inicio 14/04**                                           | Días | Vacantes     |
+| ------------------------------------------------------------------- | ---- | ------------ |
+| 19:00 a 21:00 hrs. <mark style="color:red;">**1 Vacantes**</mark>   |      | sin vacantes |
+| **Sábados - inicio 09/04**                                          |      |              |
+| 10:00 a 12:00 hrs. <mark style="color:red;">**Sin Vacantes**</mark> |      | 5 de 16      |
 
 ## [<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Desarrollo%20Full%20Stack%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
