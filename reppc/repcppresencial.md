@@ -27,7 +27,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $30.000
 * Desc. por promo $5.000
-* **Precio del curso hasta el 10 de Abril $25.000**
+* **Precio del curso hasta el 05 de Mayo $25.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
@@ -35,19 +35,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | <mark style="background-color:orange;">**Plan I**</mark> |   |
 | -------------------------------------------------------- | - |
 | **$ 25.000** en **7 pagos** de **$3.572**                |   |
-| _Primer pago al inscribirte, segundo en Mayo_            |   |
+| _Primer pago al inscribirte, segundo en Junio_           |   |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Lunes - Inicio 11-04**                                             | Días | Vacantes     |
-| -------------------------------------------------------------------- | ---- | ------------ |
-| 18:30 a 20:30 hrs. <mark style="color:red;">**3 Vacantes**</mark>    |      | sin vacantes |
-| **Jueves - Inicio 14-04**                                            |      |              |
-| 18:30 a 20:30 hrs <mark style="color:red;">**3 Vacantes**</mark>     |      |              |
-| **Sábado - Inicio 09-04**                                            |      |              |
-| 12:00 a 14:00 hrs. <mark style="color:red;">**2 VACANTES**</mark>    |      |              |
-| 14::00 a 16:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark> |      |              |
-| 16:00 a 18:00 hrs. <mark style="color:red;">**SIN VACANTES**</mark>  |      |              |
+| **Martes - Inicio 21-06**                                        |   |   |
+| ---------------------------------------------------------------- | - | - |
+| 18:30 a 20:30 hrs <mark style="color:red;">**8 VACANTES**</mark> |   |   |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
