@@ -16,7 +16,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**La cursada va a ser mixta: la teoría se dictará de forma online en vivo por Zoom y las prácticas serán en grupos reducidos  en nuestro Instituto de Quilmes centro.** **¿Cómo?, si** **por ejemplo elegís cursar un sábado tendrás algunos sábados clases online y otros prácticas en el Instituto.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**La cursada va a ser mixta: ¿Cómo? vas a cursar algunos martes clases teóricas de forma online en vivo por Zoom de 18: A 20;30 hrs , y otros martes cursas de 19 a 21 hrs la parte práctica en en nuestro Instituto de Quilmes centro.** **.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
@@ -39,9 +39,10 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 
 #### Podes cursar en uno de estos grupos:
 
-| **Martes - Inicio 21-06**                                        |   |   |
-| ---------------------------------------------------------------- | - | - |
-| 18:30 a 20:30 hrs <mark style="color:red;">**8 VACANTES**</mark> |   |   |
+| **Martes - Inicio 21-06 **<mark style="color:red;">**4 VACANTES**</mark> |   |   |
+| ------------------------------------------------------------------------ | - | - |
+| 18:30 a 20:30 hrs teoría                                                 |   |   |
+| 19:00 a 21:00 hrs práctica                                               |   |   |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
