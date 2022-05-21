@@ -6,7 +6,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 24 clases de 2 h
 
 **Inicia 21 DE JUNIO 2022- Finaliza NOVIEMBRE 2022**&#x20;
 
-<mark style="color:red;">**SOLO 8 VACANTES**</mark>
+<mark style="color:red;">**SOLO 4 VACANTES**</mark>
 
 Este programa está diseñado para que incorpores las habilidades que te convertirán en un **Técnico en Armado y Reparación de PC**. Nos enfocamos en la metodología y práctica en todas las clases para que puedas desarrollar el conocimiento adecuado de manera eficiente, conociendo las herramientas para mantenerte bien informado y actualizado. Pensado para que aprendas a ensamblar desde el primer componente físico hasta dejar el PC completamente funcional con Windows, conociendo las problemáticas que pueden presentarse en el camino.
 
