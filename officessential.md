@@ -4,22 +4,21 @@ description: ONLINE EN VIVO + 24 clases de 2 horas.
 
 # OP. OFFICE ESSENTIAL & INTERNET
 
-## <mark style="color:red;">LAMENTABLEMENTE POR EL MOMENTO ESTE CURSO SE ENCUENTRA SUSPENDIDO</mark>
+**Inicio Sábado 18 de Junio - Finaliza 03 Dic. -  **<mark style="color:red;">**8 Vacantes**</mark>** **&#x20;
 
-**Inicia 28 de Junio 2021 - Finaliza 06 Dic. 2021 - Vacantes limitadas**
+_Las clases son **presenciales**._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
 
-_Las clases son **online en vivo**, además se graban todas las clases y  junto con apuntes + ejercicios se guardan dentro de un aula virtual para lxs alumnxs del curso._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
+**Vas a aprender: Windows, Word, Excel,** **Internet**. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de Windows y **las aplicaciones mas usadas de Microsoft Office como Word y Excel** para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
 
 **Se entrega certificación física con código QR con todos tus datos, docente, matrícula y notas.**&#x20;
 
-**Abonas por mes a través de Rapipago, Pago Fácil, crédito, débito ó transferencia. Usamos Mercadopago :)**&#x20;
+**Abonas por mes en nuestra sucursal o a través de Rapipago, Pago Fácil, crédito, débito ó transferencia bancaria. Usamos Mercadopago :)**&#x20;
 
 💥**PROMOS**💥&#x20;
 
 {% hint style="success" %}
-* Costo del curso $20.000
-* Desc. por promo $5.000
-* **Precio hasta el 10 de Junio $15.000**
+* Costo del curso $25.000
+* **Precio con desc. hasta el 15 de Junio $18.200**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
@@ -34,7 +33,7 @@ _Las clases son **online en vivo**, además se graban todas las clases y  junto 
 | ----- | ------------------ | -------- |
 | Lunes | 18:30 a 20:30 hrs. | 4        |
 
-**Vas a aprender: Windows, Word, Excel,** **Internet**. El curso esta diseñado para que el alumno adquiera las habilidades indispensables del uso de WIndows y Microsoft Office para estudio, profesión o trabajo dentro de una empresa. El alumno adquiere sólidas nociones operativas sobre el entorno de trabajo del Sistemas Operativo de última generación Windows 10 y la Suite Ofimática de Microsoft con su procesador de textos, planilla de cálculos y un sólido manejo de la navegación en Internet. Estos recursos son hoy los elementos básicos para cualquier tipo de trabajo, ya que simplifica todas las tareas a realizar.
+****
 
 #### Hace clic en temario para verlo completo 🧡
 
