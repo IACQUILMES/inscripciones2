@@ -18,14 +18,14 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 
 {% hint style="success" %}
 * Costo del curso $25.000
-* **Precio con desc. hasta el 15 de Junio $18.200**
+* **Precio con desc. hasta el 15 de Junio $19.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| PLAN   | PAGOS                                                         |
-| ------ | ------------------------------------------------------------- |
-| PLAN 2 | **$ 15.000** en **6 pagos** de **$2.500** - **Julio a Dic.**  |
+| Plan I                                                       |
+| ------------------------------------------------------------ |
+| **$19.000** en **8 pagos** de **$2.375** - **Julio a Dic.**  |
 
 #### Podes cursar en uno de estos grupos:
 
