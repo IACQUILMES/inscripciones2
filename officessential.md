@@ -1,8 +1,8 @@
 ---
-description: ONLINE EN VIVO + 24 clases de 2 horas.
+description: PRESENCIAL en 24 clases de 2 horas.
 ---
 
-# OP. OFFICE ESSENTIAL & INTERNET
+# OP. OFFICE ESSENTIAL
 
 **Inicio Sábado 18 de Junio - Finaliza 03 Dic. -  **<mark style="color:red;">**8 Vacantes**</mark>** **&#x20;
 

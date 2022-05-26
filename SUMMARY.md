@@ -13,7 +13,7 @@
 * [Op. Office Full Online](officefull.md)
 * [Op. Office Full Presencial](page-1.md)
 * [Community Manager & Marketing Digital](communityandmarketing.md)
-* [OP. OFFICE ESSENTIAL & INTERNET](officessential.md)
+* [OP. OFFICE ESSENTIAL](officessential.md)
 * [DES. JAVA WEB FULL STACK](desjava.md)
 * [SQL DATABASE ADMINISTRATOR](sql-database-administrator/README.md)
   * [Temario SQL DBA](sql-database-administrator/temario-sql-dba.md)
