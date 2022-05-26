@@ -27,9 +27,13 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 * **Descuento de $100 a partir de la cuota 2 abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark>     |
-| ------------------------------------------------------------ |
-| **$19.000** en **8 pagos** de **$2.375** - **Julio a Dic.**  |
+| <mark style="background-color:orange;">**Plan I**</mark>       |
+| -------------------------------------------------------------- |
+| **$19.000** en **8 pagos** de **$2.375** - **Junio a Enero.**  |
+| _Primer pago al inscribirte, el próximo en Julio_              |
+| <mark style="background-color:orange;">**Plan II**</mark>      |
+| **19.000** en **7 pagos** de **$2.715** - **Junio a Dic.**     |
+| _Primer pago al inscribirte, el próximo en Julio_              |
 
 #### Podes cursar en uno de estos grupos:
 
