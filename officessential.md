@@ -6,9 +6,9 @@ description: PRESENCIAL en 24 clases de 2 horas.
 
 **Inicio Sábado 18 de Junio - Finaliza 03 Dic. -  **<mark style="color:red;">**8 Vacantes**</mark>** **&#x20;
 
-_Las clases son **presenciales**._ **Cada clase se compone por teoría y práctica. Durante la clase realizas ejercicios.**&#x20;
+_Las clases son **presenciales**._ **Cada clase se compone por teoría y práctica.  Durante la clase realizas ejercicios.**&#x20;
 
-#### Hace clic en temario para verlo completo ⬇&#x20;
+#### <mark style="color:purple;">Clic en temario para verlo completo ⬇</mark>&#x20;
 
 ### [TEMARIO](https://app.gitbook.com/@iacquilmes/s/officessential/)
 
@@ -24,7 +24,7 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 * Costo del curso $25.000
 * **Precio con desc. hasta el 15 de Junio $19.000**
 * **Sin cargos de Inscripción**
-* **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
+* **Descuento de $100 a partir de la cuota 2 abonando del 1 al 5.**&#x20;
 {% endhint %}
 
 | <mark style="background-color:orange;">**Plan I**</mark>     |
@@ -37,7 +37,7 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 | --------------------------------------------------------------------------- |
 | 12:00 a 14:00 hrs                                                           |
 
-### [Hace clic para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
+### [Pulsa para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
 
 #### [Mirá todos nuestros cursos](./)
 
