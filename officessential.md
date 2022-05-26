@@ -29,9 +29,9 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 
 #### Podes cursar en uno de estos grupos:
 
-| Días  | horarios           | Vacantes |
-| ----- | ------------------ | -------- |
-| Lunes | 18:30 a 20:30 hrs. | 4        |
+| Sábados 10 a 12 hrs  | horarios           |
+| -------------------- | ------------------ |
+| Lunes                | 18:30 a 20:30 hrs. |
 
 ****
 
