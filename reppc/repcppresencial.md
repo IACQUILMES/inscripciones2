@@ -16,7 +16,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**La cursada va a ser mixta: ¿Cómo? vas a cursar algunos martes clases teóricas de forma online en vivo por Zoom de 18: A 20;30 hrs , y otros martes cursas de 19 a 21 hrs la parte práctica en en nuestro Instituto de Quilmes centro.** **.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**La cursada va a ser mixta: ¿Cómo? vas a cursar algunos martes clases teóricas de forma online en vivo por Zoom de 18:30 a 20:30 hrs , y otros martes cursas de 19 a 21 hrs la parte práctica en  nuestro Instituto de Quilmes centro.** **.** _Las clases son online en vivo, pero se graban y  junto con apuntes se guardan dentro de un aula virtual._
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
@@ -32,10 +32,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark> |   |
-| -------------------------------------------------------- | - |
-| **$ 25.000** en **7 pagos** de **$3.572**                |   |
-| _Primer pago al inscribirte, segundo en Junio_           |   |
+| <mark style="background-color:orange;">**Plan I**</mark>  |   |
+| --------------------------------------------------------- | - |
+| **$ 25.000** en **7 pagos** de **$3.572**                 |   |
+| _Primer pago al inscribirte, segundo en Julio_            |   |
+| <mark style="background-color:orange;">**Plan II**</mark> |   |
+| **$ 25.000** en **6 pagos** de **$4.167**                 |   |
+| _Primer pago al inscribirte, segundo en Julio_            |   |
 
 #### Podes cursar en uno de estos grupos:
 
