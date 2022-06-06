@@ -4,8 +4,6 @@ description: PRESENCIAL en 24 clases de 2 horas.
 
 # OP. OFFICE ESSENTIAL
 
-**Inicio Sábado 18 de Junio - Finaliza 03 Dic. -  **<mark style="color:red;">**4 Vacantes**</mark>** **&#x20;
-
 _Las clases son **presenciales**._ **Cada clase se compone por teoría y práctica.  Durante la clase realizas ejercicios.**&#x20;
 
 #### <mark style="color:purple;">Clic en temario para verlo completo ⬇</mark>&#x20;
