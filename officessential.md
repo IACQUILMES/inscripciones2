@@ -22,24 +22,26 @@ _Las clases son **presenciales**._ **Cada clase se compone por teoría y prácti
 
 {% hint style="success" %}
 * Costo del curso $25.000
-* **Precio con desc. hasta el 15 de Junio $19.000**
+* **Precio con desc. hasta el 20 de Junio $20.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 a partir de la cuota 2 abonando del 1 al 5.**&#x20;
 {% endhint %}
 
 | <mark style="background-color:orange;">**Plan I**</mark>       |
 | -------------------------------------------------------------- |
-| **$19.000** en **8 pagos** de **$2.375** - **Junio a Enero.**  |
+| **$20.000** en **8 pagos** de **$2.500** - **Junio a Enero.**  |
 | _Primer pago al inscribirte, el próximo en Julio_              |
 | <mark style="background-color:orange;">**Plan II**</mark>      |
-| **19.000** en **7 pagos** de **$2.715** - **Junio a Dic.**     |
+| **20.000** en **7 pagos** de **$2.858** - **Junio a Dic.**     |
 | _Primer pago al inscribirte, el próximo en Julio_              |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Sábados - Inicio 18/06   **<mark style="color:red;">**4 VACANTES**</mark> |
-| --------------------------------------------------------------------------- |
-| 12:00 a 14:00 hrs                                                           |
+| **Sábados - Inicio 25/06**                                          |
+| ------------------------------------------------------------------- |
+| 10:00 a 12:00 hrs  <mark style="color:red;">**4 VACANTES**</mark>   |
+| **Sábados - Inicio 18/06**                                          |
+| 12:00 a 14:00 hrs  <mark style="color:red;">**SIN VACANTES**</mark> |
 
 ### [Pulsa para inscribirte](http://wa.me/5491164622877?text=Me%20interesa%20el%20curso%20de%20Office%20Essential)
 
