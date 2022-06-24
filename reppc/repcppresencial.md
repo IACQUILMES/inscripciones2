@@ -41,14 +41,13 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | _Primer pago al inscribirte, segundo en Julio_                            |   |
 | <mark style="background-color:orange;">**Promo exclusiva AHORA 6**</mark> |   |
 | **$ 20.000** en **6 pagos** de **$3.334**                                 |   |
-|                                                                           |   |
+| _Únicamente con tarjeta de crédito_                                       |   |
 
 #### Podes cursar en uno de estos grupos:
 
-| **Martes - Inicio 21-06 **<mark style="color:red;">**4 VACANTES**</mark> |   |   |
-| ------------------------------------------------------------------------ | - | - |
-| 18:30 a 20:30 hrs teoría                                                 |   |   |
-| 19:00 a 21:00 hrs práctica                                               |   |   |
+| **Miércoles - Inicio 10-08 **<mark style="color:red;">**4 VACANTES**</mark> |   |   |
+| --------------------------------------------------------------------------- | - | - |
+| 19 a 21 hrs                                                                 |   |   |
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Hace clic para inscribirte</mark>](https://wa.me/+5491164622877?text=Hola,%20le%C3%AD%20toda%20la%20info%20del%20curso%20de%20Armado%20y%20Reparaci%C3%B3n%20de%20PC%20Presencial%20y%20quiero%20inscribirme)<mark style="color:green;"></mark>
 
