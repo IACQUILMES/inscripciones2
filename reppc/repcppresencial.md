@@ -1,10 +1,10 @@
 ---
-description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 24 clases de 2 horas.
+description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 20 clases de 2 horas.
 ---
 
 # Armado y Reparación de PC semipresencial
 
-**Inicia 21 DE JUNIO 2022- Finaliza NOVIEMBRE 2022**&#x20;
+**Inicia 10 DE AGOSTO 2022- Finaliza ENERO 2022**&#x20;
 
 <mark style="color:red;">**SOLO 4 VACANTES**</mark>
 
@@ -16,7 +16,7 @@ Este programa está diseñado para que incorpores las habilidades que te convert
 TEMARIO
 {% endfile %}
 
-**La cursada va a ser mixta: ¿Cómo? vas a cursar algunos martes clases teóricas de forma online en vivo por Zoom de 18: A 20;30 hrs , y otros martes cursas de 19 a 21 hrs la parte práctica en en nuestro Instituto de Quilmes centro.** **.** _Las clases online en vivo, se graban y  junto con apuntes se guardan dentro de un aula virtual para los/as alumnos/as del curso._ ****&#x20;
+**La cursada va a ser mixta e intercalada: ¿Cómo? Tendrás 2 clases teóricas de forma online en vivo por Zoom y 2 clases prácticas en nuestra sede Quilmes centro, así hasta cumplir con la cantidad de 20 clases.**  _Las clases son online en vivo, pero se graban y  junto con apuntes se guardan dentro de un aula virtual._
 
 **Se entrega certificación con código QR con todos tus datos de cursada. Si vivís lejos enviamos la certificación por correo OCA.**
 
@@ -25,17 +25,23 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 💥**PROMO**💥&#x20;
 
 {% hint style="success" %}
-* Costo del curso $30.000
-* Desc. por promo $5.000
-* **Precio del curso hasta el 15 de Junio $25.000**
+* Costo del curso $33.000
+* Desc. por promo $6.800
+* **Precio del curso hasta el 5 de Agosto $25.200**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
 
-| <mark style="background-color:orange;">**Plan I**</mark> |   |
-| -------------------------------------------------------- | - |
-| **$ 25.000** en **7 pagos** de **$3.572**                |   |
-| _Primer pago al inscribirte, segundo en Junio_           |   |
+| <mark style="background-color:orange;">**Plan I**</mark>                  |   |
+| ------------------------------------------------------------------------- | - |
+| **$ 25.200** en **7 pagos** de **$3.600**                                 |   |
+| _Primer pago al inscribirte, segundo en Julio_                            |   |
+| <mark style="background-color:orange;">**Plan II**</mark>                 |   |
+| **$ 25.200** en **6 pagos** de **$4.200**                                 |   |
+| _Primer pago al inscribirte, segundo en Julio_                            |   |
+| <mark style="background-color:orange;">**Promo exclusiva AHORA 6**</mark> |   |
+| **$ 20.000** en **6 pagos** de **$3.334**                                 |   |
+|                                                                           |   |
 
 #### Podes cursar en uno de estos grupos:
 
