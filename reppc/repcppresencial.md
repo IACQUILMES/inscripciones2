@@ -4,7 +4,7 @@ description: TEORÍA ONLINE EN VIVO + PRÁCTICAS PRESENCIALES + 20 clases de 2 h
 
 # Armado y Reparación de PC semipresencial
 
-**Inicia 10 DE AGOSTO 2022- Finaliza ENERO 2022**&#x20;
+**Inicia 10 DE AGOSTO 2022- Finaliza DICIEMBRE 2022**&#x20;
 
 <mark style="color:red;">**SOLO 4 VACANTES**</mark>
 
@@ -35,10 +35,10 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | <mark style="background-color:orange;">**Plan I**</mark>                  |   |
 | ------------------------------------------------------------------------- | - |
 | **$ 25.200** en **7 pagos** de **$3.600**                                 |   |
-| _Primer pago al inscribirte, segundo en Julio_                            |   |
+| _Primer pago al inscribirte, segundo en Agosto._                          |   |
 | <mark style="background-color:orange;">**Plan II**</mark>                 |   |
 | **$ 25.200** en **6 pagos** de **$4.200**                                 |   |
-| _Primer pago al inscribirte, segundo en Julio_                            |   |
+| _Primer pago al inscribirte, segundo en Agosto._                          |   |
 | <mark style="background-color:orange;">**Promo exclusiva AHORA 6**</mark> |   |
 | **$ 20.000** en **6 pagos** de **$3.334**                                 |   |
 | _Únicamente con tarjeta de crédito_                                       |   |
