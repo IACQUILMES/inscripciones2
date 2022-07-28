@@ -38,7 +38,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 | _Primer pago al inscribirte, segundo en Agosto._                          |   |
 | <mark style="background-color:orange;">**Plan II**</mark>                 |   |
 | **$ 25.200** en **6 pagos** de **$4.200**                                 |   |
-| _Primer pago al inscribirte, segundo en Agosto._                          |   |
+| _Primer pago al inscribirte, segundo en Septiembre_                       |   |
 | <mark style="background-color:orange;">**Promo exclusiva AHORA 6**</mark> |   |
 | **$ 20.000** en **6 pagos** de **$3.334**                                 |   |
 | _Únicamente con tarjeta de crédito_                                       |   |
