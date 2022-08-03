@@ -10,9 +10,7 @@ Vas a aprender sobre marketing digital y cómo aplicarlo en la creación de camp
 
 #### Descarga el temario completo haciendo clic abajo
 
-{% file src=".gitbook/assets/community-and-marketin-digital.pdf" %}
-TEMARIO
-{% endfile %}
+`not found`
 
 _Las clases son **online en vivo por Zoom**, además se graban y  junto con apuntes y ejercicios se guardan dentro de un aula virtual para los/as alumnos/as del curso._ **Cada clase se compone por teoría y práctica.**&#x20;
 
@@ -25,7 +23,7 @@ Todos los meses, te enviamos un link por **MercadoPago** para que abones en **ef
 {% hint style="success" %}
 * Costo del curso $26.000
 * Desc. por promo $10.000
-* **Precio del curso hasta el 10 de Abril $16.000**
+* **Precio del curso por promo $16.000**
 * **Sin cargos de Inscripción**
 * **Descuento de $100 en cada pago abonando del 1 al 5.**&#x20;
 {% endhint %}
